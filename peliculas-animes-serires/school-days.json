@@ -1,0 +1,25 @@
+{
+  "nombre": "Maou Gakuin no Futekigousha",
+  "sinopsis": "A pesar de su apetito por la destrucción, incluso los reyes demonio se cansan de la sangre y el caos en algunas veces. Cuando Anoth reencarna con la esperanza de una vida más pacífica, termina yendo a una escuela con sus descendientes en su viejo castillo 2,000 años después. Pero con la magia desapareciendo en esta nueva era, y Anoth conservando la suya, ¿quién podrá hacerle frente?!",
+  "fondo": "https://image.tmdb.org/t/p/original/moDlQIjzGmEKM5mHlmZJEtZz4ZI.jpg",
+  "meta": [
+    "⭐ 7.34/10",
+    "📅 4 de Julio de 2020",
+    "•Anime •Drama",
+    "📺 Finalizado"
+  ],
+  "episodios": [
+    {
+      "titulo": "El rey demonio reencarna",
+      "episodio": 1,
+      "imagen": "https://image-url.com/ep1.jpg",
+      "enlace": "https://ejemplo.com/ver/ep1"
+    },
+    {
+      "titulo": "Despertar del caos",
+      "episodio": 2,
+      "imagen": "https://image-url.com/ep2.jpg",
+      "enlace": "https://ejemplo.com/ver/ep2"
+    }
+  ]
+}
