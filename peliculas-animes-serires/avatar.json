@@ -1,0 +1,85 @@
+{
+  "nombre": "Übel Blatt",
+  "sinopsis": "Catorce guerreros partieron para detener una invasión, pero solo siete volvieron. Tres murieron por el camino, cuatro fueron asesinados y nombrados traidores. Pero los verdaderos traidores fueron los Siete Héroes, quienes querían llevarse todo el mérito. Ascheriit fue una de sus cuatro víctimas. Veinte años después, vuelve para vengarse",
+  "fondo": "https://image.tmdb.org/t/p/original/rtFYv6dXv3tiM3I0P2BBPML3Ch.jpg",
+  "meta": [
+    "⭐ 6.80/10",
+    "📅 2025",
+    "•Animación •Action & Adventure •Drama •Sci-Fi & Fantasy",
+    "📺 En emisión"
+  ],
+  "episodios": [
+    {
+      "titulo": "Durch Bruch (La brecha)",
+      "episodio": 1,
+      "imagen": "https://image.tmdb.org/t/p/w640_and_h360_bestv2/88KS3CmGGINIAGrE0LaV15JXgbB.jpg",
+      "enlace": "https://dhcplay.com/e/yi1ab1b4z3n"
+    },
+    {
+      "titulo": "Unter Morgen Monde (Bajo las lunas del alba)",
+      "episodio": 2,
+      "imagen": "https://image.tmdb.org/t/p/w640_and_h360_bestv2/xEcTQYdJzGhGR4LOPEIVETP3paj.jpg",
+      "enlace": "https://dhcplay.com/e/qek0w87onzx7"
+    },
+    {
+      "titulo": "Langer Regen (Lluvia prolongada)",
+      "episodio": 3,
+      "imagen": "https://image.tmdb.org/t/p/w640_and_h360_bestv2/bVZ9NaF1ZpcDVTAXIc9kLlFNfNp.jpg",
+      "enlace": "https://dhcplay.com/e/mu0c15i18whu"
+    },
+    {
+      "titulo": "Köinzell",
+      "episodio": 4,
+      "imagen": "https://image.tmdb.org/t/p/w640_and_h360_bestv2/yHL7iuei0kwgLAmEzzycazeICdd.jpg",
+      "enlace": "https://dhcplay.com/e/uidshsc115jb"
+    },
+    {
+      "titulo": "Die Burg vom Helden (El castillo del héroe)",
+      "episodio": 5,
+      "imagen": "https://image.tmdb.org/t/p/w640_and_h360_bestv2/7wKDjl1NZvpmD5Oc7PZo12hKcjI.jpg",
+      "enlace": "https://dhcplay.com/e/j4g682kl2l6c"
+    },
+    {
+      "titulo": "Schtemwölech",
+      "episodio": 6,
+      "imagen": "https://image.tmdb.org/t/p/w640_and_h360_bestv2/zKUtZCxRFFFiCZMQ8hwkrlhnLkZ.jpg",
+      "enlace": "https://dhcplay.com/e/38bu2pgtifv3"
+    },
+    {
+      "titulo": "Der leere Sarg (El ataúd vacío)",
+      "episodio": 7,
+      "imagen": "https://image.tmdb.org/t/p/w640_and_h360_bestv2/biJbh2tmhm3tVt5q8RcJRgkXE4f.jpg",
+      "enlace": "https://dhcplay.com/e/2puv113t1tt3"
+    },
+    {
+      "titulo": "Der Heldmörder (El asesino de héroes)",
+      "episodio": 8,
+      "imagen": "https://image.tmdb.org/t/p/w640_and_h360_bestv2/694zNedCcB52AAX1cbkLAU8UujR.jpg",
+      "enlace": "https://dhcplay.com/e/4m0h52m4vhas"
+    },
+    {
+      "titulo": "Junge Blätter (Brotes verdes)",
+      "episodio": 9,
+      "imagen": "https://image.tmdb.org/t/p/w640_and_h360_bestv2/zXG0DHz1rcfZJdgz3YglD1xhT9l.jpg",
+      "enlace": "https://dhcplay.com/e/b9pcfqybjfp9"
+    },
+    {
+      "titulo": "Gegenangriff (Contraataque)",
+      "episodio": 10,
+      "imagen": "https://image.tmdb.org/t/p/w640_and_h360_bestv2/3tRSdvp5G3lwEp7aBaIPxqgWyrQ.jpg",
+      "enlace": "https://dhcplay.com/e/mzx9qqffa5yw"
+    },
+    {
+      "titulo": "Gefühl zu… (Antes de los sentimientos)",
+      "episodio": 11,
+      "imagen": "https://image.tmdb.org/t/p/w640_and_h360_bestv2/gVMWvK4wG4XlaOQ4fwCUIEtOdLF.jpg",
+      "enlace": ""
+    },
+    {
+      "titulo": "Neues Schwert (Una espada nueva)",
+      "episodio": 12,
+      "imagen": "https://image.tmdb.org/t/p/w640_and_h360_bestv2/w7NVCzUh3iaUUyM0U6fERdpraW1.jpg",
+      "enlace": "https://dhcplay.com/e/qtm3fat4ud10"
+    }
+  ]
+}
