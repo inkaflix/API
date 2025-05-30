@@ -1,25 +1,85 @@
 {
-  "nombre": "school days",
-  "sinopsis": "Makoto Itou es un estudiante de secundaria que se ha enamorado de una chica que vió en el tren, su nombre es Kotonoha Katsura. Makoto se sienta en clase al lado de Sekai Saionji, quien se da cuenta de su amor por Kotonoha y decide ayudarle a conquistarla. Sekai consigue unirlos, pero se da cuenta de que a ella también le gustaba Makoto y en la parada del tren, antes de marcharse le besa. La historia trata sobre éste triángulo amoroso y demás historias de los compañeros de clase",
-  "fondo": "https://image.tmdb.org/t/p/original/moDlQIjzGmEKM5mHlmZJEtZz4ZI.jpg",
+  "nombre": "School Days",
+  "sinopsis": "Makoto Itou se enamora de Kotonoha Katsura, pero su compañera Sekai Saionji también se interesa por él, creando un triángulo amoroso. La historia explora sus complicadas relaciones y las de sus compañeros.",
+  "fondo": "https://image.tmdb.org/t/p/original/hUiStKQC4dDSgvENR1YUMY2HUtg.jpg",
   "meta": [
-    "⭐ 7.34/10",
+    "⭐ 6.33/10",
     "📅 2007",
-    "•Anime •Drama",
+    "•Animación •Drama",
     "📺 Finalizado"
   ],
   "episodios": [
     {
-      "titulo": "Confession",
+      "titulo": "«Confesión»",
       "episodio": 1,
-      "imagen": "https://media.themoviedb.org/t/p/w640_and_h360_bestv2/iJQr5gWhEaiis6KJBxFcVWAlhfI.jpg",
+      "imagen": "https://image.tmdb.org/t/p/w640_and_h360_bestv2/iJQr5gWhEaiis6KJBxFcVWAlhfI.jpg",
       "enlace": "https://dhcplay.com/e/xm6ni2wfj6fa"
     },
     {
-      "titulo": "L distancia entre ellos",
+      "titulo": "«La distancia entre los dos»",
       "episodio": 2,
-      "imagen": "https://media.themoviedb.org/t/p/w640_and_h360_bestv2/wDwhn9JCKeZX7kX9OEmzSVsW1Xj.jpg",
+      "imagen": "https://image.tmdb.org/t/p/w640_and_h360_bestv2/wDwhn9JCKeZX7kX9OEmzSVsW1Xj.jpg",
       "enlace": "https://dhcplay.com/e/ygwr189eyers"
+    },
+    {
+      "titulo": "«Sentimientos Pasajeros»",
+      "episodio": 3,
+      "imagen": "https://image.tmdb.org/t/p/w640_and_h360_bestv2/vhpdZ5UN5HFkfMobvuTzP7BneZb.jpg",
+      "enlace": "https://dhcplay.com/e/zm9by7mr62hx"
+    },
+    {
+      "titulo": "«Inocencia»",
+      "episodio": 4,
+      "imagen": "https://image.tmdb.org/t/p/w640_and_h360_bestv2/tkq6olIoSrUWxL4b83c6xLkyhDj.jpg",
+      "enlace": "https://dhcplay.com/e/fomxkht5oih6"
+    },
+    {
+      "titulo": "«Onda»",
+      "episodio": 5,
+      "imagen": "https://image.tmdb.org/t/p/w640_and_h360_bestv2/5LrAyVd6LnDdvD8ZAKBbrCp8uJG.jpg",
+      "enlace": "https://dhcplay.com/e/a2ko2z9ptyb1"
+    },
+    {
+      "titulo": "«Relación revelada»",
+      "episodio": 6,
+      "imagen": "https://image.tmdb.org/t/p/w640_and_h360_bestv2/oKJZCswPrnGJzc8ANzTRZ7vhTRk.jpg",
+      "enlace": "https://dhcplay.com/e/bonz4xzm4rxd"
+    },
+    {
+      "titulo": "«Víspera del festival»",
+      "episodio": 7,
+      "imagen": "https://image.tmdb.org/t/p/w640_and_h360_bestv2/pFhuvZHnGMnWpWLa422Pim7OD9b.jpg",
+      "enlace": "https://dhcplay.com/e/88xcdrn6srsi"
+    },
+    {
+      "titulo": "«El festival escolar»",
+      "episodio": 8,
+      "imagen": "https://image.tmdb.org/t/p/w640_and_h360_bestv2/2cZFUOhLDlaJ35UNKQcbrz3ur3P.jpg",
+      "enlace": "https://dhcplay.com/e/doa837ugaakx"
+    },
+    {
+      "titulo": "«Después de la noche del festival.»",
+      "episodio": 9,
+      "imagen": "https://image.tmdb.org/t/p/w640_and_h360_bestv2/87ZA2x1IPHL5XOfjwnawpwQzOjU.jpg",
+      "enlace": "https://dhcplay.com/e/v2k4f0iih7ed"
+    },
+    {
+      "titulo": "«Mente y cuerpo»",
+      "episodio": 10,
+      "imagen": "https://image.tmdb.org/t/p/w640_and_h360_bestv2/2KAGusmsuZXsaakzlOXuTyeKjl7.jpg",
+      "enlace": "https://dhcplay.com/e/ysazzcng4rhx"
+    },
+    {
+      "titulo": "«Makoto es de todas»",
+      "episodio": 11,
+      "imagen": "https://image.tmdb.org/t/p/w640_and_h360_bestv2/sPK5MvXAp7uViXZ5Rhh0h0Y35qm.jpg",
+      "enlace": "https://dhcplay.com/e/0d02rozhevsy"
+    },
+    {
+      "titulo": "«School Days»",
+      "episodio": 12,
+      "imagen": "https://image.tmdb.org/t/p/w640_and_h360_bestv2/mIPvgWuFg4YcMkg6da353LudfEE.jpg",
+      "enlace": "https://dhcplay.com/e/gtg9mtp9cdxw"
     }
   ]
 }
