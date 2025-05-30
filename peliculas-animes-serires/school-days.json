@@ -10,16 +10,16 @@
   ],
   "episodios": [
     {
-      "titulo": "El rey demonio reencarna",
+      "titulo": "Confession",
       "episodio": 1,
-      "imagen": "https://image-url.com/ep1.jpg",
-      "enlace": "https://ejemplo.com/ver/ep1"
+      "imagen": "https://media.themoviedb.org/t/p/w640_and_h360_bestv2/iJQr5gWhEaiis6KJBxFcVWAlhfI.jpg",
+      "enlace": "https://dhcplay.com/e/xm6ni2wfj6fa"
     },
     {
-      "titulo": "Despertar del caos",
+      "titulo": "L distancia entre ellos",
       "episodio": 2,
-      "imagen": "https://image-url.com/ep2.jpg",
-      "enlace": "https://ejemplo.com/ver/ep2"
+      "imagen": "https://media.themoviedb.org/t/p/w640_and_h360_bestv2/wDwhn9JCKeZX7kX9OEmzSVsW1Xj.jpg",
+      "enlace": "https://dhcplay.com/e/ygwr189eyers"
     }
   ]
 }
