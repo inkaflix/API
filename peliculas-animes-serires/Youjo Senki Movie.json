@@ -1,12 +1,17 @@
 {
+  "titulo": "Youjo Senki Movie",
+  "genero": "Acción, Fantasía, Guerra",
+  "sinopsis": "El tiempo es UC 1926. El 203º Batallón de Magos Aéreos del Ejército Imperial dirigido por Tanya ha ganado la batalla contra los rezagados de la República...",
+  "imagen_fondo": "https://image.tmdb.org/t/p/original/dMcaQp4XfPK11bDeUyj2JOqEY8I.jpg",
+  "poster": "https://image.tmdb.org/t/p/original/1rNq5tdWXAb3L51RH5xrcOtJyJC.jpg",
   "servidores": [
     {
-      "nombre": "Servidor Gratis 1",
-      "url": "https://dhcplay.com/e/wawrlatglyet"
+      "nombre": "Servidor 1",
+      "url": "https://servidor1.com/ver"
     },
     {
-      "nombre": "Servidor Gratis 2",
-      "url": "https://dhcplay.com/e/wawrlatglyet"
+      "nombre": "Servidor 2",
+      "url": "https://servidor2.com/ver"
     }
   ]
 }
