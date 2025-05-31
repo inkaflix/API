@@ -1,0 +1,21 @@
+{
+  "titulo": "Ponyo en el acantilado",
+  "sinopsis": "La historia se centra en Sosuke, un niño de 5 años, y su relación con una princesa pez que ansía convertirse en un ser humano. Libre adaptación de \"La sirenita\" que obtuvo muy buena acogida de la crítica en el Festival de Venecia 2008.",
+  "imagen_fondo": "https://image.tmdb.org/t/p/original/shqLeIkqPAAXM8iT6wVDiXUYz1p.jpg",
+  "poster": "https://image.tmdb.org/t/p/original/nhp8r2zx4u6NfYRPISfVPE4AM6N.jpg",
+  "genero": [
+    "Animación",
+    "Fantasía",
+    "Familia"
+  ],
+  "servidores": [
+    {
+      "nombre": "Servidor 1",
+      "url": "https://dhcplay.com/e/tnbgobtkqq4q"
+    },
+    {
+      "nombre": "Servidor 2",
+      "url": "https://dhcplay.com/e/tnbgobtkqq4q"
+    }
+  ]
+}
