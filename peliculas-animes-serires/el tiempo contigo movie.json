@@ -1,0 +1,22 @@
+{
+  "titulo": "El tiempo contigo",
+  "sinopsis": "Tenki no Ko - En la actualidad, Tokio está experimentando lluvias que parecen interrumpir el ritmo habitual de todos los que viven allí sin fin. En medio de este aguacero aparentemente eterno llega la fugitiva estudiante de secundaria Hodaka Morishima, que lucha por mantenerse económicamente, terminando con un trabajo en una editorial de poca monta. Al mismo tiempo, la huérfana Hina Amano también se esfuerza por encontrar trabajo para mantenerse a sí misma y a su hermano menor.  Ambos destinos se entrelazan cuando Hodaka intenta rescatar a Hina de hombres sombríos, decidiendo huir juntos. Posteriormente, Hodaka descubre que Hina tiene un poder extraño pero sorprendente: la capacidad de llamar al sol cada vez que reza por él. Con el clima inusual de Tokio en mente, Hodaka ve el potencial de esta habilidad. Sugiere que Hina debería convertirse en una \"chica del sol\", alguien que despeje el cielo para las personas cuando más lo necesiten.",
+  "fondo": "https://image.tmdb.org/t/p/original/jFK8BOPL6ZeWyjMVWX8ajsTTinp.jpg",
+  "poster": "https://image.tmdb.org/t/p/original/18lF2eTWAO0tloyBW39fob5ALAW.jpg",
+  "genero": [
+    "Animación",
+    "Drama",
+    "Fantasía",
+    "Romance"
+  ],
+  "servidores": [
+    {
+      "nombre": "Servidor 1",
+      "url": "https://dhcplay.com/e/wzfxgrjgo5y3"
+    },
+    {
+      "nombre": "Servidor 2",
+      "url": "https://dhcplay.com/e/wzfxgrjgo5y3"
+    }
+  ]
+}
