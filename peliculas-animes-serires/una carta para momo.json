@@ -1,0 +1,19 @@
+{
+  "titulo": "Una carta para Momo",
+  "sinopsis": "Tras la muerte de su padre, Momo se muda con su madre a una remota isla. Mientras lucha con la incertidumbre de una carta inacabada de su padre, descubre un viejo libro en el ático, desencadenando eventos inesperados.",
+  "imagen_fondo": "https://image.tmdb.org/t/p/original/zcCZTeOTf65fNl9hsWhENW5zCKc.jpg",
+  "poster": "https://image.tmdb.org/t/p/original/AgxWsn5DZsNfv14x8PpOK8W1qfM.jpg",
+  "genero": [
+    "Comedia",
+    "Fantasía",
+    "Animación",
+    "Drama",
+    "Familia"
+  ],
+  "servidores": [
+    {
+      "nombre": "Servidor 1",
+      "url": "https://dhcplay.com/e/e7bjep904yaa"
+    }
+  ]
+}
