@@ -1,0 +1,45 @@
+{
+  "episodios_recientes": [
+    {
+      "titulo": "The Super Cube",
+      "episodio": "12",
+      "imagen": "https://example.com/thesupercube_ep12.jpg"
+    },
+    {
+      "titulo": "Enen no Shouboutai: S2",
+      "episodio": "3",
+      "imagen": "https://example.com/enen_shouboutai_s2_ep3.jpg"
+    }
+  ],
+  "animes_recientes": [
+    {
+      "titulo": "The Super Cube",
+      "imagen": "https://example.com/thesupercube.jpg"
+    },
+    {
+      "titulo": "Mahoutsukai no Yome",
+      "imagen": "https://example.com/mahoutsukai.jpg"
+    },
+    {
+      "titulo": "Tensei shitara Slime Datta Ken",
+      "imagen": "https://example.com/tensei_slime.jpg"
+    }
+  ],
+  "animes_latinos": [
+    {
+      "titulo": "Isshun de Chiryou shitemiru",
+      "capitulos": 6,
+      "imagen": "https://example.com/isshun.jpg"
+    },
+    {
+      "titulo": "Wind Breaker Season 2",
+      "capitulos": 6,
+      "imagen": "https://example.com/windbreaker2.jpg"
+    },
+    {
+      "titulo": "Kusuriya no Hitorigoto",
+      "capitulos": 18,
+      "imagen": "https://example.com/kusuriya.jpg"
+    }
+  ]
+}
