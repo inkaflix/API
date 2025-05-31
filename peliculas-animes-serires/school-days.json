@@ -2,7 +2,7 @@
   "titulo": "School Days",
   "poster": "https://image.tmdb.org/t/p/original/cBQEXNsxQrecTazuzwBIglWzKd6.jpg",
   "estado": "Finalizado",
-  "año": "2007",
+  "anio": "2007",
   "temporadas": 1,
   "rating": "6.3",
   "vistas": "",
@@ -20,7 +20,7 @@
       "servidores": [
         {
           "id": "xm6ni2wfj6fa",
-          "nombre": "Deltha",
+          "nombre": "Servidor",
           "url": "https://dhcplay.com/e/xm6ni2wfj6fa",
           "premium": false
         }
@@ -34,7 +34,7 @@
       "servidores": [
         {
           "id": "ygwr189eyers",
-          "nombre": "Deltha",
+          "nombre": "Servidor",
           "url": "https://dhcplay.com/e/ygwr189eyers",
           "premium": false
         }
@@ -48,7 +48,7 @@
       "servidores": [
         {
           "id": "zm9by7mr62hx",
-          "nombre": "Deltha",
+          "nombre": "Servidor",
           "url": "https://dhcplay.com/e/zm9by7mr62hx",
           "premium": false
         }
@@ -62,7 +62,7 @@
       "servidores": [
         {
           "id": "fomxkht5oih6",
-          "nombre": "Deltha",
+          "nombre": "Servidor",
           "url": "https://dhcplay.com/e/fomxkht5oih6",
           "premium": false
         }
@@ -76,7 +76,7 @@
       "servidores": [
         {
           "id": "a2ko2z9ptyb1",
-          "nombre": "Deltha",
+          "nombre": "Servidor",
           "url": "https://dhcplay.com/e/a2ko2z9ptyb1",
           "premium": false
         }
@@ -90,7 +90,7 @@
       "servidores": [
         {
           "id": "bonz4xzm4rxd",
-          "nombre": "Deltha",
+          "nombre": "Servidor",
           "url": "https://dhcplay.com/e/bonz4xzm4rxd",
           "premium": false
         }
@@ -104,7 +104,7 @@
       "servidores": [
         {
           "id": "88xcdrn6srsi",
-          "nombre": "Deltha",
+          "nombre": "Servidor",
           "url": "https://dhcplay.com/e/88xcdrn6srsi",
           "premium": false
         }
@@ -118,7 +118,7 @@
       "servidores": [
         {
           "id": "doa837ugaakx",
-          "nombre": "Deltha",
+          "nombre": "Servidor",
           "url": "https://dhcplay.com/e/doa837ugaakx",
           "premium": false
         }
@@ -132,7 +132,7 @@
       "servidores": [
         {
           "id": "v2k4f0iih7ed",
-          "nombre": "Deltha",
+          "nombre": "Servidor",
           "url": "https://dhcplay.com/e/v2k4f0iih7ed",
           "premium": false
         }
@@ -146,7 +146,7 @@
       "servidores": [
         {
           "id": "ysazzcng4rhx",
-          "nombre": "Deltha",
+          "nombre": "Servidor",
           "url": "https://dhcplay.com/e/ysazzcng4rhx",
           "premium": false
         }
@@ -160,7 +160,7 @@
       "servidores": [
         {
           "id": "0d02rozhevsy",
-          "nombre": "Deltha",
+          "nombre": "Servidor",
           "url": "https://dhcplay.com/e/0d02rozhevsy",
           "premium": false
         }
@@ -174,7 +174,7 @@
       "servidores": [
         {
           "id": "gtg9mtp9cdxw",
-          "nombre": "Deltha",
+          "nombre": "Servidor",
           "url": "https://dhcplay.com/e/gtg9mtp9cdxw",
           "premium": false
         }
