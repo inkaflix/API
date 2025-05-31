@@ -1,12 +1,12 @@
 {
-  "nombre": "Youjo Senki Movie",
-  "sinopsis": "Año 1926. El 203º Batallón de Magos Aéreos del Ejército Imperial dirigido por la Mayor Tanya Degurechaff ha ganado la batalla hacia el sur contra los rezagados de la República. Esperaban que se les dieran vacaciones después de regresar victoriosos, pero en cambio reciben órdenes especiales de la sede del personal tan pronto como llegan a casa. Se les dice que hubo signos de un despliegue a gran escala cerca de la frontera entre el Imperio y la Federación.",
-  "fondo": "https://image.tmdb.org/t/p/original/dMcaQp4XfPK11bDeUyj2JOqEY8I.jpg",
-  "meta": [
-    "⭐ 8.05/10",
-    "📅 2019",
-    "•Animación •Acción •Bélica •Fantasía",
-    "🎬 Película"
-  ],
-  "enlace": "https://dhcplay.com/e/wawrlatglyet"
+  "servidores": [
+    {
+      "nombre": "Servidor Gratis 1",
+      "url": "https://dhcplay.com/e/wawrlatglyet"
+    },
+    {
+      "nombre": "Servidor Gratis 2",
+      "url": "https://dhcplay.com/e/wawrlatglyet"
+    }
+  ]
 }
