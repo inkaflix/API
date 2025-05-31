@@ -1,0 +1,20 @@
+{
+  "titulo": "The Price of Desire",
+  "servidores": [
+    {
+      "nombre": "Servidor Gratis 1",
+      "url": "https://gratis1.com/ver/thepriceofdesire",
+      "premium": false
+    },
+    {
+      "nombre": "Servidor Gratis 2",
+      "url": "https://gratis2.com/ver/thepriceofdesire",
+      "premium": false
+    },
+    {
+      "nombre": "Servidor Premium 4K",
+      "url": "https://premiumstream.com/4k/thepriceofdesire",
+      "premium": true
+    }
+  ]
+}
