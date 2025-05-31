@@ -1,5 +1,14 @@
 {
   "items": [
-
+{
+  "titulo": "Ash",
+  "enlace": "https://playerinka.blogspot.com/p/ash.html",
+  "imagen": "https://image.tmdb.org/t/p/w300/s5nhrZNvS148LRcz1qLn4pAmIRt.jpg"
+},
+{
+  "titulo": "Alba del desierto",
+  "enlace": "https://playerinka.blogspot.com/p/alba-del-destino.html",
+  "imagen": "https://image.tmdb.org/t/p/w300/vJxo8xxVnSaPAf9EdkjAfKwmoQK.jpg"
+},
   ]
 }
