@@ -1,0 +1,25 @@
+{
+  "titulo": "En el bosque de la luz de las luciérnagas",
+  "sinopsis": "De niña, Hotaru se pierde en un bosque y conoce a Gin, un joven enmascarado que no puede ser tocado por humanos debido a un hechizo. Cada verano, ella regresa para verlo, creando un vínculo especial que desafía el paso del tiempo.",
+  "imagen_fondo": "https://image.tmdb.org/t/p/original/qknxyRgP6UTmwJ4B9tDAmzHMq7u.jpg",
+  "poster": "https://image.tmdb.org/t/p/original/xE763r1dnYji0gOxrSxBtzyouSf.jpg",
+  "genero": [
+    "Romance",
+    "Animación",
+    "Fantasía"
+  ],
+  "servidores": [
+    {
+      "nombre": "Servidor 1",
+      "url": "https://dhcplay.com/e/88hhbzb0nle3"
+    },
+    {
+      "nombre": "Servidor 2",
+      "url": "https://dhcplay.com/e/88hhbzb0nle3"
+    },
+    {
+      "nombre": "Servidor 3",
+      "url": "https://dhcplay.com/e/88hhbzb0nle3"
+    }
+  ]
+}
