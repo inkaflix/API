@@ -1,85 +1,184 @@
 {
-  "nombre": "School Days",
-  "sinopsis": "Makoto Itou se enamora de Kotonoha Katsura, pero su compañera Sekai Saionji también se interesa por él, creando un triángulo amoroso. La historia explora sus complicadas relaciones y las de sus compañeros.",
-  "fondo": "https://image.tmdb.org/t/p/original/hUiStKQC4dDSgvENR1YUMY2HUtg.jpg",
-  "meta": [
-    "⭐ 6.33/10",
-    "📅 2007",
-    "•Animación •Drama",
-    "📺 Finalizado"
+  "titulo": "School Days",
+  "poster": "https://image.tmdb.org/t/p/original/cBQEXNsxQrecTazuzwBIglWzKd6.jpg",
+  "estado": "Finalizado",
+  "año": "2007",
+  "temporadas": 1,
+  "rating": "6.3",
+  "vistas": "",
+  "generos": [
+    "Animación",
+    "Drama"
   ],
-  "episodios": [
+  "sinopsis": "Makoto Itou se enamora de Kotonoha Katsura, pero su compañera Sekai Saionji también se interesa por él, creando un triángulo amoroso. La historia explora sus complicadas relaciones y las de sus compañeros.",
+  "capitulos": [
     {
+      "numero": 1,
       "titulo": "«Confesión»",
-      "episodio": 1,
-      "imagen": "https://image.tmdb.org/t/p/w640_and_h360_bestv2/iJQr5gWhEaiis6KJBxFcVWAlhfI.jpg",
-      "enlace": "https://dhcplay.com/e/xm6ni2wfj6fa"
+      "descripcion": "Después de ver la foto de Kotonoha en el celular de Makoto, Sekai decide ayudarlo con Kotonoha almorzando juntos. Al día siguiente, Makoto confiesa a Kotonoha sus sentimientos y ella acepta. Después, mientras Makoto agradece a Sekai por su ayuda, y al preguntarle cómo devolverle el favor, Sekai lo besa, corre dentro del tren y grita \"Buena suerte\" dejando a Makoto deslumbrado.",
+      "imagen": "https://media.themoviedb.org/t/p/w500/iJQr5gWhEaiis6KJBxFcVWAlhfI.jpg",
+      "servidores": [
+        {
+          "id": "xm6ni2wfj6fa",
+          "nombre": "Deltha",
+          "url": "https://dhcplay.com/e/xm6ni2wfj6fa",
+          "premium": false
+        }
+      ]
     },
     {
+      "numero": 2,
       "titulo": "«La distancia entre los dos»",
-      "episodio": 2,
-      "imagen": "https://image.tmdb.org/t/p/w640_and_h360_bestv2/wDwhn9JCKeZX7kX9OEmzSVsW1Xj.jpg",
-      "enlace": "https://dhcplay.com/e/ygwr189eyers"
+      "descripcion": "Makoto lee una \"guía de amor\" mientras espera a Kotonoha para su primera cita. Cuando ellos parten, Makoto intenta besar a Kotonoha pero la puerta del metro los bloquea. Makoto le dice a Sekai cómo le fue en el día y lo llama un idiota por lo que él hizo. Ella da a Makoto dos boletos de cine, para que él invite a Kotonoha en su siguiente cita. Makoto se sobrepasa nuevamente y la relación entre Kotonoha empieza a desmoronarse. Sekai le dice entonces a Kotonoha que él está yendo muy rápido y ella debe intentar conocerlo bien. El episodio culmina con un beso entre Makoto y Kotonoha con la vigilancia de Sekai.",
+      "imagen": "https://media.themoviedb.org/t/p/w500/wDwhn9JCKeZX7kX9OEmzSVsW1Xj.jpg",
+      "servidores": [
+        {
+          "id": "ygwr189eyers",
+          "nombre": "Deltha",
+          "url": "https://dhcplay.com/e/ygwr189eyers",
+          "premium": false
+        }
+      ]
     },
     {
+      "numero": 3,
       "titulo": "«Sentimientos Pasajeros»",
-      "episodio": 3,
-      "imagen": "https://image.tmdb.org/t/p/w640_and_h360_bestv2/vhpdZ5UN5HFkfMobvuTzP7BneZb.jpg",
-      "enlace": "https://dhcplay.com/e/zm9by7mr62hx"
+      "descripcion": "En la escuela, Kotonoha le dice a Makoto que Kokoro -su hermana menor- quiere verlo, y le pregunta si él puede ir a su casa el domingo. Makoto acepta la invitación alegremente. Después mientras ellos están tomando el tren, Hikari ve a la pareja juntos y piensa que Makoto está jugando con Sekai, y le envía un mensaje de texto que dice que su novio está coqueteando con otras muchachas. Sekai explica rápidamente que ellos son sólo amigos y nada más. El domingo, después de que Makoto va a la casa de Kotonoha, él le dice por teléfono a Sekai que está cansado de estar con Kotonoha.",
+      "imagen": "https://media.themoviedb.org/t/p/w500/vhpdZ5UN5HFkfMobvuTzP7BneZb.jpg",
+      "servidores": [
+        {
+          "id": "zm9by7mr62hx",
+          "nombre": "Deltha",
+          "url": "https://dhcplay.com/e/zm9by7mr62hx",
+          "premium": false
+        }
+      ]
     },
     {
+      "numero": 4,
       "titulo": "«Inocencia»",
-      "episodio": 4,
-      "imagen": "https://image.tmdb.org/t/p/w640_and_h360_bestv2/tkq6olIoSrUWxL4b83c6xLkyhDj.jpg",
-      "enlace": "https://dhcplay.com/e/fomxkht5oih6"
+      "descripcion": "Mientras Kotonoha está estudiando, su hermana Kokoro entra y le pregunta si ella ha besado ya a Makoto. Kotonoha evita contestar, pero termina negándolo. En la escuela, Sekai habla con sus amigas sobre varias cosas, aunque sólo está pensando sobre el beso que ella compartió con Makoto. En el tejado, Makoto y Kotonoha están compartiendo un beso profundo, cuando Makoto toca los pechos de Kotonoha, causándole vergüenza y ella se aleja. Ella habla después con Sekai esa noche, Sekai le explica que las parejas hacen eso todo el tiempo, pero Makoto es de hecho muy rápido para realizarlas. En la escuela al siguiente día, Sekai está de acuerdo en ayudar a Makoto permitiéndole que \"practique\" en ella, yendo al karaoke y otros lugares, acabando en el tejado escolar.",
+      "imagen": "https://media.themoviedb.org/t/p/w500/tkq6olIoSrUWxL4b83c6xLkyhDj.jpg",
+      "servidores": [
+        {
+          "id": "fomxkht5oih6",
+          "nombre": "Deltha",
+          "url": "https://dhcplay.com/e/fomxkht5oih6",
+          "premium": false
+        }
+      ]
     },
     {
+      "numero": 5,
       "titulo": "«Onda»",
-      "episodio": 5,
-      "imagen": "https://image.tmdb.org/t/p/w640_and_h360_bestv2/5LrAyVd6LnDdvD8ZAKBbrCp8uJG.jpg",
-      "enlace": "https://dhcplay.com/e/a2ko2z9ptyb1"
+      "descripcion": "Kotonoha, Makoto, Sekai y sus compañeros van a la piscina local. Hikari le pide a Makoto que le dé un boleto a Taisuke porque ella es demasiado tímida para hacerlo. En la piscina, Makoto le enseña a Kotonoha cómo nadar; Taisuke está con Hikari y Setsuna, mientras Sekai nada sola. Makoto está completamente enamorado de Sekai, diciéndole que quiere estar con ella y no con Kotonoha.",
+      "imagen": "https://media.themoviedb.org/t/p/w500/5LrAyVd6LnDdvD8ZAKBbrCp8uJG.jpg",
+      "servidores": [
+        {
+          "id": "a2ko2z9ptyb1",
+          "nombre": "Deltha",
+          "url": "https://dhcplay.com/e/a2ko2z9ptyb1",
+          "premium": false
+        }
+      ]
     },
     {
+      "numero": 6,
       "titulo": "«Relación revelada»",
-      "episodio": 6,
-      "imagen": "https://image.tmdb.org/t/p/w640_and_h360_bestv2/oKJZCswPrnGJzc8ANzTRZ7vhTRk.jpg",
-      "enlace": "https://dhcplay.com/e/bonz4xzm4rxd"
+      "descripcion": "Sekai y Makoto planean decirle a Kotonoha sobre lo que estuvieron haciendo a su espalda, pero a última hora deciden no hacerlo. Setsuna está preocupada por Sekai, porque sabe que ella y Makoto están juntos, pero Sekai no parece muy feliz con eso. Setsuna le pregunta a Sekai si Makoto había cortado con Kotonoha. Sekai le miente diciéndole que si, pero luego Setsuna descubre la mentira. Otome planea confesarle su amor a Makoto, pero Kotonoha no sabe que Makoto ya no la ama y le dice a Otome que ella es su novia.",
+      "imagen": "https://media.themoviedb.org/t/p/w500/oKJZCswPrnGJzc8ANzTRZ7vhTRk.jpg",
+      "servidores": [
+        {
+          "id": "bonz4xzm4rxd",
+          "nombre": "Deltha",
+          "url": "https://dhcplay.com/e/bonz4xzm4rxd",
+          "premium": false
+        }
+      ]
     },
     {
+      "numero": 7,
       "titulo": "«Víspera del festival»",
-      "episodio": 7,
-      "imagen": "https://image.tmdb.org/t/p/w640_and_h360_bestv2/pFhuvZHnGMnWpWLa422Pim7OD9b.jpg",
-      "enlace": "https://dhcplay.com/e/88xcdrn6srsi"
+      "descripcion": "Kotonoha se rehúsa a creer que Makoto la estaba engañando y sigue creyendo que la sigue amando. Mientras tanto, Tanaka, la otra representante de la clase además de Setsuna, se ha roto el brazo. Otome y sus amigas encargan a Kotonoha conseguir más material para la construcción del \"Salón Oculto\". Algunas chicas del club Basketball obtuvieron una cámara y el equipo necesario para filmar lo que pasara en el \"Salón Oculto\". Setsuna no sabía que Sekai le había mentido sobre que Kotonoha y Makoto habían cortado, diciéndole lo mismo a todo el mundo y que también había configurado el celular de Makoto para que no recibiera llamadas y mensajes de texto de Kotonoha.",
+      "imagen": "https://media.themoviedb.org/t/p/w500/pFhuvZHnGMnWpWLa422Pim7OD9b.jpg",
+      "servidores": [
+        {
+          "id": "88xcdrn6srsi",
+          "nombre": "Deltha",
+          "url": "https://dhcplay.com/e/88xcdrn6srsi",
+          "premium": false
+        }
+      ]
     },
     {
+      "numero": 8,
       "titulo": "«El festival escolar»",
-      "episodio": 8,
-      "imagen": "https://image.tmdb.org/t/p/w640_and_h360_bestv2/2cZFUOhLDlaJ35UNKQcbrz3ur3P.jpg",
-      "enlace": "https://dhcplay.com/e/doa837ugaakx"
+      "descripcion": "Sekai no asiste a la escuela y se queda en su casa pensando sobre su encuentro con Kotonoha la noche anterior. Ese día, Makoto va a visitar a Sekai y le cuenta que lo que estuvo haciendo no estaba mal, pero Sekai le sigue diciendo que engañar a Kotonoha en la noche del festival no era lo correcto. Luego, Kotonoha llega a la estación del tren y ve a Makoto, se sienta junto a él y le pregunta si quiere tocarle el pecho con sus manos.",
+      "imagen": "https://media.themoviedb.org/t/p/w500/2cZFUOhLDlaJ35UNKQcbrz3ur3P.jpg",
+      "servidores": [
+        {
+          "id": "doa837ugaakx",
+          "nombre": "Deltha",
+          "url": "https://dhcplay.com/e/doa837ugaakx",
+          "premium": false
+        }
+      ]
     },
     {
+      "numero": 9,
       "titulo": "«Después de la noche del festival.»",
-      "episodio": 9,
-      "imagen": "https://image.tmdb.org/t/p/w640_and_h360_bestv2/87ZA2x1IPHL5XOfjwnawpwQzOjU.jpg",
-      "enlace": "https://dhcplay.com/e/v2k4f0iih7ed"
+      "descripcion": "Setsuna y Kotonoha tienen una pequeña discusión mientras Makoto estaba en la cocina con Sekai prestando cero atención a Kotonoha. Cuando Makoto finalmente revisa su celular, encuentra unos 20 mensajes de Kotonoha quien ha estado cuidando el \"Salón Oculto\" de su clase, que es utilizado para tener relaciones sexuales. Cuando se decide ir a ver a Kotonoha, Makoto es detenido por Otome quien le pregunta si ya había conseguido pareja para el baile pero justo Sekai interrumpe. De vuelta en la cocina, Sekai le pregunta si bailara con ella en el festival. Otome se encuentra con Taisuke, quien ha sido otra vez rebotado por Kotonoha y empiezan a hablar sobre la débil relación de Makoto con Kotonoha y ambos se proponen seguir adelante para cumplir sus objetivos (Taisuke con Kotonoha y Otome con Makoto) y se retiran. Aprovechando el que Kotonoha no está cuidando el \"Salón Oculto\", Otome lleva a Makoto y tienen relaciones sexuales.",
+      "imagen": "https://media.themoviedb.org/t/p/w500/87ZA2x1IPHL5XOfjwnawpwQzOjU.jpg",
+      "servidores": [
+        {
+          "id": "v2k4f0iih7ed",
+          "nombre": "Deltha",
+          "url": "https://dhcplay.com/e/v2k4f0iih7ed",
+          "premium": false
+        }
+      ]
     },
     {
+      "numero": 10,
       "titulo": "«Mente y cuerpo»",
-      "episodio": 10,
-      "imagen": "https://image.tmdb.org/t/p/w640_and_h360_bestv2/2KAGusmsuZXsaakzlOXuTyeKjl7.jpg",
-      "enlace": "https://dhcplay.com/e/ysazzcng4rhx"
+      "descripcion": "Después de ser abusada sexualmente por Taisuke, Kotonoha observa a Makoto bailando y besándose con Sekai en la fogata y rompe en llanto. Al día siguiente en el tren, Kotonoha mira a Makoto pero no dice nada sobre lo pasado con Taisuke la noche anterior. Taisuke invita a salir a Kotonoha pero es rebotado diciéndole que es la novia de Makoto. Mientras ella tira la basura que había quedado del festival, corre hacia Setsuna y Makoto. Setsuna lo fuerza a romper con Kotonoha en ese mismo momento, pero Kotonoha amenaza con contarle a Makoto que lo besó mientras dormía, pero antes de que pasara eso Setsuna lo besa en la boca y le dice que no se interponga más entre ellos que están enamorados.",
+      "imagen": "https://media.themoviedb.org/t/p/w500/2KAGusmsuZXsaakzlOXuTyeKjl7.jpg",
+      "servidores": [
+        {
+          "id": "ysazzcng4rhx",
+          "nombre": "Deltha",
+          "url": "https://dhcplay.com/e/ysazzcng4rhx",
+          "premium": false
+        }
+      ]
     },
     {
+      "numero": 11,
       "titulo": "«Makoto es de todas»",
-      "episodio": 11,
-      "imagen": "https://image.tmdb.org/t/p/w640_and_h360_bestv2/sPK5MvXAp7uViXZ5Rhh0h0Y35qm.jpg",
-      "enlace": "https://dhcplay.com/e/0d02rozhevsy"
+      "descripcion": "Al comienzo del capítulo se puede observar a los personajes abrumados por lo ocurrido en el Festival Cultural, Sekai es la más afectada por la despedida de Setsuna y la ausencia de Makoto, éste aprovecha la ausencia de su actual novia para tener relaciones con Hikari en distintas ocasiones y con las amigas de Otome (Natsumi, Minami y Kumi) formando un cuarteto, por su lado Otome busca desesperadamente a Makoto, por lo que sucedió en el festival. Mientras tanto Kotonoha sigue abrumada pensando sólo en Makoto, su mirada psicótica no desaparece aún. Para la mitad del episodio sucede lo peor (en la situación de Makoto), Sekai le revela que está embarazada, todo esto sumado a que Sekai se lo grita enfrente de todo el salón, hasta este momento y como suele suceder con los rumores, las chicas que habían tenido sexo con Makoto deciden separarse de él y no verlo en un buen tiempo, desde Otome, las amigas de Otome y Hikari, esto es a lo que se le llamaría la \"soledad de Makoto\".",
+      "imagen": "https://media.themoviedb.org/t/p/w500/sPK5MvXAp7uViXZ5Rhh0h0Y35qm.jpg",
+      "servidores": [
+        {
+          "id": "0d02rozhevsy",
+          "nombre": "Deltha",
+          "url": "https://dhcplay.com/e/0d02rozhevsy",
+          "premium": false
+        }
+      ]
     },
     {
+      "numero": 12,
       "titulo": "«School Days»",
-      "episodio": 12,
-      "imagen": "https://image.tmdb.org/t/p/w640_and_h360_bestv2/mIPvgWuFg4YcMkg6da353LudfEE.jpg",
-      "enlace": "https://dhcplay.com/e/gtg9mtp9cdxw"
+      "descripcion": "Makoto ha decidido quedarse con Kotonoha.En la casa de Makoto, Sekai se encuentra con Kotonoha y esta le cuenta acerca los sentimientos de Setsuna hacia Makoto y luego besa a Makoto frente a Sekai. A la mañana siguiente Sekai recibe un mensaje de Makoto donde que él le insinúa que aborte. Más tarde Sekai se encuentra con Makoto en su casa para charlar, Sekai se dirige a la cocina a servir el té, mientras Makoto escucha el sonido de su celular, va a su cuarto a revisar y descubre que es un mensaje de la misma Sekai diciendo una y otra vez \"lo siento\" hasta que llega al final del mensaje donde dice \"adiós\".",
+      "imagen": "https://media.themoviedb.org/t/p/w500/mIPvgWuFg4YcMkg6da353LudfEE.jpg",
+      "servidores": [
+        {
+          "id": "gtg9mtp9cdxw",
+          "nombre": "Deltha",
+          "url": "https://dhcplay.com/e/gtg9mtp9cdxw",
+          "premium": false
+        }
+      ]
     }
   ]
 }
