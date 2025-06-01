@@ -1,0 +1,22 @@
+{
+  "titulo": "Alba del desierto",
+  "sinopsis": "Un sheriff recién nombrado de un pequeño pueblo y su reticente ayudante se ven envueltos en una red de mentiras y corrupción que involucra a empresarios turbios y a un cartel, mientras investigan el asesinato de una mujer misteriosa.",
+  "imagen_fondo": "https://image.tmdb.org/t/p/original/bFmziv84NfEVEGTK8c6EVY3bxve.jpg",
+  "poster": "https://image.tmdb.org/t/p/original/vJxo8xxVnSaPAf9EdkjAfKwmoQK.jpg",
+  "genero": [
+    "Acción",
+    "Crimen",
+    "Misterio",
+    "Suspense"
+  ],
+  "servidores": [
+    {
+      "nombre": "Servidor 1",
+      "url": "https://dhcplay.com/e/4s3hjaq67puf"
+    },
+    {
+      "nombre": "Servidor 2",
+      "url": "https://dhcplay.com/e/4s3hjaq67puf"
+    }
+  ]
+}
