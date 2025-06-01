@@ -1,0 +1,21 @@
+{
+  "titulo": "Déjame Estar Contigo",
+  "sinopsis": "",
+  "imagen_fondo": "https://image.tmdb.org/t/p/original/qab3t7IsPygLnqQbdtjAyLmbNy6.jpg",
+  "poster": "https://image.tmdb.org/t/p/original/g7CoOjbpKO9tAbQhyJgOB6iwrqV.jpg",
+  "genero": [
+    "Romance",
+    "Comedia",
+    "Drama"
+  ],
+  "servidores": [
+    {
+      "nombre": "Servidor 1",
+      "url": "https://dhcplay.com/e/iew1ju45k601"
+    },
+    {
+      "nombre": "Servidor 2",
+      "url": "https://dhcplay.com/e/iew1ju45k601"
+    }
+  ]
+}
