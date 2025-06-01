@@ -1,0 +1,20 @@
+{
+  "titulo": "Better Man",
+  "sinopsis": "Sigue el viaje de Robbie Williams desde la infancia, hasta convertirse en el miembro más joven de la boyband Take That, pasando por sus logros incomparables como artista solista que bate récords, mientras se enfrenta a los desafíos que pueden traer la fama y el éxito estratosféricos.",
+  "imagen_fondo": "https://image.tmdb.org/t/p/original/wP0NGOGf2PG4lHXHWEqFW0kBOye.jpg",
+  "poster": "https://image.tmdb.org/t/p/original/ak7VgAaI94K6CbbFuL22xIBJtyE.jpg",
+  "genero": [
+    "Música",
+    "Drama"
+  ],
+  "servidores": [
+    {
+      "nombre": "Servidor 1",
+      "url": "https://dhcplay.com/e/gwxqqjm8mlpm"
+    },
+    {
+      "nombre": "Servidor 2",
+      "url": "https://dhcplay.com/e/gwxqqjm8mlpm"
+    }
+  ]
+}
