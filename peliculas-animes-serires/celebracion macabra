@@ -1,0 +1,21 @@
+{
+  "titulo": "Celebración Macabra",
+  "sinopsis": "El misterio de un asesinato surge en medio de una acalorada elección de alcalde en un pintoresco pueblo de Nueva Inglaterra.",
+  "imagen_fondo": "https://image.tmdb.org/t/p/original/5g9wIe8Q8GFPdVLSmC372gvZfci.jpg",
+  "poster": "https://image.tmdb.org/t/p/original/2GiUPrD2R3mrOj0VHPcoCyOvJDN.jpg",
+  "genero": [
+    "Terror",
+    "Suspense",
+    "Comedia"
+  ],
+  "servidores": [
+    {
+      "nombre": "Servidor 1",
+      "url": "https://dhcplay.com/e/720aoxq8psug"
+    },
+    {
+      "nombre": "Servidor 2",
+      "url": "https://dhcplay.com/e/720aoxq8psug"
+    }
+  ]
+}
