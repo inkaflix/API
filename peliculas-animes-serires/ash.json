@@ -1,0 +1,21 @@
+{
+  "titulo": "Ash",
+  "sinopsis": "En el misterioso planeta Ash, Riya se despierta y descubre que su tripulación ha sido masacrada. Cuando un hombre llamado Brion llega para rescatarla, se desata un calvario de terror psicológico y físico mientras Riya y Brion deben decidir si pueden confiar el uno en el otro para sobrevivir.",
+  "imagen_fondo": "https://image.tmdb.org/t/p/original/sQa299yggIkxfwKJFgzYwDdsC9t.jpg",
+  "poster": "https://image.tmdb.org/t/p/original/s5nhrZNvS148LRcz1qLn4pAmIRt.jpg",
+  "genero": [
+    "Ciencia ficción",
+    "Terror",
+    "Suspense"
+  ],
+  "servidores": [
+    {
+      "nombre": "Servidor 1",
+      "url": "https://dhcplay.com/e/qpnfqhrf3dq6"
+    },
+    {
+      "nombre": "Servidor 2",
+      "url": "https://dhcplay.com/e/qpnfqhrf3dq6"
+    }
+  ]
+}
