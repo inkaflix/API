@@ -1,0 +1,19 @@
+{
+  "titulo": "Sniper: El Fin del Asesino",
+  "sinopsis": "El francotirador de operaciones especiales Brandon Beckett es el principal sospechoso del asesinato de un dignatario extranjero en la víspera de la firma de un acuerdo comercial de alto perfil con los Estados Unidos. Beckett, que escapa por poco de la muerte, se da cuenta de que puede haber un agente oscuro trabajando dentro del gobierno, y se asocia con la única persona en la que puede confiar: su padre, el legendario sargento de francotiradores. Thomas Beckett. Ambos Becketts huyen de la CIA, mercenarios rusos y Lady Death, una asesina entrenada por Yakuza con habilidades de francotirador que rivaliza con ambos francotiradores legendarios.",
+  "imagen_fondo": "https://image.tmdb.org/t/p/original/fvSY1KXxu9oJZvtfoTmJFjFWJgw.jpg",
+  "poster": "https://image.tmdb.org/t/p/original/avsDjwTpZRpoj5Vkc70fW446f5.jpg",
+  "genero": [
+    "Acción"
+  ],
+  "servidores": [
+    {
+      "nombre": "Servidor 1",
+      "url": "https://dhcplay.com/e/8hhymb12koq9"
+    },
+    {
+      "nombre": "Servidor 2",
+      "url": "https://dhcplay.com/e/8hhymb12koq9"
+    }
+  ]
+}
