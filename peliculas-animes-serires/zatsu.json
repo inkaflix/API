@@ -1,0 +1,155 @@
+{
+  "titulo": "ZatsuTabi -That's Journey-",
+  "poster": "https://image.tmdb.org/t/p/original/srhtxp1XKjiMnLBdHDyrcGVtjD1.jpg",
+  "estado": "En emisión",
+  "anio": "2025",
+  "temporadas": 1,
+  "rating": "9.5",
+  "vistas": "",
+  "generos": [
+    "Animación"
+  ],
+  "sinopsis": "Cuando rechazan los storyboards de Chika, una aspirante a dibujante de manga, ¡decide cambiar el escritorio por irse de aventuras! Con la ayuda de una singular encuesta en redes sociales, se embarca en un viaje espontáneo por destinos aleatorios. Chika encontrará la inspiración, la amistad y a sí misma en cada parada improvisada.",
+  "capitulos": [
+    {
+      "numero": 1,
+      "titulo": "Episodio 1",
+      "descripcion": "",
+      "imagen": "https://media.themoviedb.org/t/p/w500/aXxGv2a7E6exDOuX4cZy0aqJVC6.jpg",
+      "servidores": [
+        {
+          "id": "4zyf69xx19i6",
+          "nombre": "Servidor",
+          "url": "https://dhcplay.com/e/4zyf69xx19i6",
+          "premium": false
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "titulo": "Episodio 2",
+      "descripcion": "",
+      "imagen": "https://media.themoviedb.org/t/p/w500/pdMGutwK1yXDMJbde2HacGGzoY4.jpg",
+      "servidores": [
+        {
+          "id": "g4mf94m2nbtc",
+          "nombre": "Servidor",
+          "url": "https://dhcplay.com/e/g4mf94m2nbtc",
+          "premium": false
+        }
+      ]
+    },
+    {
+      "numero": 3,
+      "titulo": "Episodio 3",
+      "descripcion": "",
+      "imagen": "https://media.themoviedb.org/t/p/w500/pPyoaEkeUd5VHbFnXvceJencaSQ.jpg",
+      "servidores": [
+        {
+          "id": "d4jj6otqt2of",
+          "nombre": "Servidor",
+          "url": "https://dhcplay.com/e/d4jj6otqt2of",
+          "premium": false
+        }
+      ]
+    },
+    {
+      "numero": 4,
+      "titulo": "Episodio 4",
+      "descripcion": "",
+      "imagen": "https://media.themoviedb.org/t/p/w500/oHbg7hmTxmCWIC4uoMe0lbPgzrv.jpg",
+      "servidores": [
+        {
+          "id": "x9ds0enmhpa7",
+          "nombre": "Servidor",
+          "url": "https://dhcplay.com/e/x9ds0enmhpa7",
+          "premium": false
+        }
+      ]
+    },
+    {
+      "numero": 5,
+      "titulo": "Episodio 5",
+      "descripcion": "",
+      "imagen": "https://media.themoviedb.org/t/p/w500/9t4ApDMStpkEbWjc5PhBBFscBIr.jpg",
+      "servidores": [
+        {
+          "id": "mn249v724d96",
+          "nombre": "Servidor",
+          "url": "https://dhcplay.com/e/mn249v724d96",
+          "premium": false
+        }
+      ]
+    },
+    {
+      "numero": 6,
+      "titulo": "Episodio 6",
+      "descripcion": "",
+      "imagen": "https://media.themoviedb.org/t/p/w500/17TWCPXqSNl9U1DDBsbwg0U6kph.jpg",
+      "servidores": [
+        {
+          "id": "rtb2catqt1l2",
+          "nombre": "Servidor",
+          "url": "https://dhcplay.com/e/rtb2catqt1l2",
+          "premium": false
+        }
+      ]
+    },
+    {
+      "numero": 7,
+      "titulo": "Episodio 7",
+      "descripcion": "",
+      "imagen": "https://media.themoviedb.org/t/p/w500/7KMsVSSfMHln2wmqF18UXog57cC.jpg",
+      "servidores": [
+        {
+          "id": "9kajmrykw5ld",
+          "nombre": "Servidor",
+          "url": "https://dhcplay.com/e/9kajmrykw5ld",
+          "premium": false
+        }
+      ]
+    },
+    {
+      "numero": 8,
+      "titulo": "Episodio 8",
+      "descripcion": "",
+      "imagen": "https://media.themoviedb.org/t/p/w500/o5LnQRkF9XK1zdr2af9GNYMzDKz.jpg",
+      "servidores": [
+        {
+          "id": "7op74y8kenci",
+          "nombre": "Servidor",
+          "url": "https://dhcplay.com/e/7op74y8kenci",
+          "premium": false
+        }
+      ]
+    },
+    {
+      "numero": 9,
+      "titulo": "Episodio 9",
+      "descripcion": "",
+      "imagen": "https://media.themoviedb.org/t/p/w500/v9ytxmSkW2g6iCeeFIdCnoTHxl3.jpg",
+      "servidores": []
+    },
+    {
+      "numero": 10,
+      "titulo": "Episodio 10",
+      "descripcion": "",
+      "imagen": "https://media.themoviedb.org/t/p/w500null",
+      "servidores": []
+    },
+    {
+      "numero": 11,
+      "titulo": "Episodio 11",
+      "descripcion": "",
+      "imagen": "https://media.themoviedb.org/t/p/w500null",
+      "servidores": []
+    },
+    {
+      "numero": 12,
+      "titulo": "Episodio 12",
+      "descripcion": "",
+      "imagen": "https://media.themoviedb.org/t/p/w500null",
+      "servidores": []
+    }
+  ]
+}
