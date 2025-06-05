@@ -1,0 +1,76 @@
+{
+  "nombre": "Mobile Suit Gundam GQuuuuuuX",
+  "sinopsis": "Amate Yuzuriha es una estudiante de bachillerato que vive tranquilamente en una colonia espacial. Cuando conoce a una refugiada de guerra, Nyaan, Amate se ve atraída a un duelo ilegal de mobile suits conocido como Batalla de Clanes.",
+  "fondo": "https://image.tmdb.org/t/p/original/fyPkuoqllQX6k8KbjJvkkEAIgpq.jpg",
+  "meta": [
+    "⭐ 8.30/10",
+    "📅 2025",
+    "• Animación",
+    "En emisión"
+  ],
+  "episodios": [
+    {
+      "titulo": "El Gundam Rojo",
+      "episodio": 1,
+      "descripcion": "Amate, una chica de secundaria, conoce a una contrabandista llamada Nyaan y se ve involucrada en una tienda ilegal de artículos usados. El Zaku de la policía militar inicia combate dentro de la colonia contra el Gundam Rojo que violó el espacio aéreo. Perdida en el caos, Amate conduce el GQuuuuuuX.",
+      "imagen": "https://image.tmdb.org/t/p/original/fDTKjeDzn6ZLioAQjDVNjBikv3U.jpg",
+      "enlace": "https://dhcplay.com/e/2lhy70lr7pa1"
+    },
+    {
+      "titulo": "El Gundam Blanco",
+      "episodio": 2,
+      "descripcion": "Char, un piloto de élite del Principado de Zeon, captura el más reciente mobile suit Gundam de la Federación de la Tierra, una pieza clave de su \"Operación V\", en Side7. A partir de ese momento, el curso de la guerra cambia dramáticamente, llevando finalmente a la victoria del Principado de Zeon en la Guerra de un año. Sin embargo, justo antes del fin de la guerra, Gundam y Char...",
+      "imagen": "https://image.tmdb.org/t/p/original/fOWtkJ2f89jXniSVL36UEy6bmG0.jpg",
+      "enlace": "https://dhcplay.com/e/y552t0tsgcx7"
+    },
+    {
+      "titulo": "La batalla de clanes de Machu",
+      "episodio": 3,
+      "descripcion": "Amate conoce a un chico llamado Shuji, que pilota el Gundam Rojo. Ella no puede olvidar la sensación del brillante universo que experimentaron juntos y sugiere crear un MAV para participar en la Batalla de Clanes. Amate decide usar el alias de \"MACHU\".",
+      "imagen": "https://image.tmdb.org/t/p/original/1j88H5HltWZG4Gyd5p3WYoIhJqr.jpg",
+      "enlace": "https://dhcplay.com/e/rnpy6f0oeb4c"
+    },
+    {
+      "titulo": "La guerra de la bruja",
+      "episodio": 4,
+      "descripcion": "Una gran unicum conocida como \"La Bruja\", que mató a más de 100 enemigos durante la Guerra de un Año, combate en una Batalla de clanes para saldar una cuenta pendiente con el Gundam Rojo. Al ver a la Bruja, que lucha con su mobile suit y ha renunciado a su marido y a su hijo, Machu es testigo de hasta dónde puede llegar la obsesión humana.",
+      "imagen": "https://image.tmdb.org/t/p/original/fU1P9SjwYeT7w68dbNEFRZRzSKI.jpg",
+      "enlace": "https://dhcplay.com/e/hm773374vpxj"
+    },
+    {
+      "titulo": "Nyaan no sabe nada del brilli-brilli",
+      "episodio": 5,
+      "descripcion": "Machu planea ganar dinero en las Batallas de Clanes y viajar a la Tierra junto con Shuji y Nyaan. Sin embargo, el día de las Clan-Bats, Machu queda atrapada por Xavier. A este ritmo, el viaje a la Tierra seguirá siendo solo un sueño. En ese momento, Nyaan...",
+      "imagen": "https://image.tmdb.org/t/p/original/c3fwOOgvksq9qXKaU0akul3NvQw.jpg",
+      "enlace": "https://dhcplay.com/e/4swyihhwfkak"
+    },
+    {
+      "titulo": "El complot para asesinar a Kycilia",
+      "episodio": 6,
+      "descripcion": "Annqi descubre el escondite de Shuji. La información sobre el Gundam Rojo vale más que la recompensa de cualquier Batalla de Clanes. Machu descubre que planea vender dicha información durante la Batalla de Clanes. La agencia de inteligencia de las Fuerzas de la Federación Terrestre descubre el mayor secreto de Kycilia.",
+      "imagen": "https://image.tmdb.org/t/p/original/4kBro2xsfpCQUWcO0IxznJaTlry.jpg",
+      "enlace": "https://dhcplay.com/e/chwsdcuv91bj"
+    },
+    {
+      "titulo": "La rebelión de Machu",
+      "episodio": 7,
+      "descripcion": "Cuando descubre el plan de Annqi, Machu idea un plan con Nyaan para ayudar a Shuji a escapar mediante la Batalla de Clanes. Pero el oponente que les espera resulta ser una nueva mobile armor pilotada por terroristas que traman asesinar a Kycilia.",
+      "imagen": "https://image.tmdb.org/t/p/original/bbraJvMPTFgVXI1NPPhzv6xwtvG.jpg",
+      "enlace": "https://dhcplay.com/e/9m5ur9o124gz"
+    },
+    {
+      "titulo": "Desembarque en la Luna",
+      "episodio": 8,
+      "descripcion": "Sin descripción",
+      "imagen": "https://image.tmdb.org/t/p/original/iIuV02In3M0n5ZPbDVhRkybyERP.jpg",
+      "enlace": "https://dhcplay.com/e/uqz922kohjx6"
+    },
+    {
+      "titulo": "Episodio 9",
+      "episodio": 9,
+      "descripcion": "Sin descripción",
+      "imagen": "https://image.tmdb.org/t/p/original/5CxnpKGjifCpQairtaBpBhiNjkE.jpg",
+      "enlace": "https://dhcplay.com/e/2zgohuai2vnn"
+    }
+  ]
+}
