@@ -1,0 +1,41 @@
+{
+  "nombre": "Toradora!",
+  "sinopsis": "Ryuuji Takasu, un estudiante amable con rostro intimidante, y Taiga Aisaka, una pequeña pero feroz chica conocida como el \"Tigre de bolsillo\", terminan cruzando caminos por un error. Descubren que ambos tienen amores no correspondidos y forman una alianza para ayudarse mutuamente, desencadenando una divertida y emotiva comedia romántica.",
+  "fondo": "https://image.tmdb.org/t/p/original/mjfimsCv6XQFoqQo1C7Toc3lMCF.jpg",
+  "meta": [
+    "⭐ 8.22/10",
+    "📅 2008",
+    "• Animación",
+    "Finalizado"
+  ],
+  "episodios": [
+    {
+      "titulo": "El tigre y el dragón",
+      "episodio": 1,
+      "descripcion": "Hoy empieza el nuevo año escolar para Ryuji Takasu, un adolescente con mirada de delincuente. En su primer día, conocerá a Taiga Aikasa, el Tigre de bolsillo, famosa por su mal carácter. Las vidas de nuestros protagonistas quedarán hiladas a partir de este momento, sin que ellos mismos lo sepan.",
+      "imagen": "https://image.tmdb.org/t/p/original/iFN4nTalN1pNvls0oOncUdSAMvq.jpg",
+      "enlace": "https://dhcplay.com/e/f9904dbqg18v"
+    },
+    {
+      "titulo": "Taiga y Ryuji",
+      "episodio": 2,
+      "descripcion": "Ryuji se da cuenta de que si quiere que Taiga lo ayude con Kushieda, tendrá que ayudarla primero con Kitamura. Sus planes para intentarlo comienzan, pero un extraño rumor se extiende sobre Taiga y Ryuji comienza. ¿Conseguirá el Tigre confesarse?",
+      "imagen": "https://image.tmdb.org/t/p/original/qQT9ghmi9UgVIWM6MG5E65WL89g.jpg",
+      "enlace": "https://dhcplay.com/e/ffydderhqqr2"
+    },
+    {
+      "titulo": "Tu canción",
+      "episodio": 3,
+      "descripcion": "La arrocera se rompe y Taiga y Ryuji deciden ir a cenar a un restaurante familiar. Tras esto, pasarán una serie de eventos que permitirán a Ryuji conocer un poco más sobre Kushieda.",
+      "imagen": "https://image.tmdb.org/t/p/original/yUHFQpPrSVQgB6d9CnNeq6DJXbf.jpg",
+      "enlace": "https://dhcplay.com/e/b22fgqdrzr0i"
+    },
+    {
+      "titulo": "Tu mirada de aquel entonces",
+      "episodio": 4,
+      "descripcion": "Ryuji descubre en casa de Taiga un álbum lleno de fotos de Kitamura. Todas están borrosas, así que Ryuji se ofrece a tomar algunas para ella. ¡Además de esto, tendremos una mirada al pasado y confesiones inesperadas!",
+      "imagen": "https://image.tmdb.org/t/p/original/gdoaYuezn30Rkv2Vx5lRiIfZZze.jpg",
+      "enlace": "https://dhcplay.com/e/g80w4m8bxsr4"
+    }
+  ]
+}
