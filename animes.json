@@ -1,6 +1,21 @@
 {
   "items": [
     {
+  "titulo": "Toradora!",
+  "enlace": "https://playerinka.blogspot.com/p/toradora.html",
+  "imagen": "https://image.tmdb.org/t/p/w300/gUE1zdXPkEBdEUtmJ2rkcGON41s.jpg"
+},
+    {
+  "titulo": "Aharen-san wa Hakarenai",
+  "enlace": "https://playerinka.blogspot.com/p/anaha-san-tp2.html",
+  "imagen": "https://image.tmdb.org/t/p/original/dLMiZoIPhjoD623XDZyQOHMHnMb.jpg"
+},
+    {
+  "titulo": "Aharen-san wa Hakarenai",
+  "enlace": "https://playerinka.blogspot.com/p/anaha-san-tp1.html",
+  "imagen": "https://image.tmdb.org/t/p/w300/4bsaN72UeGcoe73Mf6DfTmenJvs.jpg"
+},
+    {
   "titulo": "ZatsuTabi -That's Journey-",
   "enlace": "https://playerinka.blogspot.com/p/todo-tu-css-original-aqui-sin-cambios.html",
   "imagen": "https://image.tmdb.org/t/p/w300/gemDYCOLFZE8RGMxJi433bikPcD.jpg"
