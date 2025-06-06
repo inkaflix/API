@@ -1,0 +1,55 @@
+{
+  "nombre": "Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen",
+  "sinopsis": "Durante años se libró una gran guerra entre el Imperio científicamente avanzado y Nebulis, el reino de las chicas mágicas, hasta que el caballero más joven en recibir el título del más fuerte del Imperio llamado Iska se encuentra con la princesa de la nación rival conocida como Aliceliese.\n\nAunque son enemigos jurados, el caballero es tomado por su belleza y dignidad, y la princesa se conmueve por su fuerza y forma de vida. ¿Se permitirá que la lucha entre ellos termine algún día?",
+  "fondo": "https://image.tmdb.org/t/p/original/5Rr5mjyGufwXiffYoIDeXeTgeQy.jpg",
+  "meta": [
+    "⭐ 8.25/10",
+    "📅 2020",
+    "• Animación",
+    "En emisión"
+  ],
+  "episodios": [
+    {
+      "titulo": "Episodio 1",
+      "episodio": 1,
+      "descripcion": "Sin descripción",
+      "imagen": "https://image.tmdb.org/t/p/original/wv2MT2A5irKNFa9cI8749wvZ30F.jpg",
+      "enlace": "https://dhcplay.com/e/rotevrw2jsxm"
+    },
+    {
+      "titulo": "Episodio 2",
+      "episodio": 2,
+      "descripcion": "Sin descripción",
+      "imagen": "https://image.tmdb.org/t/p/original/wBqBLN65rNlr9vwwedTwiqgD9IA.jpg",
+      "enlace": "https://dhcplay.com/e/4lp56zx6ldcy"
+    },
+    {
+      "titulo": "Episodio 3",
+      "episodio": 3,
+      "descripcion": "Sin descripción",
+      "imagen": "https://image.tmdb.org/t/p/original/zxHRyf85wE6X8zx0aI3L4nvVOkg.jpg",
+      "enlace": "https://dhcplay.com/e/7aj6be0mtby1"
+    },
+    {
+      "titulo": "Episodio 4",
+      "episodio": 4,
+      "descripcion": "Sin descripción",
+      "imagen": "https://image.tmdb.org/t/p/original/tnnLXWbrpo8YAk9xKOBweOLr7Z8.jpg",
+      "enlace": "https://dhcplay.com/e/1ozp2yjuualz"
+    },
+    {
+      "titulo": "Episodio 5",
+      "episodio": 5,
+      "descripcion": "Sin descripción",
+      "imagen": "https://image.tmdb.org/t/p/original/2zAjemtOnAYfurrmKgwKqIj0ubC.jpg",
+      "enlace": "https://dhcplay.com/e/6o2o7vlfr8mi"
+    },
+    {
+      "titulo": "Episodio 6",
+      "episodio": 6,
+      "descripcion": "Sin descripción",
+      "imagen": "https://image.tmdb.org/t/p/original/7OA6IWFlkCh2DSN3Cay4lHkfRq6.jpg",
+      "enlace": "https://dhcplay.com/e/0cwyr6bgpx7v"
+    }
+  ]
+}
