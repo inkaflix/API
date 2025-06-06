@@ -1,0 +1,17 @@
+{
+  "titulo": "DAN DA DAN: Evil Eye",
+  "sinopsis": "",
+  "imagen_fondo": "https://image.tmdb.org/t/p/original/oo8GVyvODffulZtxx6QWzRkrBxK.jpg",
+  "poster": "https://image.tmdb.org/t/p/original/lmg38wQ4Si1iAfZemjJ8QdSmjw2.jpg",
+  "genero": [
+    "Animación",
+    "Fantasía",
+    "Aventura"
+  ],
+  "servidores": [
+    {
+      "nombre": "Servidor 1",
+      "url": "https://dhcplay.com/e/Tu_id_aqui"
+    }
+  ]
+}
