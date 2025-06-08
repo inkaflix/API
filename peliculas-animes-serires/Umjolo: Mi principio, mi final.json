@@ -1,0 +1,24 @@
+{
+  "titulo": "Umjolo: Mi principio, mi final",
+  "sinopsis": "Atrapada entre su familia y su espíritu libre, Mayi empieza a dudar de su inminente boda cuando conoce a un encantador y apasionado saxofonista.",
+  "imagen_fondo": "https://image.tmdb.org/t/p/original/22yzTjjiD0ZrR6BRSjVEKRTk6gF.jpg",
+  "poster": "https://image.tmdb.org/t/p/original/cwXTnJXGNJWJV4h3tayJLwgtG7X.jpg",
+  "genero": [
+    "Romance",
+    "Drama"
+  ],
+  "servidores": [
+    {
+      "nombre": "Servidor 1",
+      "url": "https://dhcplay.com/e/rw5moghuzgg7"
+    },
+    {
+      "nombre": "Servidor 2",
+      "url": "https://dhcplay.com/e/rw5moghuzgg7"
+    },
+    {
+      "nombre": "Servidor 3",
+      "url": "https://dhcplay.com/e/rw5moghuzgg7"
+    }
+  ]
+}
