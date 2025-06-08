@@ -1,0 +1,26 @@
+{
+  "titulo": "Ad Vitam",
+  "sinopsis": "Tras un ataque contra él y su mujer en casa, un exagente de élite se ve atrapado en una persecución letal relacionada con su propio y doloroso pasado.",
+  "imagen_fondo": "https://image.tmdb.org/t/p/original/dMloNvayweggmvv0UD0iOJIkkbH.jpg",
+  "poster": "https://image.tmdb.org/t/p/original/dOpSxmD3FWfl6SK8SLXw9uwcO05.jpg",
+  "genero": [
+    "Suspense",
+    "Drama",
+    "Crimen",
+    "Acción"
+  ],
+  "servidores": [
+    {
+      "nombre": "Servidor 1",
+      "url": "https://dhcplay.com/e/465ibc3h09j9"
+    },
+    {
+      "nombre": "Servidor 2",
+      "url": "https://dhcplay.com/e/465ibc3h09j9"
+    },
+    {
+      "nombre": "Servidor 3",
+      "url": "https://dhcplay.com/e/465ibc3h09j9"
+    }
+  ]
+}
