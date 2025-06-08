@@ -1,6 +1,71 @@
 {
   "items": [
     {
+  "titulo": "Lilo y Stitch",
+  "enlace": "https://playerinka.blogspot.com/p/lilo-y-stitch.html",
+  "imagen": "https://image.tmdb.org/t/p/w300/i9aIi5KreaAjgjaZFfcb3ir4wHR.jpg"
+},
+
+{
+  "titulo": "Corina",
+  "enlace": "https://playerinka.blogspot.com/p/corina.html",
+  "imagen": "https://image.tmdb.org/t/p/w300/nZviAfnhXylrYpjPznmhHCBeKWx.jpg"
+},
+
+{
+  "titulo": "What You Wish For",
+  "enlace": "https://playerinka.blogspot.com/p/what-you-wish-for.html",
+  "imagen": "https://image.tmdb.org/t/p/w300/9T6ww265pozXkNPKl26hRhIpbxt.jpg"
+},
+
+{
+  "titulo": "Chuck Billy and The Marvelous Guava Tree",
+  "enlace": "https://playerinka.blogspot.com/p/chico-bento-e-goiabeira-maraviosa.html",
+  "imagen": "https://image.tmdb.org/t/p/w300/d2K7Zhw9yRjzoa4HBbrjt7aqlgT.jpg"
+},
+
+{
+  "titulo": "Ad Vitam",
+  "enlace": "https://playerinka.blogspot.com/p/ad-vitam.html",
+  "imagen": "https://image.tmdb.org/t/p/w300/xqBSapk1nC35WlZ6PraMjOVMQBy.jpg"
+},
+
+{
+  "titulo": "Juego de Ladrones 2: Pantera",
+  "enlace": "https://playerinka.blogspot.com/p/el-robo-perfecto-pantera.html",
+  "imagen": "https://image.tmdb.org/t/p/w300/cD5WrzWVjA5Q5rHNLoZ1DsZIOLR.jpg"
+},
+
+{
+  "titulo": "Alone in Venice",
+  "enlace": "https://playerinka.blogspot.com/p/alone-in-venice.html",
+  "imagen": "https://image.tmdb.org/t/p/w300/gaHg0YFyjII0HdkIFDxe5UpA2GY.jpg"
+},
+
+{
+  "titulo": "The Human Supremacist",
+  "enlace": "https://playerinka.blogspot.com/p/the-human-supremacist.html",
+  "imagen": "https://image.tmdb.org/t/p/w300/8WMcDQ2oAWSpkc1SWbSlZZ6IEt4.jpg"
+},
+
+{
+  "titulo": "The Monster Beneath Us",
+  "enlace": "https://playerinka.blogspot.com/p/the-monster-beneath-us.html",
+  "imagen": "https://image.tmdb.org/t/p/w300/wFQsSoD9jjS40VU7SvxWH5MtD1D.jpg"
+},
+
+{
+  "titulo": "Umjolo: Mi principio, mi final",
+  "enlace": "https://playerinka.blogspot.com/p/umjolo-mi-principio-mi-final.html",
+  "imagen": "https://image.tmdb.org/t/p/w300/cwXTnJXGNJWJV4h3tayJLwgtG7X.jpg"
+},
+
+{
+  "titulo": "Cocaine Roach",
+  "enlace": "https://playerinka.blogspot.com/p/cocaine-roach.html",
+  "imagen": "https://image.tmdb.org/t/p/w300/lzMf2O4qdcRKgT6812Sdz7i9yx1.jpg"
+},
+    {
   "titulo": "DAN DA DAN: Evil Eye",
   "enlace": "https://playerinka.blogspot.com/p/dan-da-dan-s2-movie.html",
   "imagen": "https://image.tmdb.org/t/p/w300/qXwBSbBUIHLIoUCnfC0sjEjZ4Rw.jpg"
