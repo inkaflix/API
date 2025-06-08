@@ -1,0 +1,25 @@
+{
+  "titulo": "Juego de Ladrones 2: Pantera",
+  "sinopsis": "Big Nick está buscando en Europa a Donnie, quien está envuelto en el peligroso mundo de los ladrones de diamantes y la infame mafia Panther, mientras planean un atraco masivo al mayor intercambio de diamantes del mundo.",
+  "imagen_fondo": "https://image.tmdb.org/t/p/original/1mCEzHxDcJdkM3Ye7CTeZ04HVBB.jpg",
+  "poster": "https://image.tmdb.org/t/p/original/cD5WrzWVjA5Q5rHNLoZ1DsZIOLR.jpg",
+  "genero": [
+    "Acción",
+    "Crimen",
+    "Suspense"
+  ],
+  "servidores": [
+    {
+      "nombre": "Servidor 1",
+      "url": "https://dhcplay.com/e/xd8tak21ndmx"
+    },
+    {
+      "nombre": "Servidor 2",
+      "url": "https://dhcplay.com/e/xd8tak21ndmx"
+    },
+    {
+      "nombre": "Servidor 3",
+      "url": "https://dhcplay.com/e/xd8tak21ndmx"
+    }
+  ]
+}
