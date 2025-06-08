@@ -1,0 +1,25 @@
+{
+  "titulo": "The Monster Beneath Us",
+  "sinopsis": "",
+  "imagen_fondo": "https://image.tmdb.org/t/p/original/fHk5tpqWPgrFAzuupopBAZAg8Rs.jpg",
+  "poster": "https://image.tmdb.org/t/p/original/wFQsSoD9jjS40VU7SvxWH5MtD1D.jpg",
+  "genero": [
+    "Terror",
+    "Misterio",
+    "Suspense"
+  ],
+  "servidores": [
+    {
+      "nombre": "Servidor 1",
+      "url": "https://dhcplay.com/e/a5ekigus6h3i"
+    },
+    {
+      "nombre": "Servidor 2",
+      "url": "https://dhcplay.com/e/a5ekigus6h3i"
+    },
+    {
+      "nombre": "Servidor 3",
+      "url": "https://dhcplay.com/e/a5ekigus6h3i"
+    }
+  ]
+}
