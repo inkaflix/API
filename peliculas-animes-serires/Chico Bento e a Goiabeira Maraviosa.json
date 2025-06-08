@@ -1,0 +1,37 @@
+{
+  "titulo": "Chico Bento e a Goiabeira Maraviosa",
+  "sinopsis": "",
+  "imagen_fondo": "https://image.tmdb.org/t/p/original/wHVkV7XML3IEFT355QlZ9uUc03V.jpg",
+  "poster": "https://image.tmdb.org/t/p/original/a5AuXy70HjNy7RJexXwNpoBGkg0.jpg",
+  "genero": [
+    "Familia",
+    "Aventura",
+    "Comedia"
+  ],
+  "servidores": [
+    {
+      "nombre": "Servidor 1",
+      "url": "https://dhcplay.com/e/n0ps0z5fuy1c"
+    },
+    {
+      "nombre": "Servidor 2",
+      "url": "https://dhcplay.com/e/n0ps0z5fuy1c"
+    },
+    {
+      "nombre": "Servidor 3",
+      "url": "https://dhcplay.com/e/n0ps0z5fuy1c"
+    },
+    {
+      "nombre": "Servidor 4",
+      "url": "https://dhcplay.com/e/n0ps0z5fuy1c"
+    },
+    {
+      "nombre": "Servidor 5",
+      "url": "https://dhcplay.com/e/n0ps0z5fuy1c"
+    },
+    {
+      "nombre": "Servidor 6",
+      "url": "https://dhcplay.com/e/n0ps0z5fuy1c"
+    }
+  ]
+}
