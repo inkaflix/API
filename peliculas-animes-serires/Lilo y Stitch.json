@@ -1,0 +1,25 @@
+{
+  "titulo": "Lilo y Stitch",
+  "sinopsis": "La conmovedora y divertidísima historia de una solitaria niña hawaiana y el extraterrestre fugitivo que la ayuda a reparar su desestructurada familia.",
+  "imagen_fondo": "https://image.tmdb.org/t/p/original/7Zx3wDG5bBtcfk8lcnCWDOLM4Y4.jpg",
+  "poster": "https://image.tmdb.org/t/p/original/i9aIi5KreaAjgjaZFfcb3ir4wHR.jpg",
+  "genero": [
+    "Familia",
+    "Comedia",
+    "Ciencia ficción"
+  ],
+  "servidores": [
+    {
+      "nombre": "Servidor 1",
+      "url": "https://dhcplay.com/e/hwn6eyogjmkq"
+    },
+    {
+      "nombre": "Servidor 2",
+      "url": "https://dhcplay.com/e/hwn6eyogjmkq"
+    },
+    {
+      "nombre": "Servidor 3",
+      "url": "https://dhcplay.com/e/hwn6eyogjmkq"
+    }
+  ]
+}
