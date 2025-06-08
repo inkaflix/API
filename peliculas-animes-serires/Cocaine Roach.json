@@ -1,0 +1,15 @@
+{
+  "titulo": "Cocaine Roach",
+  "sinopsis": "",
+  "imagen_fondo": "https://image.tmdb.org/t/p/original/lzMf2O4qdcRKgT6812Sdz7i9yx1.jpg",
+  "poster": "https://image.tmdb.org/t/p/original/lzMf2O4qdcRKgT6812Sdz7i9yx1.jpg",
+  "genero": [
+    "Terror"
+  ],
+  "servidores": [
+    {
+      "nombre": "Servidor 1",
+      "url": "https://dhcplay.com/e/p5bi9pgs8xmy"
+    }
+  ]
+}
