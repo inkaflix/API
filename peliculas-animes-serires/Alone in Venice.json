@@ -1,0 +1,24 @@
+{
+  "titulo": "Alone in Venice",
+  "sinopsis": "",
+  "imagen_fondo": "https://image.tmdb.org/t/p/original/uO3X3mIbUkMsnLbuE9JsWE2c7Ln.jpg",
+  "poster": "https://image.tmdb.org/t/p/original/gaHg0YFyjII0HdkIFDxe5UpA2GY.jpg",
+  "genero": [
+    "Romance",
+    "Drama"
+  ],
+  "servidores": [
+    {
+      "nombre": "Servidor 1",
+      "url": "https://dhcplay.com/e/n18yyh96n4ft"
+    },
+    {
+      "nombre": "Servidor 2",
+      "url": "https://dhcplay.com/e/n18yyh96n4ft"
+    },
+    {
+      "nombre": "Servidor 3",
+      "url": "https://dhcplay.com/e/n18yyh96n4ft"
+    }
+  ]
+}
