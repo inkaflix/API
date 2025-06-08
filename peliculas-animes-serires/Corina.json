@@ -1,0 +1,24 @@
+{
+  "titulo": "Corina",
+  "sinopsis": "Corina tiene 20 años y no ha salido de su casa más que para trabajar en una editorial ubicada en el barrio donde vive. Tras cometer un grave error con el final de la saga de libros más famosa de la compañía, Corina deberá superar sus miedos con la ayuda de Carlos y embarcarse en un viaje en busca de un misterioso escritor para salvar su trabajo y a toda la empresa.",
+  "imagen_fondo": "https://image.tmdb.org/t/p/original/kRtr3sNFjrPWCRajEWnOf3n11dw.jpg",
+  "poster": "https://image.tmdb.org/t/p/original/nZviAfnhXylrYpjPznmhHCBeKWx.jpg",
+  "genero": [
+    "Drama",
+    "Comedia"
+  ],
+  "servidores": [
+    {
+      "nombre": "Servidor 1",
+      "url": "https://dhcplay.com/e/f68mdajo94p6"
+    },
+    {
+      "nombre": "Servidor 2",
+      "url": "https://dhcplay.com/e/f68mdajo94p6"
+    },
+    {
+      "nombre": "Servidor 3",
+      "url": "https://dhcplay.com/e/f68mdajo94p6"
+    }
+  ]
+}
