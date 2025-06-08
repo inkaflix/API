@@ -1,0 +1,24 @@
+{
+  "titulo": "The Human Supremacist",
+  "sinopsis": "",
+  "imagen_fondo": "https://image.tmdb.org/t/p/original/zYm3207jPXfoWXtYYDaTeNzk0N6.jpg",
+  "poster": "https://image.tmdb.org/t/p/original/8WMcDQ2oAWSpkc1SWbSlZZ6IEt4.jpg",
+  "genero": [
+    "Comedia",
+    "Suspense"
+  ],
+  "servidores": [
+    {
+      "nombre": "Servidor 1",
+      "url": "https://dhcplay.com/e/rmxuwg0e02sp"
+    },
+    {
+      "nombre": "Servidor 2",
+      "url": "https://dhcplay.com/e/rmxuwg0e02sp"
+    },
+    {
+      "nombre": "Servidor 3",
+      "url": "https://dhcplay.com/e/rmxuwg0e02sp"
+    }
+  ]
+}
