@@ -1,0 +1,25 @@
+{
+  "titulo": "Misión: Imposible - Sentencia final",
+  "sinopsis": "El agente Ethan Hunt continúa su misión de impedir que Gabriel controle el tecnológicamente omnipotente programa de IA conocido como \"the Entity\".",
+  "imagen_fondo": "https://image.tmdb.org/t/p/original/xOuhhbQ3Nzznt5MjRdLBJb0CmDE.jpg",
+  "poster": "https://image.tmdb.org/t/p/original/haOjJGUV00dKlZaJWgjM1UD1cJV.jpg",
+  "genero": [
+    "Acción",
+    "Aventura",
+    "Suspense"
+  ],
+  "servidores": [
+    {
+      "nombre": "Servidor 1",
+      "url": "https://dhcplay.com/e/qa4vojctdsk2"
+    },
+    {
+      "nombre": "Servidor 2",
+      "url": "https://dhcplay.com/e/qa4vojctdsk2"
+    },
+    {
+      "nombre": "Servidor 3",
+      "url": "https://dhcplay.com/e/qa4vojctdsk2"
+    }
+  ]
+}
