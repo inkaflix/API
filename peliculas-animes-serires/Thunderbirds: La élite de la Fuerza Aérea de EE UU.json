@@ -1,0 +1,23 @@
+{
+  "titulo": "Thunderbirds: La élite de la Fuerza Aérea de EE. UU.",
+  "sinopsis": "En este documental, los Thunderbirds, pilotos de élite de las Fuerzas Aéreas, demuestran una excepcional habilidad, confianza y valentía durante un entrenamiento de alto riesgo.",
+  "imagen_fondo": "https://image.tmdb.org/t/p/original/1bWRIXsA23TJAIvBHe3PCJxHIvP.jpg",
+  "poster": "https://image.tmdb.org/t/p/original/r7nh6hnQDUZMJ681ONpmzKnMjnU.jpg",
+  "genero": [
+    "Documental"
+  ],
+  "servidores": [
+    {
+      "nombre": "Servidor 1",
+      "url": "https://dhcplay.com/e/4xf62l8dh2mo"
+    },
+    {
+      "nombre": "Servidor 2",
+      "url": "https://dhcplay.com/e/4xf62l8dh2mo"
+    },
+    {
+      "nombre": "Servidor 3",
+      "url": "https://dhcplay.com/e/4xf62l8dh2mo"
+    }
+  ]
+}
