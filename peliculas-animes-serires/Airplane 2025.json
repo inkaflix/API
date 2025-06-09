@@ -1,0 +1,23 @@
+{
+  "titulo": "Airplane 2025",
+  "sinopsis": "",
+  "imagen_fondo": "https://image.tmdb.org/t/p/original/63NJ5GQg7CDTMKGZBXiCdC5kdx9.jpg",
+  "poster": "https://image.tmdb.org/t/p/original/63NJ5GQg7CDTMKGZBXiCdC5kdx9.jpg",
+  "genero": [
+    "Comedia"
+  ],
+  "servidores": [
+    {
+      "nombre": "Servidor 1",
+      "url": "https://dhcplay.com/e/hcbqabbu59u9"
+    },
+    {
+      "nombre": "Servidor 2",
+      "url": "https://dhcplay.com/e/hcbqabbu59u9"
+    },
+    {
+      "nombre": "Servidor 3",
+      "url": "https://dhcplay.com/e/hcbqabbu59u9"
+    }
+  ]
+}
