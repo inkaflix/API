@@ -1,0 +1,83 @@
+{
+  "nombre": "My Hero Academia: Vigilantes",
+  "sinopsis": "Koichi Haimawari es un estudiante aburrido que aspiraba a ser un héroe pero abandonó su sueño. Aunque el 80% de la población mundial tenga poderes sobrehumanos llamados Dones, pocos son elegidos para convertirse en héroes y proteger a las personas. ¡Todo cambia para Koichi cuando él y Pop☆Step son salvados por el vigilante Knuckleduster y son reclutados para convertirse en vigilantes!",
+  "fondo": "https://image.tmdb.org/t/p/original/bFstXrVHgubLjoTdL3RAVFQDJdO.jpg",
+  "meta": [
+    "⭐ 8.30/10",
+    "📅 2025",
+    "• Animación",
+    "En emisión"
+  ],
+  "episodios": [
+    {
+      "titulo": "Aquí me hallo",
+      "episodio": 1,
+      "descripcion": "Koichi Haimawari es un joven que admira a los Héroes, pero no se cree capaz de convertirse en uno.",
+      "imagen": "https://image.tmdb.org/t/p/original/by6mOFlmTK6jKYKgk2YFaMvjlSx.jpg",
+      "enlace": "https://dhcplay.com/e/vss9p6lj582h"
+    },
+    {
+      "titulo": "Despegue",
+      "episodio": 2,
+      "descripcion": "Pese a su reticencia, Koichi acaba uniéndose a Knuckleduster para detener a varios Villanos espontáneos.",
+      "imagen": "https://image.tmdb.org/t/p/original/kveOWw2d13KkPsjMOiYJrgOTrQi.jpg",
+      "enlace": "https://dhcplay.com/e/imhutm0br25y"
+    },
+    {
+      "titulo": "Abejas",
+      "episodio": 3,
+      "descripcion": "Pop se topa con un fan acérrimo que no dudará en recurrir a la misteriosa droga para acercarse a ella.",
+      "imagen": "https://image.tmdb.org/t/p/original/cxXa80ExiSAvcClJRWYyxRlVwCt.jpg",
+      "enlace": "https://dhcplay.com/e/0xapj38k70z1"
+    },
+    {
+      "titulo": "El mejor corredor",
+      "episodio": 4,
+      "descripcion": "A Koichi le preocupa el uso limitado de su Don hasta que conoce al Héroe profesional Ingenium.",
+      "imagen": "https://image.tmdb.org/t/p/original/13pP2kr6NZ4wSjybind8xQV3ecr.jpg",
+      "enlace": "https://dhcplay.com/e/rnmc5uum7xdx"
+    },
+    {
+      "titulo": "Condena",
+      "episodio": 5,
+      "descripcion": "Koichi se enfrenta de nuevo a un Villano espontáneo y es rescatado por un misterioso hombre con espada.",
+      "imagen": "https://image.tmdb.org/t/p/original/cUQgsTLEeUsnF8qRuUfdoBcnR8p.jpg",
+      "enlace": "https://dhcplay.com/e/7m5gllthyqy0"
+    },
+    {
+      "titulo": "Una línea",
+      "episodio": 6,
+      "descripcion": "Hay todo tipo de justicieros en Naruhata, pero no todos ellos están dispuestos a cruzar ciertas líneas.",
+      "imagen": "https://image.tmdb.org/t/p/original/479OWCA1cywP8VVOxLmUoWfOeBi.jpg",
+      "enlace": "https://dhcplay.com/e/4b59n8y56953"
+    },
+    {
+      "titulo": "Verdad",
+      "episodio": 7,
+      "descripcion": "Sin descripción",
+      "imagen": "https://image.tmdb.org/t/p/original/8ORpzIvSQ6Rhbc8SXXj40uDpK2b.jpg",
+      "enlace": "https://dhcplay.com/e/p8ymtsdipzqq"
+    },
+    {
+      "titulo": "Un grande",
+      "episodio": 8,
+      "descripcion": "Captain Celebrity es el número uno de Estados Unidos, aunque para Koichi deja mucho que desear.",
+      "imagen": "https://image.tmdb.org/t/p/original/uc5Ge2jDVI6Ztk3OCqLWVRXExnF.jpg",
+      "enlace": "https://dhcplay.com/e/tpa9r7ddjmq0"
+    },
+    {
+      "titulo": "Incursión materna",
+      "episodio": 9,
+      "descripcion": "Sin descripción",
+      "imagen": "https://image.tmdb.org/t/p/original/rFTbLJivonUMs7p4QVF3vr4epw.jpg",
+      "enlace": "https://dhcplay.com/e/98mcxqjp2ecg"
+    },
+    {
+      "titulo": "Episodio 10",
+      "episodio": 10,
+      "descripcion": "Sin descripción",
+      "imagen": "https://image.tmdb.org/t/p/original/u8X1atvFUs5wgkgVgvhp5RbLsTq.jpg",
+      "enlace": "https://dhcplay.com/e/wfcmf3om8l8m"
+    }
+  ]
+}
