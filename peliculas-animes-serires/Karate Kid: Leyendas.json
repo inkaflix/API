@@ -1,0 +1,25 @@
+{
+  "titulo": "Karate Kid: Legends",
+  "sinopsis": "Tras una tragedia familiar, el prodigio del kung fu Li Fong se ve obligado a abandonar su hogar en Pekín y trasladarse a Nueva York con su madre. Cuando un nuevo amigo necesita su ayuda, Li se presenta a una competición de kárate, pero sus habilidades no son suficientes. El profesor de kung fu de Li, el Sr. Han, pide ayuda al Karate Kid original, Daniel LaRusso, y Li aprende una nueva forma de luchar, fusionando sus dos estilos en uno solo para el enfrentamiento definitivo de artes marciales.",
+  "imagen_fondo": "https://image.tmdb.org/t/p/original/lAnkMSDISzMYLWICS7m16rSTUHD.jpg",
+  "poster": "https://image.tmdb.org/t/p/original/efNhiZPk71FTYJ30dBkWMfc939D.jpg",
+  "genero": [
+    "Acción",
+    "Aventura",
+    "Drama"
+  ],
+  "servidores": [
+    {
+      "nombre": "Servidor 1",
+      "url": "https://dhcplay.com/e/zjy0w27ohimq"
+    },
+    {
+      "nombre": "Servidor 2",
+      "url": "https://dhcplay.com/e/zjy0w27ohimq"
+    },
+    {
+      "nombre": "Servidor 3",
+      "url": "https://dhcplay.com/e/zjy0w27ohimq"
+    }
+  ]
+}
