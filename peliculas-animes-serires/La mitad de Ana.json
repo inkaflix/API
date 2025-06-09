@@ -1,0 +1,23 @@
+{
+  "titulo": "La mitad de Ana",
+  "sinopsis": "Trata el tema de lo trans en la infancia a través de una madre y un hijo en el proceso de cambio.",
+  "imagen_fondo": "https://image.tmdb.org/t/p/original/9CfTSdvtzaWZ5mGO3JQv40ecEJs.jpg",
+  "poster": "https://image.tmdb.org/t/p/original/c24RWnJzwAtWZ039o9u6K7c8jyw.jpg",
+  "genero": [
+    "Drama"
+  ],
+  "servidores": [
+    {
+      "nombre": "Servidor 1",
+      "url": "https://dhcplay.com/e/izycme5npazq"
+    },
+    {
+      "nombre": "Servidor 2",
+      "url": "https://dhcplay.com/e/izycme5npazq"
+    },
+    {
+      "nombre": "Servidor 3",
+      "url": "https://dhcplay.com/e/izycme5npazq"
+    }
+  ]
+}
