@@ -1,0 +1,23 @@
+{
+  "titulo": "Wick Is Pain subtitulada",
+  "sinopsis": "",
+  "imagen_fondo": "https://image.tmdb.org/t/p/original/fog8Vbeg1KOZAucucPxgYpXJ0a0.jpg",
+  "poster": "https://image.tmdb.org/t/p/original/ctZ9bjmCYyfFt3cUepc9axr0zHs.jpg",
+  "genero": [
+    "Documental"
+  ],
+  "servidores": [
+    {
+      "nombre": "Servidor 1",
+      "url": "https://dhcplay.com/e/mmjazy2v7731"
+    },
+    {
+      "nombre": "Servidor 2",
+      "url": "https://dhcplay.com/e/mmjazy2v7731"
+    },
+    {
+      "nombre": "Servidor 3",
+      "url": "https://dhcplay.com/e/mmjazy2v7731"
+    }
+  ]
+}
