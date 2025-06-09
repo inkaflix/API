@@ -1,0 +1,23 @@
+{
+  "titulo": "Baila, Vini",
+  "sinopsis": "\"Vini Jr.\", un documental sobre la vida de Vinícius Júnior, uno de los delanteros más prometedores del fútbol. Con impresionantes números, Vini Jr es una estrella de la selección brasileña, y la trama lo sigue en el decisivo año de 2024. Ganador de la UEFA Champions League y con la posibilidad de ganar el premio The Best de la FIFA. Reconocido también por su valentía en la lucha contra el racismo, muestra las dificultades que experimentó durante la liga española. Con la presencia de varios ídolos deportivos, como Neymar, Karim Benzema, Jude Bellingham y Tony Kroos, el documental analiza el impacto del jugador dentro y fuera del campo.",
+  "imagen_fondo": "https://image.tmdb.org/t/p/original/qQ9i4mO2GrUFR3gLWjf8J6s3Wf3.jpg",
+  "poster": "https://image.tmdb.org/t/p/original/s1zEsvB5XoS0Gqr7tmnNZExVdRI.jpg",
+  "genero": [
+    "Documental"
+  ],
+  "servidores": [
+    {
+      "nombre": "Servidor 1",
+      "url": "https://dhcplay.com/e/pori1nmoa8tq"
+    },
+    {
+      "nombre": "Servidor 2",
+      "url": "https://dhcplay.com/e/pori1nmoa8tq"
+    },
+    {
+      "nombre": "Servidor 3",
+      "url": "https://dhcplay.com/e/pori1nmoa8tq"
+    }
+  ]
+}
