@@ -1,0 +1,23 @@
+{
+  "titulo": "Desmontando un elefante",
+  "sinopsis": "Marga, una arquitecta de éxito, regresa a casa tras haber pasado dos meses internada en un centro de rehabilitación por un problema de adicción con el que su familia convivió en silencio durante años. Tras su llegada, Marga intentará rehacer su vida anterior mientras su hija menor Blanca, verá cómo la atención que vuelca sobre su madre afecta tanto a sus relaciones como a su sueño de ser bailarina profesional. Un año después, \"el elefante\" sigue tan enorme como siempre. Aunque por lo menos, ahora, todos pueden verlo.",
+  "imagen_fondo": "https://image.tmdb.org/t/p/original/aBqpGwFVSAHcPNgsLX1Y10XPy7y.jpg",
+  "poster": "https://image.tmdb.org/t/p/original/M0V6s0WrPsYTd0HxjbZjYAqY9B.jpg",
+  "genero": [
+    "Drama"
+  ],
+  "servidores": [
+    {
+      "nombre": "Servidor 1",
+      "url": "https://dhcplay.com/e/uoj4hjyt732m"
+    },
+    {
+      "nombre": "Servidor 2",
+      "url": "https://dhcplay.com/e/uoj4hjyt732m"
+    },
+    {
+      "nombre": "Servidor 3",
+      "url": "https://dhcplay.com/e/uoj4hjyt732m"
+    }
+  ]
+}
