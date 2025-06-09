@@ -1,0 +1,23 @@
+{
+  "titulo": "Black Diamond",
+  "sinopsis": "",
+  "imagen_fondo": "https://image.tmdb.org/t/p/original/zjPOZtbAZPjF70dLUN2NWT3Tl1J.jpg",
+  "poster": "https://image.tmdb.org/t/p/original/6Tzq8vYW5ji0WQnMkg8kBFx3tWJ.jpg",
+  "genero": [
+    "Suspense"
+  ],
+  "servidores": [
+    {
+      "nombre": "Servidor 1",
+      "url": "https://dhcplay.com/e/fa2w9ly2iurf"
+    },
+    {
+      "nombre": "Servidor 2",
+      "url": "https://dhcplay.com/e/fa2w9ly2iurf"
+    },
+    {
+      "nombre": "Servidor 3",
+      "url": "https://dhcplay.com/e/fa2w9ly2iurf"
+    }
+  ]
+}
