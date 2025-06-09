@@ -1,0 +1,25 @@
+{
+  "titulo": "La fuente de la eterna juventud",
+  "sinopsis": "Un genio cazatesoros reúne a un equipo para una misión que cambiará vidas. Pero para esquivar y superar los obstáculos que se encontrará, necesitará a alguien más listo que él: su distanciada hermana.",
+  "imagen_fondo": "https://image.tmdb.org/t/p/original/aESb695wTIF0tB7RTGRebnYrjFK.jpg",
+  "poster": "https://image.tmdb.org/t/p/original/9bhDUyOCrcwPLKbPyHM4uKOa65T.jpg",
+  "genero": [
+    "Aventura",
+    "Fantasía",
+    "Misterio"
+  ],
+  "servidores": [
+    {
+      "nombre": "Servidor 1",
+      "url": "https://dhcplay.com/e/36e9br8cnjg2"
+    },
+    {
+      "nombre": "Servidor 2",
+      "url": "https://dhcplay.com/e/36e9br8cnjg2"
+    },
+    {
+      "nombre": "Servidor 3",
+      "url": "https://dhcplay.com/e/36e9br8cnjg2"
+    }
+  ]
+}
