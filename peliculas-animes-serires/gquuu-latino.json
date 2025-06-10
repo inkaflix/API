@@ -72,6 +72,13 @@
       "descripcion": "Sin descripción",
       "imagen": "https://image.tmdb.org/t/p/original/5CxnpKGjifCpQairtaBpBhiNjkE.jpg",
       "enlace": "https://dhcplay.com/e/2zgohuai2vnn"
+    },
+    {
+      "titulo": "Episodio 10",
+      "episodio": 10,
+      "descripcion": "Sin descripción",
+      "imagen": "https://image.tmdb.org/t/p/original/fyPkuoqllQX6k8KbjJvkkEAIgpq.jpg",
+      "enlace": "https://dhcplay.com/e/xy0nflysmrb2"
     }
   ]
 }
