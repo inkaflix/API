@@ -1,0 +1,62 @@
+{
+  "nombre": "The Last of Us",
+  "sinopsis": "Año 2023, veinte años después del comienzo de una plaga mundial que infectó a población con un hongo mutado transformando a las personas en unas criaturas caníbales, el contrabandista Joel tiene la misión de escoltar a la adolescente Ellie por un mundo postapocalíptico en el nada va a ser fácil para los viajeros.  Joel todavía vive atormentado por el recuerdo de su única hija. Ellie es portadora de algo que podría cambiar el destino de la humanidad ¿Conseguirán sobrevivir los dos?",
+  "fondo": "https://image.tmdb.org/t/p/original/zH9hsA4R84d57Omwz63CxwQtp9H.jpg",
+  "meta": [
+    "⭐ 8.53/10",
+    "📅 2023",
+    "• Drama",
+    "En emisión"
+  ],
+  "episodios": [
+    {
+      "titulo": "Los días por venir",
+      "episodio": 1,
+      "descripcion": "Cinco años después de los sucesos de Salt Lake City, Ellie, que ahora tiene 19 años, hace un descubrimiento mientras patrulla con su mejor amiga Dina. De vuelta en Jackson Hole, Joel busca ayuda para arreglar su relación con Ellie.",
+      "imagen": "https://image.tmdb.org/t/p/original/i8lsfJzt7buKLotPwCTBQyuPavN.jpg",
+      "enlace": "https://dhcplay.com/e/wjw6qpk7m2yi"
+    },
+    {
+      "titulo": "Por el valle",
+      "episodio": 2,
+      "descripcion": "Mientras se avecina una tormenta en las montañas, los habitantes de Jackson Hole se preparan para lo peor en medio de un aumento de los avistamientos de infectados. Mientras tanto, Abby sopesa sus opciones.",
+      "imagen": "https://image.tmdb.org/t/p/original/y5hH64UU5QSbsVOarLsdk0sD5Rm.jpg",
+      "enlace": "https://dhcplay.com/e/lemkvbw80x78"
+    },
+    {
+      "titulo": "El camino",
+      "episodio": 3,
+      "descripcion": "Después de que Dina comparta información crucial, Ellie se prepara para hacer una petición al ayuntamiento, incluso mientras lucha con sus profundas cicatrices emocionales. En las afueras de Seattle, una secta religiosa intenta huir de una guerra, lo que plantea interrogantes sobre lo que les espera.",
+      "imagen": "https://image.tmdb.org/t/p/original/yYxtVmduEAJWPyckZv4rqqinvoe.jpg",
+      "enlace": "https://dhcplay.com/e/fah103nzazee"
+    },
+    {
+      "titulo": "Día uno",
+      "episodio": 4,
+      "descripcion": "En 2018, la FEDRA de Seattle se enfrenta a un enemigo inesperado. Diez años después, Ellie y Dina se encuentran en medio de una sangrienta batalla entre los celosos Serafines y una despiadada milicia.",
+      "imagen": "https://image.tmdb.org/t/p/original/hI5PALWKjn9DeyQkAiObJwzSeOz.jpg",
+      "enlace": "https://dhcplay.com/e/05ouq2kxdsky"
+    },
+    {
+      "titulo": "Siente su amor",
+      "episodio": 5,
+      "descripcion": "La WLF hace un peligroso descubrimiento... con un gran coste. Más tarde, Ellie debe decidir si continuar con su plan y arriesgarse a poner a Dina en peligro o renunciar a su búsqueda de justicia.",
+      "imagen": "https://image.tmdb.org/t/p/original/o79Zkjoe2bNKslh8Dr7mcm8gyg.jpg",
+      "enlace": "https://dhcplay.com/e/475tvl779fwe"
+    },
+    {
+      "titulo": "El precio",
+      "episodio": 6,
+      "descripcion": "Joel le da una sorpresa a Ellie por su cumpleaños. Años después, Ellie se dispone a enfrentar a Joel por su pasado.",
+      "imagen": "https://image.tmdb.org/t/p/original/iyqiOrn1253erbEpX9UeSPYXhTh.jpg",
+      "enlace": "https://dhcplay.com/e/jo7azzt60o9m"
+    },
+    {
+      "titulo": "Convergencia",
+      "episodio": 7,
+      "descripcion": "Mientras los Lobos y los Cicatrices se preparan para una batalla que podría poner fin a su larga enemistad, la búsqueda de Ellie la aleja de sus amigos y la lleva a un enfrentamiento devastador.",
+      "imagen": "https://image.tmdb.org/t/p/original/4IZqCZRmBq9LifHFQkYA1QqqE0x.jpg",
+      "enlace": "https://dhcplay.com/e/gi56cesxdq7q"
+    }
+  ]
+}
