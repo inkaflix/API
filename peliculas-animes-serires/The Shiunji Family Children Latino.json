@@ -50,6 +50,13 @@
       "descripcion": "Sin descripción",
       "imagen": "https://image.tmdb.org/t/p/original/dCPwC4ViFoGIvXo7NktP1NC1BUM.jpg",
       "enlace": "https://dhcplay.com/e/kp9qi6eumaxg"
+    },
+    {
+      "titulo": "Episodio 7",
+      "episodio": 7,
+      "descripcion": "Sin descripción",
+      "imagen": "https://image.tmdb.org/t/p/original/wueGYFOIcJwoSLJQZkWXeRV5kl0.jpg",
+      "enlace": "https://dhcplay.com/e/lefsumb2nrxm"
     }
   ]
 }
