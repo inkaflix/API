@@ -1,0 +1,69 @@
+{
+  "nombre": "The Last of Us",
+  "sinopsis": "Año 2023, veinte años después del comienzo de una plaga mundial que infectó a población con un hongo mutado transformando a las personas en unas criaturas caníbales, el contrabandista Joel tiene la misión de escoltar a la adolescente Ellie por un mundo postapocalíptico en el nada va a ser fácil para los viajeros.  Joel todavía vive atormentado por el recuerdo de su única hija. Ellie es portadora de algo que podría cambiar el destino de la humanidad ¿Conseguirán sobrevivir los dos?",
+  "fondo": "https://image.tmdb.org/t/p/original/tl3DV2oKE2AaV6gNq0Dcenjrgim.jpg",
+  "meta": [
+    "⭐ 8.53/10",
+    "📅 2023",
+    "• Drama",
+    "En emisión"
+  ],
+  "episodios": [
+    {
+      "titulo": "Cuando te pierdas en la oscuridad",
+      "episodio": 1,
+      "descripcion": "Veinte años después de que una pandemia arrasase el planeta, los supervivientes Joel y Tess deben llevar a cabo una misión que podría cambiarlo todo.",
+      "imagen": "https://image.tmdb.org/t/p/original/3VeY1k8wFyhcrMyQ8jpGegh9beU.jpg",
+      "enlace": "https://dhcplay.com/e/o1wm7sa5zbil"
+    },
+    {
+      "titulo": "Infectado",
+      "episodio": 2,
+      "descripcion": "Tras escaparse de la zona de cuarentena, Joel y Tess discrepan sobre el futuro de Ellie mientras atraviesan las ruinas de un Boston abandonado.",
+      "imagen": "https://image.tmdb.org/t/p/original/vGf7chl6XL7o3yYc8A5m3kjz8px.jpg",
+      "enlace": "https://dhcplay.com/e/qxfv9n5w28s2"
+    },
+    {
+      "titulo": "Mucho mucho tiempo",
+      "episodio": 3,
+      "descripcion": "Cuando un desconocido se acerca a su campamento, el superviviente Bill forja una alianza inesperada. Más tarde Joel y Ellie le piden consejo a Bill.",
+      "imagen": "https://image.tmdb.org/t/p/original/fmaiMjbLXaeRyq2so0EXf3hrpyc.jpg",
+      "enlace": "https://dhcplay.com/e/pcup4z6eng4x"
+    },
+    {
+      "titulo": "Por favor, no me sueltes la mano",
+      "episodio": 4,
+      "descripcion": "Tras abandonar su camioneta en Kansas City, Joel y Ellie intentan huir sin llamar la atención de una líder rebelde muy vengativa.",
+      "imagen": "https://image.tmdb.org/t/p/original/5qD8lxWBj1K4MbpsOHd4f5ijTDW.jpg",
+      "enlace": "https://dhcplay.com/e/60dn0g7z0q2n"
+    },
+    {
+      "titulo": "Resistir y sobrevivir",
+      "episodio": 5,
+      "descripcion": "Mientras intentan esquivar a los rebeldes, Joel y Ellie se cruzan con el hombre más buscado de Kansas City. Kathleen sigue con su caza.",
+      "imagen": "https://image.tmdb.org/t/p/original/ztzxqW4IAVQRVimxhIfryP4CuI9.jpg",
+      "enlace": "https://dhcplay.com/e/jv2715u3o6v1"
+    },
+    {
+      "titulo": "Familia",
+      "episodio": 6,
+      "descripcion": "Tras ignorar los consejos de los locales, Joel y Ellie se adentran en un territorio peligroso para encontrar a las Luciérnagas y a Tommy.",
+      "imagen": "https://image.tmdb.org/t/p/original/zW9AIy0PVhYfmukqBcUvlvi4mKc.jpg",
+      "enlace": "https://dhcplay.com/e/3lmyra4mw2tq"
+    },
+    {
+      "titulo": "Lo que dejamos atrás",
+      "episodio": 7,
+      "descripcion": "Mientras Joel lucha por sobrevivir, Ellie recuerda la noche en la que todo cambió.",
+      "imagen": "https://image.tmdb.org/t/p/original/oNyC68bnOoVAiJnKVsRNY9YDbl6.jpg",
+      "enlace": "https://dhcplay.com/e/ob8ou8p5mnq5"
+    },
+    {
+      "titulo": "En nuestras horas más bajas",
+      "episodio": 8,
+      "descripcion": "Ellie se cruza con un grupo de supervivientes muy vengativo y llama la atención de su líder. Joel, debilitado, se enfrenta a una nueva amenaza.",
+      "imagen": "https://image.tmdb.org/t/p/original/iNbhbEOt1KAeqr5iyL9QOAZzgzT.jpg",
+      "enlace": "https://dhcplay.com/e/x2gsjxq5biy5"
+    }
+  ]
+}
