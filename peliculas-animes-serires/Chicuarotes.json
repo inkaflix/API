@@ -1,0 +1,24 @@
+{
+  "titulo": "Chicuarotes",
+  "sinopsis": "Chicuarotes trata acerca de ‘el Cagalera’ y ‘el Moloteco’, dos chicos que buscan desesperadamente salir de la situación y de su pueblo natal. La travesía inicia cuando un amigo de ellos les habla de la posibilidad de comprar una plaza en el sindicato de electricistas, para lo cual idean distintas formas de juntar el dinero y poderse ir junto con Sugehili, la novia de ‘el Cagalera’. Esto los lleva por una aventura juvenil que desemboca en un tornado del mundo criminal.",
+  "imagen_fondo": "https://image.tmdb.org/t/p/original/keWxkQoYWeEINYbdI8rye4oHCbP.jpg",
+  "poster": "https://image.tmdb.org/t/p/original/vN43s4gcqANLuVn5ImuTyb673iz.jpg",
+  "genero": [
+    "Drama",
+    "Crimen"
+  ],
+  "servidores": [
+    {
+      "nombre": "Servidor 1",
+      "url": "https://dhcplay.com/e/qpx5o7cw0jfk"
+    },
+    {
+      "nombre": "Servidor 2",
+      "url": "https://dhcplay.com/e/qpx5o7cw0jfk"
+    },
+    {
+      "nombre": "Servidor 3",
+      "url": "https://dhcplay.com/e/qpx5o7cw0jfk"
+    }
+  ]
+}
