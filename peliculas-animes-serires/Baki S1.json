@@ -1,0 +1,195 @@
+{
+  "nombre": "Baki",
+  "sinopsis": "El protagonista, Baki Hanma, entrena enfocado en superar a su padre, Yujiro Hanma, el luchador más fuerte del mundo. Cinco de los presos más violentos y brutales, se reúnen para enfrentar a Baki. Su objetivo es probar la derrota. Su fuerza y habilidad inigualable, los han llevado a aburrirse de la vida misma, y ahora buscan a Baki con la esperanza de que pueda abrumarlos y aplastarlos por completo. En esta crisis, otros guerreros de artes marciales subterráneos se reúnen para luchar al lado de Baki: Kaoru Hanayama, Gouki Shibukawa, Retsu Kaioh y Doppo Orochi. ¡Inicia un enfrentamiento épico entre los condenados a muerte y Baki y sus amigos!",
+  "fondo": "https://image.tmdb.org/t/p/original/rXbmuaZXH6oR5ni6m7AN6LnGFgg.jpg",
+  "meta": [
+    "⭐ 8.11/10",
+    "📅 2018",
+    "• Animación",
+    "Finalizado"
+  ],
+  "episodios": [
+    {
+      "titulo": "Sincronicidad",
+      "episodio": 1,
+      "descripcion": "Tokugawa, un famoso promotor de combates, advierte a Baki que cinco condenados a muerte huyeron de cárceles de diferentes partes del mundo y se dirigen a Tokio.",
+      "imagen": "https://image.tmdb.org/t/p/original/uFYdD7AxlEf5OuGyvHLoa1UaIMx.jpg",
+      "enlace": "https://dhcplay.com/e/0eev6gnuepiv"
+    },
+    {
+      "titulo": "Artes marciales oscuras",
+      "episodio": 2,
+      "descripcion": "Mientras Baki domina con facilidad a los matones contratados por delincuentes de su antigua escuela, Spec aparece para evaluar la capacidad del campeón.",
+      "imagen": "https://image.tmdb.org/t/p/original/dUFkV1kpyB7IM74vNHG1AwKjHtN.jpg",
+      "enlace": "https://dhcplay.com/e/39pky96qdsdv"
+    },
+    {
+      "titulo": "¡Ya están aquí!",
+      "episodio": 3,
+      "descripcion": "Tras escapar de la pena de muerte, Dorian irrumpe en el dojo Shinshinkai, donde lo enfrenta Retsu, un maestro de las artes marciales chinas.",
+      "imagen": "https://image.tmdb.org/t/p/original/uRillQqO7CuaKVs4ROGtG1x3fK8.jpg",
+      "enlace": "https://dhcplay.com/e/7xgdxwmdrfkf"
+    },
+    {
+      "titulo": "La batalla comienza",
+      "episodio": 4,
+      "descripcion": "Los cinco prófugos condenados a muerte y sus contrincantes se reúnen dentro del estadio subterráneo y Tokugawa anuncia oficialmente el comienzo de la batalla.",
+      "imagen": "https://image.tmdb.org/t/p/original/tjkY1weiJfyvuz81b5OonwoTdNA.jpg",
+      "enlace": "https://dhcplay.com/e/y9hawrnqvyrv"
+    },
+    {
+      "titulo": "¿Quieres más?",
+      "episodio": 5,
+      "descripcion": "Baki sale con Kozue y por poco cae en una emboscada de Spec, pero se ahorra una pelea cuando Kaoru aparece de la nada para proteger a la pareja.",
+      "imagen": "https://image.tmdb.org/t/p/original/R9xvNrEsX2uckv7eSnu5Vrxb5.jpg",
+      "enlace": "https://dhcplay.com/e/q24hhuq0q5pa"
+    },
+    {
+      "titulo": "El informe del oficial Katahira",
+      "episodio": 6,
+      "descripcion": "Spec ataca con técnicas capaces de matar de un solo golpe, pero Hanayama contraataca con sus propios movimientos secretos.",
+      "imagen": "https://image.tmdb.org/t/p/original/wt13SSg2ogIqXwZSRJM0ds0ODJ.jpg",
+      "enlace": "https://dhcplay.com/e/5xdc5xsvv9z1"
+    },
+    {
+      "titulo": "Un equipo formidable",
+      "episodio": 7,
+      "descripcion": "Baki logra sacar del edificio a Doyle, que lo había emboscado en clase; sin embargo, afuera se topa con Yanagi disfrazado.",
+      "imagen": "https://image.tmdb.org/t/p/original/eiJYoc1sln6P9Xf0fNWeul1pZes.jpg",
+      "enlace": "https://dhcplay.com/e/4h6hktm3c8h7"
+    },
+    {
+      "titulo": "Tiempo de lucha",
+      "episodio": 8,
+      "descripcion": "Dorian penetra las fuertes defensas de Tokugawa mientras Baki y sus aliados analizan lo ocurrido en la escuela.",
+      "imagen": "https://image.tmdb.org/t/p/original/mlZ3rF7h7bugd0UhMqKqpvN6R2U.jpg",
+      "enlace": "https://dhcplay.com/e/prtykwaeo6et"
+    },
+    {
+      "titulo": "Shin Shin Kai en shock",
+      "episodio": 9,
+      "descripcion": "Kiyosumi Kato, famoso por ser uno de los karatekas más fuertes del estilo Shinshinkai, enfrenta a Dorian en lo profundo de su escondite secreto.",
+      "imagen": "https://image.tmdb.org/t/p/original/uFizeI9GiqNakuRmbT84IBY5HSU.jpg",
+      "enlace": "https://dhcplay.com/e/mz6bhwo0z19z"
+    },
+    {
+      "titulo": "Duelo en las alturas",
+      "episodio": 10,
+      "descripcion": "El Shinshinkai, con un millón de miembros en todo el país, logra atraer a Dorian hacia un parque de diversiones, donde Suedo, el compañero de Kato, ataca de inmediato.",
+      "imagen": "https://image.tmdb.org/t/p/original/8fxOpv6uGtg8yK4KbV0ChYp370O.jpg",
+      "enlace": "https://dhcplay.com/e/gs7fxzuggzt4"
+    },
+    {
+      "titulo": "Cazador de tigres",
+      "episodio": 11,
+      "descripcion": "El pasado de Dorian se revela. Mientras tanto, Doppo Orochi, el fundador del Shinshinkai, lo reta a una batalla sin reglas de karate contra kempo.",
+      "imagen": "https://image.tmdb.org/t/p/original/5yLS5jJn5hMiQ1v4JX6wvZ46BLW.jpg",
+      "enlace": "https://dhcplay.com/e/qb221cozm8gs"
+    },
+    {
+      "titulo": "Dulces",
+      "episodio": 12,
+      "descripcion": "Doppo Orochi destroza a Dorian, que está muerto de miedo, antes de traer a Kiyosumi Kato, también herido gravemente, para dar los golpes de gracia.",
+      "imagen": "https://image.tmdb.org/t/p/original/lXSJzrewh7MEAsEqFrg7ChxgrNe.jpg",
+      "enlace": "https://dhcplay.com/e/g3xrh4kc3847"
+    },
+    {
+      "titulo": "El Sr. Oliva",
+      "episodio": 13,
+      "descripcion": "Sonoda, el jefe de la policía, juzga que los condenados a muerte que escaparon son un peligro para Tokio y busca ayuda de las fuerzas de seguridad de todo el mundo.",
+      "imagen": "https://image.tmdb.org/t/p/original/wWtvvbW1wo1RHwTL7mRjfvwnsR1.jpg",
+      "enlace": "https://dhcplay.com/e/lyji4fppnb0h"
+    },
+    {
+      "titulo": "Libertad imperdonable",
+      "episodio": 14,
+      "descripcion": "Sin descripción",
+      "imagen": "https://image.tmdb.org/t/p/original/j4wGL2ST2xRN6ZGWo0z1gB0GQDP.jpg",
+      "enlace": "https://dhcplay.com/e/mbr0fl9478l1"
+    },
+    {
+      "titulo": "Tremendo poder muscular",
+      "episodio": 15,
+      "descripcion": "Sin descripción",
+      "imagen": "https://image.tmdb.org/t/p/original/rwS27SpPnirNoBVcCGwcXQPrG6S.jpg",
+      "enlace": "https://dhcplay.com/e/ugp0mqv0f21l"
+    },
+    {
+      "titulo": "El cortador",
+      "episodio": 16,
+      "descripcion": "Sin descripción",
+      "imagen": "https://image.tmdb.org/t/p/original/nOwm3NiTcLVN2PadFGRCIOTH45X.jpg",
+      "enlace": "https://dhcplay.com/e/1hlvxk322avn"
+    },
+    {
+      "titulo": "¡¡Papá!!",
+      "episodio": 17,
+      "descripcion": "Sin descripción",
+      "imagen": "https://image.tmdb.org/t/p/original/4L1dZx7izEK4fJI2e1evVjwshxh.jpg",
+      "enlace": "https://dhcplay.com/e/40s4evne4viq"
+    },
+    {
+      "titulo": "Gracias",
+      "episodio": 18,
+      "descripcion": "Sin descripción",
+      "imagen": "https://image.tmdb.org/t/p/original/4wByu0B9r7TD5d5bb4us5waethS.jpg",
+      "enlace": "https://dhcplay.com/e/gl0bpuzizduz"
+    },
+    {
+      "titulo": "Admitir la derrota",
+      "episodio": 19,
+      "descripcion": "Sin descripción",
+      "imagen": "https://image.tmdb.org/t/p/original/z9A7QkGr1cHmOePMgXSFbNfUsi4.jpg",
+      "enlace": "https://dhcplay.com/e/rbusayejdmgf"
+    },
+    {
+      "titulo": "Saga",
+      "episodio": 20,
+      "descripcion": "Sin descripción",
+      "imagen": "https://image.tmdb.org/t/p/original/807uYl8KsrDVHPAl7ikyPgav9Bc.jpg",
+      "enlace": "https://dhcplay.com/e/jwdkds7zs75s"
+    },
+    {
+      "titulo": "Castigo",
+      "episodio": 21,
+      "descripcion": "Sin descripción",
+      "imagen": "https://image.tmdb.org/t/p/original/ugKCv7gV5YPdlzP94dXAXjU5Xog.jpg",
+      "enlace": "https://dhcplay.com/e/1ctkhrn26ul8"
+    },
+    {
+      "titulo": "El enfrentamiento de los alfa",
+      "episodio": 22,
+      "descripcion": "Sin descripción",
+      "imagen": "https://image.tmdb.org/t/p/original/digqiX9YSm1mpiHTMNzLcoVGA3y.jpg",
+      "enlace": "https://dhcplay.com/e/irg7188t8owm"
+    },
+    {
+      "titulo": "El ataque verdadero",
+      "episodio": 23,
+      "descripcion": "Sin descripción",
+      "imagen": "https://image.tmdb.org/t/p/original/8CH6qFVKMImUgIhhHnAhPI7Dfha.jpg",
+      "enlace": "https://dhcplay.com/e/80gbfv6uwfrx"
+    },
+    {
+      "titulo": "Derrota",
+      "episodio": 24,
+      "descripcion": "Sin descripción",
+      "imagen": "https://image.tmdb.org/t/p/original/figfJ6q15eZSGdJDraP6F3KjioT.jpg",
+      "enlace": "https://dhcplay.com/e/oo5awq9y03wq"
+    },
+    {
+      "titulo": "El bien y el mal",
+      "episodio": 25,
+      "descripcion": "Sin descripción",
+      "imagen": "https://image.tmdb.org/t/p/original/rWp9aXWI3mKcWYlcM8cffYsHLtC.jpg",
+      "enlace": "https://dhcplay.com/e/t7yeocyd73hb"
+    },
+    {
+      "titulo": "El torneo centenario",
+      "episodio": 26,
+      "descripcion": "Sin descripción",
+      "imagen": "https://image.tmdb.org/t/p/original/3699oIPV4zvjNiEd1GMPQjz0Xst.jpg",
+      "enlace": "https://dhcplay.com/e/br734zg172iq"
+    }
+  ]
+}
