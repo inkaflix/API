@@ -1,0 +1,104 @@
+{
+  "nombre": "Baki S2",
+  "sinopsis": "El protagonista, Baki Hanma, entrena enfocado en superar a su padre, Yujiro Hanma, el luchador más fuerte del mundo. Cinco de los presos más violentos y brutales, se reúnen para enfrentar a Baki. Su objetivo es probar la derrota. Su fuerza y habilidad inigualable, los han llevado a aburrirse de la vida misma, y ahora buscan a Baki con la esperanza de que pueda abrumarlos y aplastarlos por completo. En esta crisis, otros guerreros de artes marciales subterráneos se reúnen para luchar al lado de Baki: Kaoru Hanayama, Gouki Shibukawa, Retsu Kaioh y Doppo Orochi. ¡Inicia un enfrentamiento épico entre los condenados a muerte y Baki y sus amigos!",
+  "fondo": "https://image.tmdb.org/t/p/original/taarM0OCOQW1heyUaOttIwKbclu.jpg",
+  "meta": [
+    "⭐ 8.11/10",
+    "📅 2018",
+    "• Animación",
+    "Finalizado"
+  ],
+  "episodios": [
+    {
+      "titulo": "¡Que comience el torneo centenario!",
+      "episodio": 1,
+      "descripcion": "Sin descripción",
+      "imagen": "https://image.tmdb.org/t/p/original/uDK2JjN1aEAEHSnR5CvD0MK4WjC.jpg",
+      "enlace": "https://dhcplay.com/e/et6iyf9aiuza"
+    },
+    {
+      "titulo": "Giro radical",
+      "episodio": 2,
+      "descripcion": "Sin descripción",
+      "imagen": "https://image.tmdb.org/t/p/original/q3mkdo9z4lubIAaJl8OiTVJ9Mke.jpg",
+      "enlace": "https://dhcplay.com/e/1kudap10juuv"
+    },
+    {
+      "titulo": "Dulce recuperación",
+      "episodio": 3,
+      "descripcion": "Sin descripción",
+      "imagen": "https://image.tmdb.org/t/p/original/34RmY27b875qEj30DCncttP4nN4.jpg",
+      "enlace": "https://dhcplay.com/e/ata3tibwg685"
+    },
+    {
+      "titulo": "¡Hay equipo!",
+      "episodio": 4,
+      "descripcion": "Sin descripción",
+      "imagen": "https://image.tmdb.org/t/p/original/2rREONhrIQ9muLKtawpaTGpV84d.jpg",
+      "enlace": "https://dhcplay.com/e/9os699pskzxm"
+    },
+    {
+      "titulo": "Manos en los bolsillos",
+      "episodio": 5,
+      "descripcion": "Sin descripción",
+      "imagen": "https://image.tmdb.org/t/p/original/8Vo4cmPa9fa0HcgfnOz4clX16Zo.jpg",
+      "enlace": "https://dhcplay.com/e/slmr7dqelx6l"
+    },
+    {
+      "titulo": "¡Excelennnte!",
+      "episodio": 6,
+      "descripcion": "Sin descripción",
+      "imagen": "https://image.tmdb.org/t/p/original/xDAsazFaUqfRsOdsWWP8wddkaCI.jpg",
+      "enlace": "https://dhcplay.com/e/b1yaifo7hff9"
+    },
+    {
+      "titulo": "Kaioh",
+      "episodio": 7,
+      "descripcion": "Sin descripción",
+      "imagen": "https://image.tmdb.org/t/p/original/aebpliGZ3hgFkAXPJ0G7ssIXvPL.jpg",
+      "enlace": "https://dhcplay.com/e/0lskt5rin4xi"
+    },
+    {
+      "titulo": "El más fuerte",
+      "episodio": 8,
+      "descripcion": "Sin descripción",
+      "imagen": "https://image.tmdb.org/t/p/original/AdxeW1UD1DCOZ7cBPtuMXWpAAmg.jpg",
+      "enlace": "https://dhcplay.com/e/2dcvgle9rtzt"
+    },
+    {
+      "titulo": "El maestro contra el boxeador",
+      "episodio": 9,
+      "descripcion": "Sin descripción",
+      "imagen": "https://image.tmdb.org/t/p/original/lB6ZkaRa10unknMepIW1Y9mhrhA.jpg",
+      "enlace": "https://dhcplay.com/e/8alqln7kcawi"
+    },
+    {
+      "titulo": "Levántate y lucha",
+      "episodio": 10,
+      "descripcion": "Sin descripción",
+      "imagen": "https://image.tmdb.org/t/p/original/x61NlMTjKIyxt9Wje10i73C5HVS.jpg",
+      "enlace": "https://dhcplay.com/e/xy9jrlv3l0b2"
+    },
+    {
+      "titulo": "El despertar",
+      "episodio": 11,
+      "descripcion": "Sin descripción",
+      "imagen": "https://image.tmdb.org/t/p/original/8efvJiqwOFP5XYdTLRe0EOSmqDr.jpg",
+      "enlace": "https://dhcplay.com/e/m0rrxl6vfnk1"
+    },
+    {
+      "titulo": "La pelea tan esperada",
+      "episodio": 12,
+      "descripcion": "Sin descripción",
+      "imagen": "https://image.tmdb.org/t/p/original/ruCF5486yiMVvA84Zje5CwCNd2u.jpg",
+      "enlace": "https://dhcplay.com/e/7p729l7x7f0q"
+    },
+    {
+      "titulo": "Venganza en Tokio",
+      "episodio": 13,
+      "descripcion": "Sin descripción",
+      "imagen": "https://image.tmdb.org/t/p/original/uBEb3EE58jaFJ0HXw4QFsxPrKa6.jpg",
+      "enlace": "https://dhcplay.com/e/9hdddrnjmfxt"
+    }
+  ]
+}
