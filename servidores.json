@@ -1,20 +1,24 @@
 {
-    "Español Latino": [
-        {"nombre": "Gamma", "estado": "online", "link": "https://ejemplo1.com"},
-        {"nombre": "Delta", "estado": "online", "link": "https://ejemplo2.com"},
-        {"nombre": "Epsilon", "estado": "online", "link": "https://ejemplo3.com"},
-        {"nombre": "Alpha", "estado": "online", "link": "https://ejemplo4.com"}
-    ],
-    "Castellano": [
-        {"nombre": "Gamma", "estado": "online", "link": "https://ejemplo5.com"},
-        {"nombre": "Delta", "estado": "online", "link": "https://ejemplo6.com"},
-        {"nombre": "Epsilon", "estado": "online", "link": "https://ejemplo7.com"},
-        {"nombre": "Alpha", "estado": "online", "link": "https://ejemplo8.com"}
-    ],
-    "Subtítulos": [
-        {"nombre": "Gamma", "estado": "online", "link": "https://ejemplo9.com"},
-        {"nombre": "Delta", "estado": "online", "link": "https://ejemplo10.com"},
-        {"nombre": "Epsilon", "estado": "online", "link": "https://ejemplo11.com"},
-        {"nombre": "Alpha", "estado": "online", "link": "https://ejemplo12.com"}
-    ]
+    "titulo": "Witch Watch",
+    "episodio": "Episodio 7",
+    "servidores": {
+        "Español Latino": [
+            {"nombre": "Gamma", "estado": "online", "link": "https://ejemplo1.com"},
+            {"nombre": "Delta", "estado": "online", "link": "https://ejemplo2.com"},
+            {"nombre": "Epsilon", "estado": "online", "link": "https://ejemplo3.com"},
+            {"nombre": "Alpha", "estado": "online", "link": "https://ejemplo4.com"}
+        ],
+        "Castellano": [
+            {"nombre": "Gamma", "estado": "online", "link": "https://ejemplo5.com"},
+            {"nombre": "Delta", "estado": "online", "link": "https://ejemplo6.com"},
+            {"nombre": "Epsilon", "estado": "online", "link": "https://ejemplo7.com"},
+            {"nombre": "Alpha", "estado": "online", "link": "https://ejemplo8.com"}
+        ],
+        "Subtítulos": [
+            {"nombre": "Gamma", "estado": "online", "link": "https://ejemplo9.com"},
+            {"nombre": "Delta", "estado": "online", "link": "https://ejemplo10.com"},
+            {"nombre": "Epsilon", "estado": "online", "link": "https://ejemplo11.com"},
+            {"nombre": "Alpha", "estado": "online", "link": "https://ejemplo12.com"}
+        ]
+    }
 }
