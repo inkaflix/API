@@ -1,0 +1,88 @@
+{
+  "anime": {
+    "image": "https://image.tmdb.org/t/p/original/gWPK2RIVJ6i3myf7Xdw8DqlznT8.jpg",
+    "type": "Serie",
+    "year": "2022",
+    "title": "My Dress-Up Darling",
+    "description": "Gojo Wakana, un estudiante que sueña con hacer muñecas Hina, se une a Marin Kitagawa, la chica popular de su clase, cuando ella comparte un secreto que los acerca.",
+    "score": "8.487",
+    "status": "Finalizado",
+    "views": 0,
+    "alternative_titles": [
+      "Sono Bisque Doll wa Koi wo Suru"
+    ],
+    "rating": "PG-13",
+    "tags": [
+      "Animación",
+      "Comedia",
+      "Drama"
+    ],
+    "languages": [
+      "Lat🇲🇽"
+    ]
+  },
+  "temporadas": {
+    "1": [
+      {
+        "numero": 1,
+        "fecha": "2022-01-09",
+        "url": "https://dhcplay.com/e/1c8wzj3jzd77"
+      },
+      {
+        "numero": 2,
+        "fecha": "2022-01-16",
+        "url": "https://dhcplay.com/e/bj6mjbeygrfo"
+      },
+      {
+        "numero": 3,
+        "fecha": "2022-01-23",
+        "url": "https://dhcplay.com/e/utl261zicvho"
+      },
+      {
+        "numero": 4,
+        "fecha": "2022-01-30",
+        "url": "https://dhcplay.com/e/8sl880gyxfgo"
+      },
+      {
+        "numero": 5,
+        "fecha": "2022-02-06",
+        "url": "https://dhcplay.com/e/gl9jps40txi1"
+      },
+      {
+        "numero": 6,
+        "fecha": "2022-02-13",
+        "url": "https://dhcplay.com/e/ie8p34wsdw63"
+      },
+      {
+        "numero": 7,
+        "fecha": "2022-02-20",
+        "url": "https://dhcplay.com/e/actzhy5xmgjk"
+      },
+      {
+        "numero": 8,
+        "fecha": "2022-02-27",
+        "url": "https://dhcplay.com/e/eayprajq6nwg"
+      },
+      {
+        "numero": 9,
+        "fecha": "2022-03-06",
+        "url": "https://dhcplay.com/e/8ewme5otuj9r"
+      },
+      {
+        "numero": 10,
+        "fecha": "2022-03-13",
+        "url": "https://dhcplay.com/e/fcatjojfaofj"
+      },
+      {
+        "numero": 11,
+        "fecha": "2022-03-20",
+        "url": "https://dhcplay.com/e/8otq0p4yt11x"
+      },
+      {
+        "numero": 12,
+        "fecha": "2022-03-27",
+        "url": "https://dhcplay.com/e/9acj132d0olr"
+      }
+    ]
+  }
+}
