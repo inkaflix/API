@@ -9,18 +9,26 @@
     "status": "En emisión",
     "views": 0,
     "alternative_titles": [
-      "Mi favorito"
+      "Mi fovir"
     ],
-    "rating": "PG-13 Próximamente ",
+    "rating": "PG-13",
     "tags": [
       "Animación",
       "Drama",
       "Comedia"
     ],
     "languages": [
-      "Sub 🇯🇵",
+      "Jap 🇯🇵",
       "Lat🇲🇽"
     ]
   },
-  "temporadas": {}
+  "temporadas": {
+    "1": [
+      {
+        "numero": 1 PV,
+        "fecha": "2025-07-06",
+        "url": "https://dhcplay.com/e/f7maocssze9w"
+      }
+    ]
+  }
 }
