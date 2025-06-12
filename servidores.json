@@ -1,0 +1,14 @@
+{
+  "Español Latino": [
+    {"nombre": "Gamma", "estado": "online", "link": "https://example.com/latino/gamma"},
+    {"nombre": "Delta", "estado": "online", "link": "https://example.com/latino/delta"}
+  ],
+  "Castellano": [
+    {"nombre": "Gamma", "estado": "online", "link": "https://example.com/castellano/gamma"},
+    {"nombre": "Delta", "estado": "online", "link": "https://example.com/castellano/delta"}
+  ],
+  "Subtítulos": [
+    {"nombre": "Gamma", "estado": "online", "link": "https://example.com/sub/gamma"},
+    {"nombre": "Delta", "estado": "online", "link": "https://example.com/sub/delta"}
+  ]
+}
