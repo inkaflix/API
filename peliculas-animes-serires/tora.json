@@ -1,0 +1,53 @@
+{
+  "anime": {
+    "image": "https://image.tmdb.org/t/p/original/gUE1zdXPkEBdEUtmJ2rkcGON41s.jpg",
+    "type": "Serie",
+    "year": "2008",
+    "title": "Toradora!",
+    "description": "Ryuuji Takasu, un estudiante amable con rostro intimidante, y Taiga Aisaka, una pequeña pero feroz chica conocida como el \"Tigre de bolsillo\", terminan cruzando caminos por un error. Descubren que ambos tienen amores no correspondidos y forman una alianza para ayudarse mutuamente, desencadenando una divertida y emotiva comedia romántica.",
+    "score": "8.22",
+    "status": "En emisión",
+    "views": 0,
+    "alternative_titles": [
+      "Episodio"
+    ],
+    "rating": "PG-13",
+    "tags": [
+      "Animación",
+      "Comedia",
+      "Drama"
+    ],
+    "languages": [
+      "Castellano"
+    ]
+  },
+  "temporadas": {
+    "1": [
+      {
+        "numero": 1,
+        "fecha": "2008-10-02",
+        "url": "https://dhcplay.com/e/f9904dbqg18v"
+      },
+      {
+        "numero": 2,
+        "fecha": "2008-10-09",
+        "url": "https://dhcplay.com/e/ffydderhqqr2"
+      },
+      {
+        "numero": 3,
+        "fecha": "2008-10-16",
+        "url": "https://dhcplay.com/e/b22fgqdrzr0i"
+      },
+      {
+        "numero": 4,
+        "fecha": "2008-10-23",
+        "url": "https://dhcplay.com/e/g80w4m8bxsr4"
+      },
+      {
+        "numero": 5,
+        "fecha": "2008-10-30",
+        "url": "https://dhcplay.com/e/un72o132gudd"
+      }
+    ]
+  }
+}
