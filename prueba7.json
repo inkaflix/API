@@ -1,0 +1,22 @@
+{
+  "anime": {
+    "image": "https://image.tmdb.org/t/p/original/gffVOVZ2Y9cmVIZ26Gt9ByMGCYH.jpg",
+    "type": "Serie",
+    "year": "2023",
+    "title": "Mi Anime Favorito",
+    "description": "Esta es una descripción detallada del anime, con historia, personajes y más.",
+    "score": "8.7",
+    "status": "En emisión",
+    "views": 123456,
+    "alternative_titles": ["Anime Favorito", "Mi Anime", "Anime 2023"],
+    "rating": "PG-13",
+    "tags": ["Acción", "Aventura", "Fantasia"],
+    "languages": ["SUB", "DUB"]
+  },
+  "episodios": [
+    { "numero": 1, "fecha": "2025-06-01", "url": "https://example.com/episodio1" },
+    { "numero": 2, "fecha": "2025-06-08", "url": "https://example.com/episodio2" },
+    { "numero": 3, "fecha": "2025-06-15", "url": "https://example.com/episodio3" },
+    { "numero": 4, "fecha": "2025-06-22", "url": "https://example.com/episodio4" }
+  ]
+}
