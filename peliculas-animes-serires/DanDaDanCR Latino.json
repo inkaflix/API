@@ -1,97 +1,89 @@
 {
-  "nombre": "DAN DA DAN Crunchyroll",
-  "sinopsis": "En una apuesta por ver si existen los fantasmas o los alienígenas, dos adolescentes viven experiencias paranormales aterradoras, consiguen superpoderes y... ¿se enamoran?",
-  "fondo": "https://image.tmdb.org/t/p/original/uqwIHOmYeXEuZ8BqrKulvLAn4Io.jpg",
-  "meta": [
-    "⭐ 8.60/10",
-    "📅 2024",
-    "• Animación",
-    "En emisión"
-  ],
-  "episodios": [
-    {
-      "titulo": "Así empieza el amor",
-      "episodio": 1,
-      "descripcion": "Momo es una estudiante de secundaria que cree en los fantasmas, pero no en los alienígenas, mientras que su compañero está obsesionado con los OVNI y no cree en los espíritus.",
-      "imagen": "https://image.tmdb.org/t/p/original/bmVsa3oLgAd26YNJOPjJ4QgWY08.jpg",
-      "enlace": "https://dhcplay.com/e/4lor3h2w3ko0"
-    },
-    {
-      "titulo": "Eso de ahí es un alien, ¿no?",
-      "episodio": 2,
-      "descripcion": "Momo se lleva a Ken a casa y decide llamarlo Okarun. Pero de pronto aparece un alienígena descomunal y los ataca.",
-      "imagen": "https://image.tmdb.org/t/p/original/aIgNMI3bAR1yauVFlozRzsRdmxj.jpg",
-      "enlace": "https://dhcplay.com/e/ltxwdhq0cqwm"
-    },
-    {
-      "titulo": "¡Duelo entre abuelas!",
-      "episodio": 3,
-      "descripcion": "La abuela de Momo elimina temporalmente el espíritu maligno que hay dentro de Okarun, pero dice que para vencerlo del todo hay que jugar al pillapilla.",
-      "imagen": "https://image.tmdb.org/t/p/original/mM7WAhNZyXO0axLZ0FGhNIwY5Xv.jpg",
-      "enlace": "https://dhcplay.com/e/ao7iy7eb48hs"
-    },
-    {
-      "titulo": "¡La Turbovieja muerde el polvo!",
-      "episodio": 4,
-      "descripcion": "Okarun y Momo llegan al túnel para enfrentarse a la Turbovieja. Justo cuando creen que ya han ganado… va el espíritu de un cangrejo gigante y atraviesa la pared.",
-      "imagen": "https://image.tmdb.org/t/p/original/eTbwdeKsf7MV3Lj73F1VRQHfx80.jpg",
-      "enlace": "https://dhcplay.com/e/06byv6at9pff"
-    },
-    {
-      "titulo": "¿Dónde están tus pelotas?",
-      "episodio": 5,
-      "descripcion": "El terrible encuentro con la Turbovieja ha unido más a Momo y Okarun, pero siguen sintiéndose algo incómodos. Okarun se da cuenta de que aún tiene un problema.",
-      "imagen": "https://image.tmdb.org/t/p/original/s5JwTxygUTK9n3DuUyLqMaiJ2YZ.jpg",
-      "enlace": "https://dhcplay.com/e/ai7wn6ncogz8"
-    },
-    {
-      "titulo": "Una mujer de armas tomar",
-      "episodio": 6,
-      "descripcion": "La Turbovieja desvela que los órganos que le faltan a Okarun están en unas bolas de oro. Aira ha encontrado una y ahora puede ver a los espíritus.",
-      "imagen": "https://image.tmdb.org/t/p/original/lcv6jNytD27nnf7xlJYvYbG8gTo.jpg",
-      "enlace": "https://dhcplay.com/e/ma2hb3uf16gm"
-    },
-    {
-      "titulo": "Un mundo más amable",
-      "episodio": 7,
-      "descripcion": "Momo y Okarun se las arreglan para debilitar a Sedosa Acrobática, pero descubren algo inesperado sobre Aira. A Sedosa Acrobática se le ocurre una idea asombrosa para ayudarlos.",
-      "imagen": "https://image.tmdb.org/t/p/original/zhJH4UprWXS6pxeuAKSspX8VH4z.jpg",
-      "enlace": "https://dhcplay.com/e/nyrtclurcaxt"
-    },
-    {
-      "titulo": "Noto algo raro",
-      "episodio": 8,
-      "descripcion": "Aira empieza a enamorarse de Okarun. Mientras se entretejen los sentimientos de los tres amigos, de pronto deben atender otra emergencia alienígena.",
-      "imagen": "https://image.tmdb.org/t/p/original/27ljA0RrrnK5OQ3AvnorwslMPAg.jpg",
-      "enlace": "https://dhcplay.com/e/en5hrnoc8hih"
-    },
-    {
-      "titulo": "¡Fusión! Nessie y el demonio de Dover",
-      "episodio": 9,
-      "descripcion": "Con el poder de Sedosa Acrobática, Aira lucha contra los serponianos junto a Okarun y Momo. Los frustrados serponianos se fusionan en su esbirro en forma de crustáceo.",
-      "imagen": "https://image.tmdb.org/t/p/original/cs4OHpnp1ImA5kYFQGUyZk0nPWC.jpg",
-      "enlace": "https://dhcplay.com/e/7c4547r73dyd"
-    },
-    {
-      "titulo": "¿Has visto alguna vez la abducción de ganado?",
-      "episodio": 10,
-      "descripcion": "Okarun y las chicas tratan de aclarar varios malentendidos con sus compañeros de clase. Más tarde, la criatura acuática vuelve a aparecerse ante Momo y Aira.",
-      "imagen": "https://image.tmdb.org/t/p/original/eC5j96o7lULnR3Ea4NtYUcNnz3J.jpg",
-      "enlace": "https://dhcplay.com/e/49l632r9g7y1"
-    },
-    {
-      "titulo": "Primer amor",
-      "episodio": 11,
-      "descripcion": "Okarun se siente intimidado ante la llegada de Jiji tras saber que fue el primer amor de Momo y empieza a comerse la cabeza con el tema. Sobre todo cuando ve que va a quedarse a vivir en casa de Momo.",
-      "imagen": "https://image.tmdb.org/t/p/original/ukLCwrihDj0hYDMolv5KsNanIed.jpg",
-      "enlace": "https://dhcplay.com/e/9x1hsmgwm3f0"
-    },
-    {
-      "titulo": "De escapada a la casa encantada",
-      "episodio": 12,
-      "descripcion": "Momo y Okarun se dirigen a la supuesta casa encantada de Jiji. Cuando llegan, en principio no ven nada, pero algo los está observando.",
-      "imagen": "https://image.tmdb.org/t/p/original/kgfnqFois5hvCOh7ba8PnUEFaYq.jpg",
-      "enlace": "https://dhcplay.com/e/z1y8fu16eeha"
-    }
-  ]
+  "anime": {
+    "image": "https://image.tmdb.org/t/p/original/jlbUx0aHJupDVDlCo0R7UxSaUUd.jpg",
+    "type": "Serie",
+    "year": "2024",
+    "title": "DAN DA DAN",
+    "description": "En una apuesta por ver si existen los fantasmas o los alienígenas, dos adolescentes viven experiencias paranormales aterradoras, consiguen superpoderes y... ¿se enamoran?",
+    "score": "8.6",
+    "status": "En emisión",
+    "views": 0,
+    "alternative_titles": [
+      "Dan Da Dan CR"
+    ],
+    "rating": "PG-13",
+    "tags": [
+      "Animación",
+      "Action & Adventure",
+      "Comedia",
+      "Sci-Fi & Fantasy"
+    ],
+    "languages": [
+      "Lat CR"
+    ]
+  },
+  "temporadas": {
+    "1": [
+      {
+        "numero": 1,
+        "fecha": "2024-10-04",
+        "url": "https://dhcplay.com/e/4lor3h2w3ko0"
+      },
+      {
+        "numero": 2,
+        "fecha": "2024-10-11",
+        "url": "https://dhcplay.com/e/ltxwdhq0cqwm"
+      },
+      {
+        "numero": 3,
+        "fecha": "2024-10-18",
+        "url": "https://dhcplay.com/e/ao7iy7eb48hs"
+      },
+      {
+        "numero": 4,
+        "fecha": "2024-10-25",
+        "url": "https://dhcplay.com/e/06byv6at9pff"
+      },
+      {
+        "numero": 5,
+        "fecha": "2024-11-01",
+        "url": "https://dhcplay.com/e/ai7wn6ncogz8"
+      },
+      {
+        "numero": 6,
+        "fecha": "2024-11-08",
+        "url": "https://dhcplay.com/e/ma2hb3uf16gm"
+      },
+      {
+        "numero": 7,
+        "fecha": "2024-11-15",
+        "url": "https://dhcplay.com/e/nyrtclurcaxt"
+      },
+      {
+        "numero": 8,
+        "fecha": "2024-11-22",
+        "url": "https://dhcplay.com/e/en5hrnoc8hih"
+      },
+      {
+        "numero": 9,
+        "fecha": "2024-11-29",
+        "url": "https://dhcplay.com/e/7c4547r73dyd"
+      },
+      {
+        "numero": 10,
+        "fecha": "2024-12-06",
+        "url": "https://dhcplay.com/e/49l632r9g7y1"
+      },
+      {
+        "numero": 11,
+        "fecha": "2024-12-13",
+        "url": "https://dhcplay.com/e/9x1hsmgwm3f0"
+      },
+      {
+        "numero": 12,
+        "fecha": "2024-12-20",
+        "url": "https://dhcplay.com/e/z1y8fu16eeha"
+      }
+    ]
+  }
 }
