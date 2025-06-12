@@ -1,14 +1,20 @@
 {
-  "Español Latino": [
-    {"nombre": "Gamma", "estado": "online", "link": "https://example.com/latino/gamma"},
-    {"nombre": "Delta", "estado": "online", "link": "https://example.com/latino/delta"}
-  ],
-  "Castellano": [
-    {"nombre": "Gamma", "estado": "online", "link": "https://example.com/castellano/gamma"},
-    {"nombre": "Delta", "estado": "online", "link": "https://example.com/castellano/delta"}
-  ],
-  "Subtítulos": [
-    {"nombre": "Gamma", "estado": "online", "link": "https://example.com/sub/gamma"},
-    {"nombre": "Delta", "estado": "online", "link": "https://example.com/sub/delta"}
-  ]
+    "Español Latino": [
+        {"nombre": "Gamma", "estado": "online", "link": "https://ejemplo1.com"},
+        {"nombre": "Delta", "estado": "online", "link": "https://ejemplo2.com"},
+        {"nombre": "Epsilon", "estado": "online", "link": "https://ejemplo3.com"},
+        {"nombre": "Alpha", "estado": "online", "link": "https://ejemplo4.com"}
+    ],
+    "Castellano": [
+        {"nombre": "Gamma", "estado": "online", "link": "https://ejemplo5.com"},
+        {"nombre": "Delta", "estado": "online", "link": "https://ejemplo6.com"},
+        {"nombre": "Epsilon", "estado": "online", "link": "https://ejemplo7.com"},
+        {"nombre": "Alpha", "estado": "online", "link": "https://ejemplo8.com"}
+    ],
+    "Subtítulos": [
+        {"nombre": "Gamma", "estado": "online", "link": "https://ejemplo9.com"},
+        {"nombre": "Delta", "estado": "online", "link": "https://ejemplo10.com"},
+        {"nombre": "Epsilon", "estado": "online", "link": "https://ejemplo11.com"},
+        {"nombre": "Alpha", "estado": "online", "link": "https://ejemplo12.com"}
+    ]
 }
