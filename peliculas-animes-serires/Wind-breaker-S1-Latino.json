@@ -1,153 +1,125 @@
 {
-  "nombre": "Wind Breaker",
-  "sinopsis": "El instituto Fûrin se ha ganado la peor reputación entre los centros de la zona por tener la media escolar más baja y los alumnos más rebeldes. Haruka Sakura es un joven recién llegado a la ciudad que quiere convertirse en el más fuerte del barrio para así proteger a todos aquellos que le importan. Para conseguir su propósito, lo primero que debe hacer es unirse a una pandilla llamada Wind Breaker, que representa a su instituto y cuyo objetivo es defender la ciudad del resto de bandas y maleantes. Sin embargo, ¡Para que lo acepten deberá ganarse el respeto a puñetazos!",
-  "fondo": "https://image.tmdb.org/t/p/original/c2wfIKUPcQY0tiyiOmY7ItHtNO9.jpg",
-  "meta": [
-    "⭐ 8.08/10",
-    "📅 2024",
-    "• Animación",
-    "En emisión"
-  ],
-  "episodios": [
-    {
-      "titulo": "Sakura y la Furin",
-      "episodio": 1,
-      "descripcion": "Haruka Sakura tiene un aspecto peculiar y siempre lo aislaron por ello, pero espera que las cosas cambien en su nueva preparatoria. No obstante, luego de mudarse ayuda a una mujer que cambiará su visión del mundo.",
-      "imagen": "https://image.tmdb.org/t/p/original/g84xbY09pycSbUHIf37ehvtruoL.jpg",
-      "enlace": "https://dhcplay.com/e/plz71bhkw0uk"
-    },
-    {
-      "titulo": "Los héroes idolatrados",
-      "episodio": 2,
-      "descripcion": "Sakura conoce a un torpe estudiante de la Furin, Akihiko Nirei. Luego de una nueva tanda de problemas, Akihiko y su nuevo compañero se adentran en la que será su nueva clase.",
-      "imagen": "https://image.tmdb.org/t/p/original/9Ld4WJiU31CZKn4kj3iiajlVMg3.jpg",
-      "enlace": "https://dhcplay.com/e/dkrgo2fsnmkl"
-    },
-    {
-      "titulo": "El hombre en la cima",
-      "episodio": 3,
-      "descripcion": "Después de llegar a la escuela, Sakura sale con Hiiragi y sus nuevos compañeros a patrullar el barrio. Ahí se topan con una banda rival y nada bueno saldrá de ahí.",
-      "imagen": "https://image.tmdb.org/t/p/original/jDCzX14ewVMUDKeE0lNkUGWUaer.jpg",
-      "enlace": "https://dhcplay.com/e/vuf9je6b4srh"
-    },
-    {
-      "titulo": "Enfrentamiento",
-      "episodio": 4,
-      "descripcion": "Pese a que el líder de Wind Breaker no tiene problemas luego del encuentro con Shishitoren, el capitán de esta otra banda visita la escuela de Sakura y compañía y complica aún más la situación.",
-      "imagen": "https://image.tmdb.org/t/p/original/zkegatnupvc45ilhARSSaH8ghbC.jpg",
-      "enlace": "https://dhcplay.com/e/9nqdviyjits5"
-    },
-    {
-      "titulo": "Un buen hombre",
-      "episodio": 5,
-      "descripcion": "Tomiyama lleva a los miembros del Furin a su guarida y allí comienzan los duelos. En uno de ellos veremos las dos caras de un buen hombre.",
-      "imagen": "https://image.tmdb.org/t/p/original/qSVvOx05fLB0YuuCvz5wkQEMcup.jpg",
-      "enlace": "https://dhcplay.com/e/atkylj29q3lp"
-    },
-    {
-      "titulo": "Persiguiendo esa espalda",
-      "episodio": 6,
-      "descripcion": "Sakura está impaciente por luchar, pero esta vez es el turno de Hiiragi, que se enfrenta a Sako. Y, como ya dieron a entrever, hay historia entre ambos.",
-      "imagen": "https://image.tmdb.org/t/p/original/AjByIqC431kE3r4XXAxogyvPOwg.jpg",
-      "enlace": "https://dhcplay.com/e/kxwbka29k3pg"
-    },
-    {
-      "titulo": "Una pelea que no puedo perder",
-      "episodio": 7,
-      "descripcion": "Por fin le toca el turno a Sakura, que se enfrentará al vicecapitán de la Shishitoren. La banda predica el Culto a la Fuerza, pero tal vez no signifique lo mismo para todos.",
-      "imagen": "https://image.tmdb.org/t/p/original/nceIP73rvOb8v2suNmmJGmNcYGe.jpg",
-      "enlace": "https://dhcplay.com/e/neaj97ay58dv"
-    },
-    {
-      "titulo": "Agenciándose sentimientos",
-      "episodio": 8,
-      "descripcion": "La acusación de Sakura de que no está luchando en serio parece afectar a Togame, aunque el resultado quizás no sea el que espera el joven de la Furin.",
-      "imagen": "https://image.tmdb.org/t/p/original/7azHDs1BZFgDhQcdMCZ1MCJFU47.jpg",
-      "enlace": "https://dhcplay.com/e/2fgrzycsu45w"
-    },
-    {
-      "titulo": "El método de Umemiya",
-      "episodio": 9,
-      "descripcion": "Umemiya se prepara para su duelo con Tomiyama, a quien parece querer hacer entender algunas cosas tras ver su comportamiento al ver caer derrotados a sus compañeros.",
-      "imagen": "https://image.tmdb.org/t/p/original/h3A3Ak6aSnVM3R5Bntlt8p1nNXw.jpg",
-      "enlace": "https://dhcplay.com/e/nqk77e2ku3xr"
-    },
-    {
-      "titulo": "Diálogo",
-      "episodio": 10,
-      "descripcion": "Tras el enfrentamiento, la Wind Breaker y la Shishitoren se reúnen para reflexionar sobre todo lo ocurrido, aunque Sakura descubrirá algo nuevo de la vida.",
-      "imagen": "https://image.tmdb.org/t/p/original/biWhvQJFdMDtWESbtPjeVPibF0n.jpg",
-      "enlace": "https://dhcplay.com/e/d4ga8xlvftaz"
-    },
-    {
-      "titulo": "Nuevos amigos",
-      "episodio": 11,
-      "descripcion": "Sakura regresa a la escuela y conoce mejor a otro de sus compañeros, Tsugeura. En el proceso se topa con el chico de cabello rosa de clase y, una vez más, termina peleando.",
-      "imagen": "https://image.tmdb.org/t/p/original/2okNdGHLbTzb5KdY9kNWkEV19GE.jpg",
-      "enlace": "https://dhcplay.com/e/5dz0nvg5daup"
-    },
-    {
-      "titulo": "Alguien de confianza",
-      "episodio": 12,
-      "descripcion": "El monitor de segundo de la cuadrilla Tamon y sus auxiliares visitan la clase de Sakura para que estos elijan a su propio monitor.",
-      "imagen": "https://image.tmdb.org/t/p/original/ayihh6LIUKJgHPmSZFu04C3Fbto.jpg",
-      "enlace": "https://dhcplay.com/e/8ldonegue3cz"
-    },
-    {
-      "titulo": "Por un amigo",
-      "episodio": 13,
-      "descripcion": "Sakura y sus ayudantes conocen mejor a los líderes de la cuadrilla Tamon y, tras oír las palabras de Umemiya, Sakura no puede abandonar a su compañero de clase Anzai, que ha aparecido con heridas.",
-      "imagen": "https://image.tmdb.org/t/p/original/rNIv35v842nTpwUiOSHePaCRwOO.jpg",
-      "enlace": "https://dhcplay.com/e/wyf9j1fozpht"
-    },
-    {
-      "titulo": "Furia",
-      "episodio": 14,
-      "descripcion": "Sakura y los de primero del Furin se dirigen a la guarida de KEEL a recuperar a Nagato.",
-      "imagen": "https://image.tmdb.org/t/p/original/sd1T0e2H87wRpnH8C0dOLaELTbQ.jpg",
-      "enlace": "https://dhcplay.com/e/ot6445ouur1b"
-    },
-    {
-      "titulo": "Resolución",
-      "episodio": 15,
-      "descripcion": "Tras la llegada de refuerzos, la Wind Breaker parece recuperar el control de la batalla contra Keel.",
-      "imagen": "https://image.tmdb.org/t/p/original/aYTq2x5VjO8QEONDpkVxTeHJBOm.jpg",
-      "enlace": "https://dhcplay.com/e/85ezu15cm7ui"
-    },
-    {
-      "titulo": "Volver a empezar",
-      "episodio": 16,
-      "descripcion": "Tras la batalla contra KEEL, los involucrados deben ir a informar a Umemiya de lo sucedido.",
-      "imagen": "https://image.tmdb.org/t/p/original/aqT66onvfCqLxZc8Ifk1Z1C6lb2.jpg",
-      "enlace": "https://dhcplay.com/e/1c9hsfehgryx"
-    },
-    {
-      "titulo": "Las enseñanzas de los mayores",
-      "episodio": 17,
-      "descripcion": "Sakura coge un resfriado, pero sigue negándose rotundamente a depender de los demás.",
-      "imagen": "https://image.tmdb.org/t/p/original/4i2iE1Ind8B7Ed7tYlpxLTXoHkh.jpg",
-      "enlace": "https://dhcplay.com/e/7pbrb60pnfgy"
-    },
-    {
-      "titulo": "Mi lugar",
-      "episodio": 18,
-      "descripcion": "Sakura siempre se las ha arreglado solo, pero sus compañeros harán lo posible para que sepa que no lo está.",
-      "imagen": "https://image.tmdb.org/t/p/original/bFgl2FV4AU2NCqQok1B1cMA4MAJ.jpg",
-      "enlace": "https://dhcplay.com/e/058enjj8bwuh"
-    },
-    {
-      "titulo": "Sentimientos reservados",
-      "episodio": 19,
-      "descripcion": "La cita de Sakura con Tsubaki resulta ser una visita a un señor mayor que perdió a su esposa.",
-      "imagen": "https://image.tmdb.org/t/p/original/oRJKkp4y4We878RCa3EV0eA4T5W.jpg",
-      "enlace": "https://dhcplay.com/e/3cuyk3iq7pi9"
-    },
-    {
-      "titulo": "El barrio nocturno",
-      "episodio": 20,
-      "descripcion": "Tsubaki lleva a Sakura, Nirei y Suo al barrio del entretenimiento en agradecimiento por ayudar al  señor Ito.",
-      "imagen": "https://image.tmdb.org/t/p/original/2fohG91LA2lJqHKmh26CqrtVAi6.jpg",
-      "enlace": "https://dhcplay.com/e/jpaoh2bljdmy"
-    }
-  ]
-    }
+  "anime": {
+    "image": "https://image.tmdb.org/t/p/original/czrAvoN103RYYX8lhkZPs2zgnkl.jpg",
+    "type": "Serie",
+    "year": "2024",
+    "title": "Wind Breaker",
+    "description": "El instituto Fûrin se ha ganado la peor reputación entre los centros de la zona por tener la media escolar más baja y los alumnos más rebeldes. Haruka Sakura es un joven recién llegado a la ciudad que quiere convertirse en el más fuerte del barrio para así proteger a todos aquellos que le importan. Para conseguir su propósito, lo primero que debe hacer es unirse a una pandilla llamada Wind Breaker, que representa a su instituto y cuyo objetivo es defender la ciudad del resto de bandas y maleantes. Sin embargo, ¡Para que lo acepten deberá ganarse el respeto a puñetazos!",
+    "score": "8.1",
+    "status": "En emisión",
+    "views": 0,
+    "alternative_titles": [],
+    "rating": "PG-13",
+    "tags": [
+      "Animación",
+      "Action & Adventure"
+    ],
+    "languages": [
+      "Lat"
+    ]
+  },
+  "temporadas": {
+    "1": [
+      {
+        "numero": 1,
+        "fecha": "2024-04-05",
+        "url": "https://dhcplay.com/e/plz71bhkw0uk"
+      },
+      {
+        "numero": 2,
+        "fecha": "2024-04-12",
+        "url": "https://dhcplay.com/e/dkrgo2fsnmkl"
+      },
+      {
+        "numero": 3,
+        "fecha": "2024-04-19",
+        "url": "https://dhcplay.com/e/vuf9je6b4srh"
+      },
+      {
+        "numero": 4,
+        "fecha": "2024-04-26",
+        "url": "https://dhcplay.com/e/9nqdviyjits5"
+      },
+      {
+        "numero": 5,
+        "fecha": "2024-05-03",
+        "url": "https://dhcplay.com/e/atkylj29q3lp"
+      },
+      {
+        "numero": 6,
+        "fecha": "2024-05-10",
+        "url": "https://dhcplay.com/e/kxwbka29k3pg"
+      },
+      {
+        "numero": 7,
+        "fecha": "2024-05-17",
+        "url": "https://dhcplay.com/e/neaj97ay58dv"
+      },
+      {
+        "numero": 8,
+        "fecha": "2024-05-24",
+        "url": "https://dhcplay.com/e/2fgrzycsu45w"
+      },
+      {
+        "numero": 9,
+        "fecha": "2024-05-31",
+        "url": "https://dhcplay.com/e/nqk77e2ku3xr"
+      },
+      {
+        "numero": 10,
+        "fecha": "2024-06-07",
+        "url": "https://dhcplay.com/e/d4ga8xlvftaz"
+      },
+      {
+        "numero": 11,
+        "fecha": "2024-06-14",
+        "url": "https://dhcplay.com/e/5dz0nvg5daup"
+      },
+      {
+        "numero": 12,
+        "fecha": "2024-06-21",
+        "url": "https://dhcplay.com/e/8ldonegue3cz"
+      },
+      {
+        "numero": 13,
+        "fecha": "2024-06-28",
+        "url": "https://dhcplay.com/e/wyf9j1fozpht"
+      },
+      {
+        "numero": 14,
+        "fecha": "2024-07-05",
+        "url": "https://dhcplay.com/e/ot6445ouur1b"
+      },
+      {
+        "numero": 15,
+        "fecha": "2024-07-12",
+        "url": "https://dhcplay.com/e/85ezu15cm7ui"
+      },
+      {
+        "numero": 16,
+        "fecha": "2024-07-19",
+        "url": "https://dhcplay.com/e/1c9hsfehgryx"
+      },
+      {
+        "numero": 17,
+        "fecha": "2024-07-26",
+        "url": "https://dhcplay.com/e/7pbrb60pnfgy"
+      },
+      {
+        "numero": 18,
+        "fecha": "2024-08-02",
+        "url": "https://dhcplay.com/e/058enjj8bwuh"
+      },
+      {
+        "numero": 19,
+        "fecha": "2024-08-09",
+        "url": "https://dhcplay.com/e/3cuyk3iq7pi9"
+      },
+      {
+        "numero": 20,
+        "fecha": "2024-08-16",
+        "url": "https://dhcplay.com/e/jpaoh2bljdmy"
+      }
+    ]
+  }
+}
