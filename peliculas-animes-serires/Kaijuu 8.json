@@ -1,0 +1,81 @@
+{
+  "anime": {
+    "image": "https://image.tmdb.org/t/p/original/9DrORnlwnjt5SeJKcuE5sqOoIdV.jpg",
+    "type": "Serie",
+    "year": "2024",
+    "title": "Kaiju No. 8",
+    "description": "Japón sufre constantes ataques de Kaijus, y Kafka Hibino, un limpiador de sus restos, sueña con unirse a las Fuerzas de Defensa. Todo cambia cuando una criatura lo transforma en un Kaiju, ganándose el nombre de \"Kaiju N.8\".",
+    "score": "8.578",
+    "status": "Finalizado",
+    "views": 0,
+    "alternative_titles": [],
+    "rating": "PG-13",
+    "tags": [
+      "Animación",
+      "Action & Adventure",
+      "Sci-Fi & Fantasy"
+    ],
+    "languages": [
+      "Lat🇲🇽"
+    ]
+  },
+  "temporadas": {
+    "1": [
+      {
+        "numero": 1,
+        "fecha": "2024-04-13",
+        "url": "https://dhcplay.com/e/zfioq4r6cqfi"
+      },
+      {
+        "numero": 2,
+        "fecha": "2024-04-20",
+        "url": "https://dhcplay.com/e/9cwj6j4igeh9"
+      },
+      {
+        "numero": 3,
+        "fecha": "2024-04-27",
+        "url": "https://dhcplay.com/e/q7pezblc5soe"
+      },
+      {
+        "numero": 4,
+        "fecha": "2024-05-04",
+        "url": "https://dhcplay.com/e/crj0suw0xu3u"
+      },
+      {
+        "numero": 5,
+        "fecha": "2024-05-11",
+        "url": "https://dhcplay.com/e/migo0xfshb5w"
+      },
+      {
+        "numero": 6,
+        "fecha": "2024-05-18",
+        "url": "https://dhcplay.com/e/vd1sej3k4zcd"
+      },
+      {
+        "numero": 7,
+        "fecha": "2024-05-25",
+        "url": "https://dhcplay.com/e/txuyutffgiis"
+      },
+      {
+        "numero": 9,
+        "fecha": "2024-06-08",
+        "url": "https://dhcplay.com/e/41ygkhr25eik"
+      },
+      {
+        "numero": 10,
+        "fecha": "2024-06-15",
+        "url": "https://dhcplay.com/e/6a3k46kdzdte"
+      },
+      {
+        "numero": 11,
+        "fecha": "2024-06-22",
+        "url": "https://dhcplay.com/e/u7pf70erjp9v"
+      },
+      {
+        "numero": 12,
+        "fecha": "2024-06-29",
+        "url": "https://dhcplay.com/e/i6r3www2jmaz"
+      }
+    ]
+  }
+}
