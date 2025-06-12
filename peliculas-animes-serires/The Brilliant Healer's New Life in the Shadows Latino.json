@@ -1,55 +1,59 @@
 {
-  "nombre": "The Brilliant Healer's New Life in the Shadows",
-  "sinopsis": "Zenos, un curandero autodidacta de los barrios bajos que ha sido desterrado por inútil, decide luchar contra la desesperación y abre una clínica clandestina en la ciudad. Con su incomparable magia sin licencia, cura, consuela y repara males, convirtiéndose discretamente en una leyenda. Pero a medida que aumenta su poder, comienza a llamar la atención del Palacio Real. ¿Podrá superar las adversidades y sanar a un mundo que lo marginó?",
-  "fondo": "https://image.tmdb.org/t/p/original/j1DWfywFr2Dkx4FFvvLMGWOrOcJ.jpg",
-  "meta": [
-    "⭐ 7.29/10",
-    "📅 2025",
-    "• Action & Adventure",
-    "En emisión"
-  ],
-  "episodios": [
-    {
-      "titulo": "Episodio 1",
-      "episodio": 1,
-      "descripcion": "Sin descripción",
-      "imagen": "https://image.tmdb.org/t/p/original/2kUUCSJ36q3sVlyTjfEjeCqXpuI.jpg",
-      "enlace": "https://dhcplay.com/e/zyq7m5bk7vmh"
-    },
-    {
-      "titulo": "Episodio 2",
-      "episodio": 2,
-      "descripcion": "Sin descripción",
-      "imagen": "https://image.tmdb.org/t/p/original/bKHFLjqJ5E11dDWfJoTCNGrdfte.jpg",
-      "enlace": "https://dhcplay.com/e/3qnlrn2neca0"
-    },
-    {
-      "titulo": "Episodio 3",
-      "episodio": 3,
-      "descripcion": "Sin descripción",
-      "imagen": "https://image.tmdb.org/t/p/original/uqlHnDb8Jp8NwImi9Gb1w29MFeH.jpg",
-      "enlace": "https://dhcplay.com/e/6sf37092j5l9"
-    },
-    {
-      "titulo": "Episodio 4",
-      "episodio": 4,
-      "descripcion": "Sin descripción",
-      "imagen": "https://image.tmdb.org/t/p/original/do6Bd4qtulRsAS4o5A1ndiKD1QA.jpg",
-      "enlace": "https://dhcplay.com/e/xzo34vncghdx"
-    },
-    {
-      "titulo": "Episodio 5",
-      "episodio": 5,
-      "descripcion": "Sin descripción",
-      "imagen": "https://image.tmdb.org/t/p/original/ikEEbtZY8sBn363wDJfhukLovmf.jpg",
-      "enlace": "https://dhcplay.com/e/63sjxoa13uda"
-    },
-    {
-      "titulo": "Episodio 6",
-      "episodio": 6,
-      "descripcion": "Sin descripción",
-      "imagen": "https://image.tmdb.org/t/p/original/fj7xovVZQMdHyXCNiOfGPutqZNq.jpg",
-      "enlace": "https://dhcplay.com/e/qtfxlzi9ra3r"
-    }
-  ]
+  "anime": {
+    "image": "https://image.tmdb.org/t/p/original/sIiQObaCB7CrS1uum8R1HTPSlKR.jpg",
+    "type": "Serie",
+    "year": "2025",
+    "title": "The Brilliant Healer's New Life in the Shadows",
+    "description": "Zenos, un curandero autodidacta de los barrios bajos que ha sido desterrado por inútil, decide luchar contra la desesperación y abre una clínica clandestina en la ciudad. Con su incomparable magia sin licencia, cura, consuela y repara males, convirtiéndose discretamente en una leyenda. Pero a medida que aumenta su poder, comienza a llamar la atención del Palacio Real. ¿Podrá superar las adversidades y sanar a un mundo que lo marginó?",
+    "score": "7.294",
+    "status": "En emisión",
+    "views": 0,
+    "alternative_titles": [
+      "////"
+    ],
+    "rating": "PG-13",
+    "tags": [
+      "Action & Adventure",
+      "Animación",
+      "Comedia",
+      "Sci-Fi & Fantasy"
+    ],
+    "languages": [
+      "Lat"
+    ]
+  },
+  "temporadas": {
+    "1": [
+      {
+        "numero": 1,
+        "fecha": "2025-04-03",
+        "url": "https://dhcplay.com/e/zyq7m5bk7vmh"
+      },
+      {
+        "numero": 2,
+        "fecha": "2025-04-10",
+        "url": "https://dhcplay.com/e/3qnlrn2neca0"
+      },
+      {
+        "numero": 3,
+        "fecha": "2025-04-17",
+        "url": "https://dhcplay.com/e/6sf37092j5l9"
+      },
+      {
+        "numero": 4,
+        "fecha": "2025-04-24",
+        "url": "https://dhcplay.com/e/xzo34vncghdx"
+      },
+      {
+        "numero": 5,
+        "fecha": "2025-05-01",
+        "url": "https://dhcplay.com/e/63sjxoa13uda"
+      },
+      {
+        "numero": 6,
+        "fecha": "2025-05-08",
+        "url": "https://dhcplay.com/e/qtfxlzi9ra3r"
+      }
+    ]
+  }
 }
