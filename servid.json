@@ -1,6 +1,7 @@
 {
   "titulo": "Mahoutsukai no Yome: Nishi no Shounen to Seiran no Kishi",
   "episodios": [
+    { "numero": 4, "fecha": "01/01/2020", "url": "https://example.com/episodio3" },
     { "numero": 3, "fecha": "01/01/2020", "url": "https://example.com/episodio3" },
     { "numero": 2, "fecha": "01/01/2020", "url": "https://example.com/episodio2" },
     { "numero": 1, "fecha": "01/01/2020", "url": "https://example.com/episodio1" }
