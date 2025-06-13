@@ -1,62 +1,64 @@
 {
-  "nombre": "Fire Force",
-  "sinopsis": "Tokio se encuentra bajo un extraño fenómeno: ¡la gente entra, sin explicación alguna, en combustión espontánea! Aunque, afortunadamente, hay un equipo a cargo de mantener a raya este particular fenómeno… ¡El Cuerpo Especial de Bomberos! Quienes, además, ahora cuenta con un nuevo miembro: Shinra, un adolescente de sonrisa perturbadora, poder curioso y cuyo objetivo es convertirse en un héroe.",
-  "fondo": "https://image.tmdb.org/t/p/original/j8B5ewOECigAYxqba8qNrI1W6hx.jpg",
-  "meta": [
-    "⭐ 8.40/10",
-    "📅 2019",
-    "• Animación",
-    "En emisión"
-  ],
-  "episodios": [
-    {
-      "titulo": "Episodio 1",
-      "episodio": 1,
-      "descripcion": "Sin descripción",
-      "imagen": "https://image.tmdb.org/t/p/original/ezFO2sGKwfucIu0sHgLI2oVn6kS.jpg",
-      "enlace": "https://dhcplay.com/e/yufui8j4wrtg"
-    },
-    {
-      "titulo": "Episodio 2",
-      "episodio": 2,
-      "descripcion": "Sin descripción",
-      "imagen": "https://image.tmdb.org/t/p/original/ofCevgGbPL1LB0EGw9GrRkRhpqL.jpg",
-      "enlace": "https://dhcplay.com/e/zijconsayjsg"
-    },
-    {
-      "titulo": "Episodio 3",
-      "episodio": 3,
-      "descripcion": "Sin descripción",
-      "imagen": "https://image.tmdb.org/t/p/original/gjDucocWmYZu7UuAMPgu2HBQwbv.jpg",
-      "enlace": "https://dhcplay.com/e/o3bnqrgy2hf8"
-    },
-    {
-      "titulo": "Episodio 4",
-      "episodio": 4,
-      "descripcion": "Sin descripción",
-      "imagen": "https://image.tmdb.org/t/p/original/cBGmtLTzkDfDSbts1qO3iaSDy9G.jpg",
-      "enlace": "https://dhcplay.com/e/vc7zaa22pllv"
-    },
-    {
-      "titulo": "Episodio 5",
-      "episodio": 5,
-      "descripcion": "Sin descripción",
-      "imagen": "https://image.tmdb.org/t/p/original/tzdJlxea5c66ZxWWnRKK0erbSOk.jpg",
-      "enlace": "https://dhcplay.com/e/2uw9qpy1fg6q"
-    },
-    {
-      "titulo": "Episodio 6",
-      "episodio": 6,
-      "descripcion": "Sin descripción",
-      "imagen": "https://image.tmdb.org/t/p/original/4SvnrSgKO54BQPVXmH5Va5hBT8H.jpg",
-      "enlace": "https://dhcplay.com/e/en2kqawnecka"
-    },
-    {
-      "titulo": "Episodio 7",
-      "episodio": 7,
-      "descripcion": "Sin descripción",
-      "imagen": "https://image.tmdb.org/t/p/original/tgzRLRZ6usWWyUSC4Lc9xZ3wopg.jpg",
-      "enlace": "https://dhcplay.com/e/t5btdi5g0992"
-    }
-  ]
+  "anime": {
+    "image": "https://image.tmdb.org/t/p/original/zDXuwmqkTi2lGM4AyloAAX4v51P.jpg",
+    "type": "Serie",
+    "year": "2019",
+    "title": "Fire Force",
+    "description": "Tokio se encuentra bajo un extraño fenómeno: ¡la gente entra, sin explicación alguna, en combustión espontánea! Aunque, afortunadamente, hay un equipo a cargo de mantener a raya este particular fenómeno… ¡El Cuerpo Especial de Bomberos! Quienes, además, ahora cuenta con un nuevo miembro: Shinra, un adolescente de sonrisa perturbadora, poder curioso y cuyo objetivo es convertirse en un héroe.",
+    "score": "8.372",
+    "status": "En emisión",
+    "views": 0,
+    "alternative_titles": [
+      "Fire Force S3"
+    ],
+    "rating": "PG-13",
+    "tags": [
+      "Animación",
+      "Action & Adventure",
+      "Sci-Fi & Fantasy",
+      "Comedia"
+    ],
+    "languages": [
+      "Lat🇲🇽"
+    ]
+  },
+  "temporadas": {
+    "3": [
+      {
+        "numero": 1,
+        "fecha": "2019-07-05",
+        "url": "https://dhcplay.com/e/yufui8j4wrtg"
+      },
+      {
+        "numero": 2,
+        "fecha": "2019-07-12",
+        "url": "https://dhcplay.com/e/zijconsayjsg"
+      },
+      {
+        "numero": 3,
+        "fecha": "2019-07-19",
+        "url": "https://dhcplay.com/e/o3bnqrgy2hf8"
+      },
+      {
+        "numero": 4,
+        "fecha": "2019-07-26",
+        "url": "https://dhcplay.com/e/vc7zaa22pllv"
+      },
+      {
+        "numero": 5,
+        "fecha": "2019-08-02",
+        "url": "https://dhcplay.com/e/2uw9qpy1fg6q"
+      },
+      {
+        "numero": 6,
+        "fecha": "2019-08-09",
+        "url": "https://dhcplay.com/e/en2kqawnecka"
+      },
+      {
+        "numero": 7,
+        "fecha": "2019-08-16",
+        "url": "https://dhcplay.com/e/t5btdi5g0992"
+      }
+    ]
+  }
 }
