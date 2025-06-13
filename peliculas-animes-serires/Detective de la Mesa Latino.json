@@ -1,0 +1,79 @@
+{
+  "anime": {
+    "image": "https://image.tmdb.org/t/p/original/2JOmSm7WWPzBILS8jODRqbllnf8.jpg",
+    "type": "Serie",
+    "year": "2025",
+    "title": "El misterio se resuelve después de la cena",
+    "description": "La rica heredera Reiko Hosho vive una doble vida como detective novata, trabajando bajo las órdenes del inspector Kazamatsuri, también de familia adinerada. Al terminar, Reiko cambia el traje por un vestido precioso para cenar cada día. Los casos difíciles la obligan a confiar en su mayordomo Kageyama, quien se burla de su incapacidad para resolver casos, mientras lo hace él mismo con brillantez.",
+    "score": "7",
+    "status": "En emisión",
+    "views": 0,
+    "alternative_titles": [
+      "Yes"
+    ],
+    "rating": "PG-13",
+    "tags": [
+      "Animación",
+      "Misterio",
+      "Comedia",
+      "Crimen"
+    ],
+    "languages": [
+      "Lat 🇲🇽"
+    ]
+  },
+  "temporadas": {
+    "1": [
+      {
+        "numero": 1,
+        "fecha": "2025-04-04",
+        "url": "https://filemoon.to/e/9w7rqc4qjgtk"
+      },
+      {
+        "numero": 2,
+        "fecha": "2025-04-11",
+        "url": "https://filemoon.to/e/kdfdyvfpnj0y"
+      },
+      {
+        "numero": 3,
+        "fecha": "2025-04-18",
+        "url": "https://filemoon.to/e/6kzajnteyaxb"
+      },
+      {
+        "numero": 4,
+        "fecha": "2025-04-25",
+        "url": "https://filemoon.to/e/inf0s677m3es"
+      },
+      {
+        "numero": 5,
+        "fecha": "2025-05-02",
+        "url": "https://filemoon.to/e/1gkxmfde6mi5"
+      },
+      {
+        "numero": 6,
+        "fecha": "2025-05-09",
+        "url": "https://filemoon.to/e/pqori955cxdb"
+      },
+      {
+        "numero": 7,
+        "fecha": "2025-05-16",
+        "url": "https://filemoon.to/e/84te12gfiv89"
+      },
+      {
+        "numero": 8,
+        "fecha": "2025-05-23",
+        "url": "https://filemoon.to/e/1spzqdmjl92o"
+      },
+      {
+        "numero": 9,
+        "fecha": "2025-05-30",
+        "url": "https://filemoon.to/e/yjnq4bbzdzst"
+      },
+      {
+        "numero": 10,
+        "fecha": "2025-06-06",
+        "url": "https://filemoon.to/e/hix5r0e0qbt1"
+      }
+    ]
+  }
+}
