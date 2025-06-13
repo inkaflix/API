@@ -1,83 +1,77 @@
 {
-  "nombre": "Can a Boy-Girl Friendship Survive?",
-  "sinopsis": "La amistad de la infancia entre Himari y Yu se tambalea cuando Yu se reencuentra en el instituto con su primer amor. Himari, que nunca ha experimentado la emoción del enamoramiento, ahora debe enfrentarse a sus propios sentimientos. Sus sueños compartidos y los tranquilos días en su club de jardinería se ponen a prueba en esta historia con amor, flores y los altibajos que supone madurar.",
-  "fondo": "https://image.tmdb.org/t/p/original/zTnXrvgohTUpCLXn7yo74onFKfB.jpg",
-  "meta": [
-    "⭐ 6.80/10",
-    "📅 2025",
-    "• Animación",
-    "En emisión"
-  ],
-  "episodios": [
-    {
-      "titulo": "Anemone Flaccida y Reina de la Noche",
-      "episodio": 1,
-      "descripcion": "Yu sueña con abrir un negocio para vender sus accesorios de flores y Himari lo apoyará hasta el final.",
-      "imagen": "https://image.tmdb.org/t/p/original/jEK69NhDKBBJyKhs504i53lumkr.jpg",
-      "enlace": "https://dhcplay.com/e/90umv449g20o"
-    },
-    {
-      "titulo": "La horquilla con forma de Hibisco",
-      "episodio": 2,
-      "descripcion": "Himari pide a Rion que sea la nueva modelo de Yu para crear sus próximos accesorios.",
-      "imagen": "https://image.tmdb.org/t/p/original/8las41efZeQJw4efoe1VaHTWO9U.jpg",
-      "enlace": "https://dhcplay.com/e/entsjfazlucu"
-    },
-    {
-      "titulo": "Los tulipanes y la forma del amor",
-      "episodio": 3,
-      "descripcion": "La relación se complica un poco debido a la revelación del pasado entre Yu y Rion.",
-      "imagen": "https://image.tmdb.org/t/p/original/5Swx9Mgt6hltTi6dw0cqm9WR5l1.jpg",
-      "enlace": "https://dhcplay.com/e/5z8h6p01k8ym"
-    },
-    {
-      "titulo": "La hortensia y una nueva semilla",
-      "episodio": 4,
-      "descripcion": "La relación entre Himari y Yu se resquebraja hasta tal punto que ella amenaza con irse a Tokio.",
-      "imagen": "https://image.tmdb.org/t/p/original/wIzSR5F6jTB8HP9h5cIjmm2Vwqv.jpg",
-      "enlace": "https://dhcplay.com/e/3rihlhgbegwz"
-    },
-    {
-      "titulo": "El donjuán y el yukata de glorias de la mañana",
-      "episodio": 5,
-      "descripcion": "Yu está en problemas y necesita estudiar para unos exámenes. Himari sigue preocupada por lo ocurrido.",
-      "imagen": "https://image.tmdb.org/t/p/original/x7YYVBfziOCKwdX8Nk8ZzuW74G8.jpg",
-      "enlace": "https://dhcplay.com/e/54agc50k859x"
-    },
-    {
-      "titulo": "El olor de la salvia cereza",
-      "episodio": 6,
-      "descripcion": "Rion está decidida a participar en el grupo de estudio para tratar de acercarse más a Yu.",
-      "imagen": "https://image.tmdb.org/t/p/original/hCDOiLR8NT3wmAtmYwThhFd4zVX.jpg",
-      "enlace": "https://dhcplay.com/e/1dv7rjba81b9"
-    },
-    {
-      "titulo": "El azafrán agrietado",
-      "episodio": 7,
-      "descripcion": "La popularidad de You hace que las chicas de la preparatoria comiencen a hacerle muchos pedidos.",
-      "imagen": "https://image.tmdb.org/t/p/original/rwhZ1JitSpovXaVNb4ifOn1MEai.jpg",
-      "enlace": "https://dhcplay.com/e/42bdknejlo5t"
-    },
-    {
-      "titulo": "La cinia y donde radica la pasión",
-      "episodio": 8,
-      "descripcion": "Yu está muy afectado por lo ocurrido y planea dejar de crear accesorios un tiempo.",
-      "imagen": "https://image.tmdb.org/t/p/original/HhQW3z0XotFHXHTlIWPZnyUgcm.jpg",
-      "enlace": "https://dhcplay.com/e/lzkfiogocox7"
-    },
-    {
-      "titulo": "Cosmos de chocolate",
-      "episodio": 9,
-      "descripcion": "Yu no sabe qué hacer con su relación con Himari, pero es entonces cuando aparece alguien en escena.",
-      "imagen": "https://image.tmdb.org/t/p/original/hJWQx0KWkDut59Q0ab0xNmpkRcw.jpg",
-      "enlace": "https://dhcplay.com/e/8082ls78zd1j"
-    },
-    {
-      "titulo": "Episodio 10",
-      "episodio": 10,
-      "descripcion": "Sin descripción",
-      "imagen": "https://image.tmdb.org/t/p/original/gypZmwdrgzwlkunEhHh30QvzUMR.jpg",
-      "enlace": "https://dhcplay.com/e/7jhcdn50dumb"
-    }
-  ]
+  "anime": {
+    "image": "https://image.tmdb.org/t/p/original/eoiWbyUVCp8GGe8ifdxfJvtGroi.jpg",
+    "type": "Serie",
+    "year": "2025",
+    "title": "Can a Boy-Girl Friendship Survive?",
+    "description": "La amistad de la infancia entre Himari y Yu se tambalea cuando Yu se reencuentra en el instituto con su primer amor. Himari, que nunca ha experimentado la emoción del enamoramiento, ahora debe enfrentarse a sus propios sentimientos. Sus sueños compartidos y los tranquilos días en su club de jardinería se ponen a prueba en esta historia con amor, flores y los altibajos que supone madurar.",
+    "score": "9.0281",
+    "status": "En emisión",
+    "views": 0,
+    "alternative_titles": [
+      "Can a Boy-Girl Friendship Survive?"
+    ],
+    "rating": "PG-13",
+    "tags": [
+      "Animación",
+      "Comedia"
+    ],
+    "languages": [
+      "Sub🇯🇵🇲🇽"
+    ]
+  },
+  "temporadas": {
+    "1": [
+      {
+        "numero": 1,
+        "fecha": "2025-04-04",
+        "url": "https://dhcplay.com/e/90umv449g20o"
+      },
+      {
+        "numero": 2,
+        "fecha": "2025-04-11",
+        "url": "https://dhcplay.com/e/entsjfazlucu"
+      },
+      {
+        "numero": 3,
+        "fecha": "2025-04-18",
+        "url": "https://dhcplay.com/e/5z8h6p01k8ym"
+      },
+      {
+        "numero": 4,
+        "fecha": "2025-04-25",
+        "url": "https://dhcplay.com/e/3rihlhgbegwz"
+      },
+      {
+        "numero": 5,
+        "fecha": "2025-05-02",
+        "url": "https://dhcplay.com/e/54agc50k859x"
+      },
+      {
+        "numero": 6,
+        "fecha": "2025-05-09",
+        "url": "https://dhcplay.com/e/1dv7rjba81b9"
+      },
+      {
+        "numero": 7,
+        "fecha": "2025-05-16",
+        "url": "https://dhcplay.com/e/42bdknejlo5t"
+      },
+      {
+        "numero": 8,
+        "fecha": "2025-05-23",
+        "url": "https://dhcplay.com/e/lzkfiogocox7"
+      },
+      {
+        "numero": 9,
+        "fecha": "2025-05-30",
+        "url": "https://dhcplay.com/e/8082ls78zd1j"
+      },
+      {
+        "numero": 10,
+        "fecha": "2025-06-06",
+        "url": "https://dhcplay.com/e/7jhcdn50dumb"
+      }
+    ]
+  }
 }
