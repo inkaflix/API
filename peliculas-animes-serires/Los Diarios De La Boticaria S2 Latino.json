@@ -1,139 +1,118 @@
 {
-  "nombre": "Los diarios de la boticaria S2",
-  "sinopsis": "Maomao llevaba una vida tranquila ayudando a su padre, un boticario. Todo cambia el día que la venden como sirvienta al palacio del emperador, pero la vida entre nobles y realeza no es para ella. Cuando la familia imperial enferma, ella decide intervenir para encontrar una cura, lo que llama la atención de Jinshi, un guapo oficial de palacio que decide ascenderla como dama de compañía de una de las concubinas del emperador. ¡Su habilidad con la medicina la hará conocida en el palacio por ayudar a resolver muchos misterios!",
-  "fondo": "https://image.tmdb.org/t/p/original/dCJ0OyPQfRvsgP5IvlgT0zoE6bc.jpg",
-  "meta": [
-    "⭐ 8.65/10",
-    "📅 2025",
-    "• Animación",
-    "En emisión"
-  ],
-  "episodios": [
-    {
-      "titulo": "Episodio 1",
-      "episodio": 1,
-      "descripcion": "Sin descripción",
-      "imagen": "https://image.tmdb.org/t/p/original/gffVOVZ2Y9cmVIZ26Gt9ByMGCYH.jpg",
-      "enlace": "https://dhcplay.com/e/7gih1owreodv"
-    },
-    {
-      "titulo": "Episodio 2",
-      "episodio": 2,
-      "descripcion": "Sin descripción",
-      "imagen": "https://image.tmdb.org/t/p/original/gffVOVZ2Y9cmVIZ26Gt9ByMGCYH.jpg",
-      "enlace": "https://dhcplay.com/e/sndehoy5cndg"
-    },
-    {
-      "titulo": "Episodio 3",
-      "episodio": 3,
-      "descripcion": "Sin descripción",
-      "imagen": "https://image.tmdb.org/t/p/original/gffVOVZ2Y9cmVIZ26Gt9ByMGCYH.jpg",
-      "enlace": "https://dhcplay.com/e/yjqtt54i52yu"
-    },
-    {
-      "titulo": "Episodio 4",
-      "episodio": 4,
-      "descripcion": "Sin descripción",
-      "imagen": "https://image.tmdb.org/t/p/original/gffVOVZ2Y9cmVIZ26Gt9ByMGCYH.jpg",
-      "enlace": "https://dhcplay.com/e/ofhv5lroscnj"
-    },
-    {
-      "titulo": "Episodio 5",
-      "episodio": 5,
-      "descripcion": "Sin descripción",
-      "imagen": "https://image.tmdb.org/t/p/original/gffVOVZ2Y9cmVIZ26Gt9ByMGCYH.jpg",
-      "enlace": "https://dhcplay.com/e/4w1e0b1j8ibn"
-    },
-    {
-      "titulo": "Episodio 6",
-      "episodio": 6,
-      "descripcion": "Sin descripción",
-      "imagen": "https://image.tmdb.org/t/p/original/gffVOVZ2Y9cmVIZ26Gt9ByMGCYH.jpg",
-      "enlace": "https://dhcplay.com/e/j4qqouyjtkst"
-    },
-    {
-      "titulo": "Episodio 7",
-      "episodio": 7,
-      "descripcion": "Sin descripción",
-      "imagen": "https://image.tmdb.org/t/p/original/gffVOVZ2Y9cmVIZ26Gt9ByMGCYH.jpg",
-      "enlace": "https://dhcplay.com/e/urjip6wczt8w"
-    },
-    {
-      "titulo": "Episodio 8",
-      "episodio": 8,
-      "descripcion": "Sin descripción",
-      "imagen": "https://image.tmdb.org/t/p/original/gffVOVZ2Y9cmVIZ26Gt9ByMGCYH.jpg",
-      "enlace": "https://dhcplay.com/e/1zelnxt89334"
-    },
-    {
-      "titulo": "Episodio 9",
-      "episodio": 9,
-      "descripcion": "Sin descripción",
-      "imagen": "https://image.tmdb.org/t/p/original/gffVOVZ2Y9cmVIZ26Gt9ByMGCYH.jpg",
-      "enlace": "https://dhcplay.com/e/m77k6inse4k6"
-    },
-    {
-      "titulo": "Episodio 10",
-      "episodio": 10,
-      "descripcion": "Sin descripción",
-      "imagen": "https://image.tmdb.org/t/p/original/gffVOVZ2Y9cmVIZ26Gt9ByMGCYH.jpg",
-      "enlace": "https://dhcplay.com/e/7zawwwsu8u9t"
-    },
-    {
-      "titulo": "Episodio 11",
-      "episodio": 11,
-      "descripcion": "Sin descripción",
-      "imagen": "https://image.tmdb.org/t/p/original/gffVOVZ2Y9cmVIZ26Gt9ByMGCYH.jpg",
-      "enlace": "https://dhcplay.com/e/heupqx7zr0pm"
-    },
-    {
-      "titulo": "Episodio 12",
-      "episodio": 12,
-      "descripcion": "Sin descripción",
-      "imagen": "https://image.tmdb.org/t/p/original/gffVOVZ2Y9cmVIZ26Gt9ByMGCYH.jpg",
-      "enlace": "https://dhcplay.com/e/3cvxl3gom5s4"
-    },
-    {
-      "titulo": "Episodio 13",
-      "episodio": 13,
-      "descripcion": "Sin descripción",
-      "imagen": "https://image.tmdb.org/t/p/original/gffVOVZ2Y9cmVIZ26Gt9ByMGCYH.jpg",
-      "enlace": "https://dhcplay.com/e/6518e4bazz0g"
-    },
-    {
-      "titulo": "Episodio 14",
-      "episodio": 14,
-      "descripcion": "Sin descripción",
-      "imagen": "https://image.tmdb.org/t/p/original/gffVOVZ2Y9cmVIZ26Gt9ByMGCYH.jpg",
-      "enlace": "https://dhcplay.com/e/zicdg5charg9"
-    },
-    {
-      "titulo": "Episodio 15",
-      "episodio": 15,
-      "descripcion": "Sin descripción",
-      "imagen": "https://image.tmdb.org/t/p/original/gffVOVZ2Y9cmVIZ26Gt9ByMGCYH.jpg",
-      "enlace": "https://dhcplay.com/e/exhysez0p6qf"
-    },
-    {
-      "titulo": "Episodio 16",
-      "episodio": 16,
-      "descripcion": "Sin descripción",
-      "imagen": "https://image.tmdb.org/t/p/original/gffVOVZ2Y9cmVIZ26Gt9ByMGCYH.jpg",
-      "enlace": "https://dhcplay.com/e/jys6eypq8nri"
-    },
-    {
-      "titulo": "Episodio 17",
-      "episodio": 17,
-      "descripcion": "Sin descripción",
-      "imagen": "https://image.tmdb.org/t/p/original/gffVOVZ2Y9cmVIZ26Gt9ByMGCYH.jpg",
-      "enlace": "https://dhcplay.com/e/kh920dtk1cpj"
-    },
-    {
-      "titulo": "Episodio 18",
-      "episodio": 18,
-      "descripcion": "Sin descripción",
-      "imagen": "https://image.tmdb.org/t/p/original/gffVOVZ2Y9cmVIZ26Gt9ByMGCYH.jpg",
-      "enlace": "https://dhcplay.com/e/0zfwrvco7b3q"
-    }
-  ]
+  "anime": {
+    "image": "https://image.tmdb.org/t/p/original/gffVOVZ2Y9cmVIZ26Gt9ByMGCYH.jpg",
+    "type": "Serie",
+    "year": "2023",
+    "title": "Los diarios de la boticaria",
+    "description": "Maomao llevaba una vida tranquila ayudando a su padre, un boticario. Todo cambia el día que la venden como sirvienta al palacio del emperador, pero la vida entre nobles y realeza no es para ella. Cuando la familia imperial enferma, ella decide intervenir para encontrar una cura, lo que llama la atención de Jinshi, un guapo oficial de palacio que decide ascenderla como dama de compañía de una de las concubinas del emperador. ¡Su habilidad con la medicina la hará conocida en el palacio por ayudar a resolver muchos misterios!",
+    "score": "8.647",
+    "status": "En emisión",
+    "views": 0,
+    "alternative_titles": [
+      "The Apothecary Diaries"
+    ],
+    "rating": "PG-13",
+    "tags": [
+      "Animación",
+      "Drama",
+      "Misterio"
+    ],
+    "languages": [
+      "Lat🇲🇽"
+    ]
+  },
+  "temporadas": {
+    "2": [
+      {
+        "numero": 1,
+        "fecha": "2023-10-22",
+        "url": "https://dhcplay.com/e/7gih1owreodv"
+      },
+      {
+        "numero": 2,
+        "fecha": "2023-10-29",
+        "url": "https://dhcplay.com/e/sndehoy5cndg"
+      },
+      {
+        "numero": 3,
+        "fecha": "2023-11-05",
+        "url": "https://dhcplay.com/e/yjqtt54i52yu"
+      },
+      {
+        "numero": 4,
+        "fecha": "2023-11-12",
+        "url": "https://dhcplay.com/e/ofhv5lroscnj"
+      },
+      {
+        "numero": 5,
+        "fecha": "2023-11-19",
+        "url": "https://dhcplay.com/e/4w1e0b1j8ibn"
+      },
+      {
+        "numero": 6,
+        "fecha": "2023-11-26",
+        "url": "https://dhcplay.com/e/j4qqouyjtkst"
+      },
+      {
+        "numero": 7,
+        "fecha": "2023-12-03",
+        "url": "https://dhcplay.com/e/urjip6wczt8w"
+      },
+      {
+        "numero": 8,
+        "fecha": "2023-12-10",
+        "url": "https://dhcplay.com/e/1zelnxt89334"
+      },
+      {
+        "numero": 9,
+        "fecha": "2023-12-17",
+        "url": "https://dhcplay.com/e/m77k6inse4k6"
+      },
+      {
+        "numero": 10,
+        "fecha": "2023-12-24",
+        "url": "https://dhcplay.com/e/7zawwwsu8u9t"
+      },
+      {
+        "numero": 11,
+        "fecha": "2023-12-31",
+        "url": "https://dhcplay.com/e/heupqx7zr0pm"
+      },
+      {
+        "numero": 12,
+        "fecha": "2024-01-07",
+        "url": "https://dhcplay.com/e/3cvxl3gom5s4"
+      },
+      {
+        "numero": 13,
+        "fecha": "2024-01-14",
+        "url": "https://dhcplay.com/e/6518e4bazz0g"
+      },
+      {
+        "numero": 14,
+        "fecha": "2024-01-21",
+        "url": "https://dhcplay.com/e/zicdg5charg9"
+      },
+      {
+        "numero": 15,
+        "fecha": "2024-01-28",
+        "url": "https://dhcplay.com/e/exhysez0p6qf"
+      },
+      {
+        "numero": 16,
+        "fecha": "2024-02-04",
+        "url": "https://dhcplay.com/e/jys6eypq8nri"
+      },
+      {
+        "numero": 17,
+        "fecha": "2024-02-11",
+        "url": "https://dhcplay.com/e/kh920dtk1cpj"
+      },
+      {
+        "numero": 18,
+        "fecha": "2024-02-18",
+        "url": "https://dhcplay.com/e/0zfwrvco7b3q"
+      }
+    ]
+  }
 }
