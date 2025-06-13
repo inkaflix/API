@@ -1,0 +1,68 @@
+{
+  "anime": {
+    "image": "https://image.tmdb.org/t/p/original/nLyXXIDMpDHvUgxchezxuhoJ4Ej.jpg",
+    "type": "Serie",
+    "year": "2025",
+    "title": "Devil May Cry",
+    "description": "Cuando un misterioso villano amenaza con abrir las puertas del Infierno, un cazador de demonios endiabladamente atractivo podría ser la mejor baza para salvar al mundo.",
+    "score": "8.018",
+    "status": "En emisión",
+    "views": 0,
+    "alternative_titles": [
+      "Devil May Cry NF"
+    ],
+    "rating": "PG-13",
+    "tags": [
+      "Animación",
+      "Action & Adventure",
+      "Sci-Fi & Fantasy"
+    ],
+    "languages": [
+      "Lat🇲🇽"
+    ]
+  },
+  "temporadas": {
+    "1": [
+      {
+        "numero": 1,
+        "fecha": "2025-04-03",
+        "url": "https://dhcplay.com/e/h2zhbpp4ct72"
+      },
+      {
+        "numero": 2,
+        "fecha": "2025-04-10",
+        "url": "https://dhcplay.com/e/ig257yjxpwxv"
+      },
+      {
+        "numero": 3,
+        "fecha": "2025-04-17",
+        "url": "https://dhcplay.com/e/aaoalccuonz1"
+      },
+      {
+        "numero": 4,
+        "fecha": "2025-04-24",
+        "url": "https://dhcplay.com/e/g7erukxwqxt0"
+      },
+      {
+        "numero": 5,
+        "fecha": "2025-05-01",
+        "url": "https://dhcplay.com/e/hzkqs4vb4sgk"
+      },
+      {
+        "numero": 6,
+        "fecha": "2025-05-08",
+        "url": "https://dhcplay.com/e/83ha2alccd43"
+      },
+      {
+        "numero": 7,
+        "fecha": "2025-05-15",
+        "url": "https://dhcplay.com/e/cizyajmv46oz"
+      },
+      {
+        "numero": 8,
+        "fecha": "2025-05-22",
+        "url": "https://dhcplay.com/e/wtfh6wfpqmal"
+      }
+    ]
+  }
+}
