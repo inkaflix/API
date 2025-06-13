@@ -1,132 +1,113 @@
 {
-  "nombre": "Bye Bye Earth",
-  "sinopsis": "Belle Lablac no encaja al ser la única humana en un mundo repleto de animales antropomórficos. No tiene colmillos, ni piel, ni escamas, ni garras. Sola y deseos de descubrir de dónde procede, Belle parte a un viaje para encontrar respuestas a las preguntas que la acechan. Portando únicamente su gigantesca espada, Runding, se enfrenta a un mundo de posibilidades y problemas con la esperanza de alcanzar a descubrir la verdad.",
-  "fondo": "https://image.tmdb.org/t/p/original/5c7G6GVcd2eHdirQEATJgwk4Evq.jpg",
-  "meta": [
-    "⭐ 7.70/10",
-    "📅 2024",
-    "• Animación",
-    "Finalizado"
-  ],
-  "episodios": [
-    {
-      "titulo": "Episodio 1",
-      "episodio": 1,
-      "descripcion": "Sin descripción",
-      "imagen": "https://image.tmdb.org/t/p/original/nRDieEUVvFc0TYY2L9c06xXa8nb.jpg",
-      "enlace": "https://dhcplay.com/e/w7ih4f984nz8"
-    },
-    {
-      "titulo": "Episodio 2",
-      "episodio": 2,
-      "descripcion": "Sin descripción",
-      "imagen": "https://image.tmdb.org/t/p/original/mTEUUiNnc9PYRYJgKg9itaLQjb0.jpg",
-      "enlace": "https://dhcplay.com/e/7yjltaho34bs"
-    },
-    {
-      "titulo": "Episodio 3",
-      "episodio": 3,
-      "descripcion": "Sin descripción",
-      "imagen": "https://image.tmdb.org/t/p/original/iCfQlnQ7ibSLJoW0piyWGtBhEan.jpg",
-      "enlace": "https://dhcplay.com/e/s5gq6qti6fpw"
-    },
-    {
-      "titulo": "Episodio 4",
-      "episodio": 4,
-      "descripcion": "Sin descripción",
-      "imagen": "https://image.tmdb.org/t/p/original/zsF1z8eURDhcjBbOVQBQ7NnVu71.jpg",
-      "enlace": "https://dhcplay.com/e/y8f43bbar1gi"
-    },
-    {
-      "titulo": "Episodio 5",
-      "episodio": 5,
-      "descripcion": "Sin descripción",
-      "imagen": "https://image.tmdb.org/t/p/original/rNgPsvDyAMmhVY4wPWzdSv5kKdm.jpg",
-      "enlace": "https://dhcplay.com/e/g1k5ckadpkgl"
-    },
-    {
-      "titulo": "Episodio 6",
-      "episodio": 6,
-      "descripcion": "Sin descripción",
-      "imagen": "https://image.tmdb.org/t/p/original/rpbEfedoYKMUSfPSLpeC98ChiuG.jpg",
-      "enlace": "https://dhcplay.com/e/hdtqirdynj3a"
-    },
-    {
-      "titulo": "Episodio 7",
-      "episodio": 7,
-      "descripcion": "Sin descripción",
-      "imagen": "https://image.tmdb.org/t/p/original/h41PCzwe8PZYqGcd1KFpdms5n3l.jpg",
-      "enlace": "https://dhcplay.com/e/rte7004y6o0i"
-    },
-    {
-      "titulo": "Episodio 8",
-      "episodio": 8,
-      "descripcion": "Sin descripción",
-      "imagen": "https://image.tmdb.org/t/p/original/dtAxkTRbxOYhOMZsq5ReQcNgbCe.jpg",
-      "enlace": "https://dhcplay.com/e/k82042tp302f"
-    },
-    {
-      "titulo": "Episodio 9",
-      "episodio": 9,
-      "descripcion": "Sin descripción",
-      "imagen": "https://image.tmdb.org/t/p/original/oHIPNWMNJO7tQSb28Z7OF36E1AL.jpg",
-      "enlace": "https://dhcplay.com/e/ks06hxt09jjd"
-    },
-    {
-      "titulo": "Episodio 10",
-      "episodio": 10,
-      "descripcion": "Sin descripción",
-      "imagen": "https://image.tmdb.org/t/p/original/ciGfQzWbLY5Il3kTEF3OqC0mBHd.jpg",
-      "enlace": "https://dhcplay.com/e/k1fp2sdzccur"
-    },
-    {
-      "titulo": "Episodio 11",
-      "episodio": 11,
-      "descripcion": "Sin descripción",
-      "imagen": "https://image.tmdb.org/t/p/original/xqzWod7U7QMKROjQVKOtvhghL4V.jpg",
-      "enlace": "https://dhcplay.com/e/wz2jkjalmeq3"
-    },
-    {
-      "titulo": "Episodio 12",
-      "episodio": 12,
-      "descripcion": "Sin descripción",
-      "imagen": "https://image.tmdb.org/t/p/original/ucKIdbZhSw1shSiK3M5WAcXHXus.jpg",
-      "enlace": "https://dhcplay.com/e/1wqyl387wdmi"
-    },
-    {
-      "titulo": "Episodio 13",
-      "episodio": 13,
-      "descripcion": "Sin descripción",
-      "imagen": "https://image.tmdb.org/t/p/original/qWvp4P5llvKxev5ieo053F6NVAK.jpg",
-      "enlace": "https://dhcplay.com/e/cudtfe5ighva"
-    },
-    {
-      "titulo": "Episodio 14",
-      "episodio": 14,
-      "descripcion": "Sin descripción",
-      "imagen": "https://image.tmdb.org/t/p/original/pTbtifHyMb7FDerjACLHHVH1q8h.jpg",
-      "enlace": "https://dhcplay.com/e/29on0sloiv3n"
-    },
-    {
-      "titulo": "Episodio 15",
-      "episodio": 15,
-      "descripcion": "Sin descripción",
-      "imagen": "https://image.tmdb.org/t/p/original/7RSrWWabWqdSGuoedRLr8aeOCQm.jpg",
-      "enlace": "https://dhcplay.com/e/lvuxlrotgxn5"
-    },
-    {
-      "titulo": "Episodio 16",
-      "episodio": 16,
-      "descripcion": "Sin descripción",
-      "imagen": "https://image.tmdb.org/t/p/original/gtanibkAIYguVNhDGj9GCYnK4er.jpg",
-      "enlace": "https://dhcplay.com/e/hb6fx42yb003"
-    },
-    {
-      "titulo": "Episodio 17",
-      "episodio": 17,
-      "descripcion": "Sin descripción",
-      "imagen": "https://image.tmdb.org/t/p/original/j39t9r804l8s1QWbfEnbG6shfoS.jpg",
-      "enlace": "https://dhcplay.com/e/ucl095e6ypns"
-    }
-  ]
+  "anime": {
+    "image": "https://image.tmdb.org/t/p/original/7KI43sAChDcCrLGT2kBACXduDX8.jpg",
+    "type": "Serie",
+    "year": "2024",
+    "title": "Bye Bye Earth",
+    "description": "Belle Lablac no encaja al ser la única humana en un mundo repleto de animales antropomórficos. No tiene colmillos, ni piel, ni escamas, ni garras. Sola y deseos de descubrir de dónde procede, Belle parte a un viaje para encontrar respuestas a las preguntas que la acechan. Portando únicamente su gigantesca espada, Runding, se enfrenta a un mundo de posibilidades y problemas con la esperanza de alcanzar a descubrir la verdad.",
+    "score": "7.7",
+    "status": "En emisión",
+    "views": 0,
+    "alternative_titles": [
+      "Bye Bye Earth"
+    ],
+    "rating": "PG-13",
+    "tags": [
+      "Animación",
+      "Sci-Fi & Fantasy",
+      "Action & Adventure"
+    ],
+    "languages": [
+      "Lat🇲🇽"
+    ]
+  },
+  "temporadas": {
+    "1": [
+      {
+        "numero": 1,
+        "fecha": "2024-07-12",
+        "url": "https://dhcplay.com/e/w7ih4f984nz8"
+      },
+      {
+        "numero": 2,
+        "fecha": "2024-07-19",
+        "url": "https://dhcplay.com/e/7yjltaho34bs"
+      },
+      {
+        "numero": 3,
+        "fecha": "2024-07-26",
+        "url": "https://dhcplay.com/e/s5gq6qti6fpw"
+      },
+      {
+        "numero": 4,
+        "fecha": "2024-08-02",
+        "url": "https://dhcplay.com/e/y8f43bbar1gi"
+      },
+      {
+        "numero": 5,
+        "fecha": "2024-08-09",
+        "url": "https://dhcplay.com/e/g1k5ckadpkgl"
+      },
+      {
+        "numero": 6,
+        "fecha": "2024-08-16",
+        "url": "https://dhcplay.com/e/hdtqirdynj3a"
+      },
+      {
+        "numero": 7,
+        "fecha": "2024-08-23",
+        "url": "https://dhcplay.com/e/rte7004y6o0i"
+      },
+      {
+        "numero": 8,
+        "fecha": "2024-08-30",
+        "url": "https://dhcplay.com/e/k82042tp302f"
+      },
+      {
+        "numero": 9,
+        "fecha": "2024-09-06",
+        "url": "https://dhcplay.com/e/ks06hxt09jjd"
+      },
+      {
+        "numero": 10,
+        "fecha": "2024-09-13",
+        "url": "https://dhcplay.com/e/k1fp2sdzccur"
+      },
+      {
+        "numero": 11,
+        "fecha": "2024-09-20",
+        "url": "https://dhcplay.com/e/wz2jkjalmeq3"
+      },
+      {
+        "numero": 12,
+        "fecha": "2024-09-27",
+        "url": "https://dhcplay.com/e/1wqyl387wdmi"
+      },
+      {
+        "numero": 13,
+        "fecha": "2024-10-04",
+        "url": "https://dhcplay.com/e/cudtfe5ighva"
+      },
+      {
+        "numero": 14,
+        "fecha": "2024-10-11",
+        "url": "https://dhcplay.com/e/29on0sloiv3n"
+      },
+      {
+        "numero": 15,
+        "fecha": "2024-10-18",
+        "url": "https://dhcplay.com/e/lvuxlrotgxn5"
+      },
+      {
+        "numero": 16,
+        "fecha": "2024-10-25",
+        "url": "https://dhcplay.com/e/hb6fx42yb003"
+      },
+      {
+        "numero": 17,
+        "fecha": "2024-11-01",
+        "url": "https://dhcplay.com/e/ucl095e6ypns"
+      }
+    ]
+  }
 }
