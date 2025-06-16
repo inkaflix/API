@@ -1,55 +1,56 @@
 {
-  "nombre": "Toradora!",
-  "sinopsis": "Ryuuji Takasu, un estudiante amable con rostro intimidante, y Taiga Aisaka, una pequeña pero feroz chica conocida como el \"Tigre de bolsillo\", terminan cruzando caminos por un error. Descubren que ambos tienen amores no correspondidos y forman una alianza para ayudarse mutuamente, desencadenando una divertida y emotiva comedia romántica.",
-  "fondo": "https://image.tmdb.org/t/p/original/mjfimsCv6XQFoqQo1C7Toc3lMCF.jpg",
-  "meta": [
-    "⭐ 8.22/10",
-    "📅 2008",
-    "• Animación",
-    "En Emision Castellano"
-  ],
-  "episodios": [
-    {
-      "titulo": "El tigre y el dragón",
-      "episodio": 1,
-      "descripcion": "Hoy empieza el nuevo año escolar para Ryuji Takasu, un adolescente con mirada de delincuente. En su primer día, conocerá a Taiga Aikasa, el Tigre de bolsillo, famosa por su mal carácter. Las vidas de nuestros protagonistas quedarán hiladas a partir de este momento, sin que ellos mismos lo sepan.",
-      "imagen": "https://image.tmdb.org/t/p/original/iFN4nTalN1pNvls0oOncUdSAMvq.jpg",
-      "enlace": "https://dhcplay.com/e/f9904dbqg18v"
-    },
-    {
-      "titulo": "Taiga y Ryuji",
-      "episodio": 2,
-      "descripcion": "Ryuji se da cuenta de que si quiere que Taiga lo ayude con Kushieda, tendrá que ayudarla primero con Kitamura. Sus planes para intentarlo comienzan, pero un extraño rumor se extiende sobre Taiga y Ryuji comienza. ¿Conseguirá el Tigre confesarse?",
-      "imagen": "https://image.tmdb.org/t/p/original/qQT9ghmi9UgVIWM6MG5E65WL89g.jpg",
-      "enlace": "https://dhcplay.com/e/ffydderhqqr2"
-    },
-    {
-      "titulo": "Tu canción",
-      "episodio": 3,
-      "descripcion": "La arrocera se rompe y Taiga y Ryuji deciden ir a cenar a un restaurante familiar. Tras esto, pasarán una serie de eventos que permitirán a Ryuji conocer un poco más sobre Kushieda.",
-      "imagen": "https://image.tmdb.org/t/p/original/yUHFQpPrSVQgB6d9CnNeq6DJXbf.jpg",
-      "enlace": "https://dhcplay.com/e/b22fgqdrzr0i"
-    },
-    {
-      "titulo": "Tu mirada de aquel entonces",
-      "episodio": 4,
-      "descripcion": "Ryuji descubre en casa de Taiga un álbum lleno de fotos de Kitamura. Todas están borrosas, así que Ryuji se ofrece a tomar algunas para ella. ¡Además de esto, tendremos una mirada al pasado y confesiones inesperadas!",
-      "imagen": "https://image.tmdb.org/t/p/original/gdoaYuezn30Rkv2Vx5lRiIfZZze.jpg",
-      "enlace": "https://dhcplay.com/e/g80w4m8bxsr4"
-    },
-    {
-      "titulo": "Ami Kawashima",
-      "episodio": 5,
-      "descripcion": "Ryuji y Taiga van a comer a un restaurante familiar, donde se encontrarán con Kitamura y la amiga de la infancia de este, Ami Kawashima, una famosa modelo. Parece una chica amable y simpática, pero puede que las apariencias engañen.",
-      "imagen": "https://image.tmdb.org/t/p/original/uRIkfp4h6ExCq34K5IkxHGjC3lS.jpg",
-      "enlace": "https://dhcplay.com/e/un72o132gudd"
-    },
-    {
-      "titulo": "Mi verdadera yo",
-      "episodio": 6,
-      "descripcion": "Taiga parece convencida de la necesidad de sacar a la luz la verdadera personalidad de Ami, ¿conseguirá hacerlo? Además, veremos los motivos que llevaron a Ami a transferirse de escuela.",
-      "imagen": "https://image.tmdb.org/t/p/original/sHoBFxYMIeXz8c76Ty4QvTRQXyX.jpg",
-      "enlace": "https://dhcplay.com/e/20ss6b400wze"
-    }
-  ]
+  "anime": {
+    "image": "https://image.tmdb.org/t/p/original/3IxznCOIYjajctSJ6BtlkDfJ22Y.jpg",
+    "type": "Serie",
+    "year": "2008",
+    "title": "Toradora!",
+    "description": "Ryuuji Takasu, un estudiante amable con rostro intimidante, y Taiga Aisaka, una pequeña pero feroz chica conocida como el \"Tigre de bolsillo\", terminan cruzando caminos por un error. Descubren que ambos tienen amores no correspondidos y forman una alianza para ayudarse mutuamente, desencadenando una divertida y emotiva comedia romántica.",
+    "score": "8.2",
+    "status": "En emisión",
+    "views": 0,
+    "alternative_titles": [],
+    "rating": "PG-13",
+    "tags": [
+      "Animación",
+      "Comedia",
+      "Drama"
+    ],
+    "languages": [
+      "Lat🇲🇽"
+    ]
+  },
+  "temporadas": {
+    "1": [
+      {
+        "numero": 1,
+        "fecha": "2008-10-02",
+        "url": "https://dhcplay.com/e/f9904dbqg18v"
+      },
+      {
+        "numero": 2,
+        "fecha": "2008-10-09",
+        "url": "https://dhcplay.com/e/ffydderhqqr2"
+      },
+      {
+        "numero": 3,
+        "fecha": "2008-10-16",
+        "url": "https://dhcplay.com/e/b22fgqdrzr0i"
+      },
+      {
+        "numero": 4,
+        "fecha": "2008-10-23",
+        "url": "https://dhcplay.com/e/g80w4m8bxsr4"
+      },
+      {
+        "numero": 5,
+        "fecha": "2008-10-30",
+        "url": "https://dhcplay.com/e/un72o132gudd"
+      },
+      {
+        "numero": 6,
+        "fecha": "2008-11-06",
+        "url": "https://dhcplay.com/e/20ss6b400wze"
+      }
+    ]
+  }
 }
