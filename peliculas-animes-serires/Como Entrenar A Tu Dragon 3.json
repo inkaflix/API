@@ -1,0 +1,25 @@
+{
+  "titulo": "Cómo entrenar a tu dragón 3",
+  "sinopsis": "Lo que comenzó como la inesperada amistad entre un joven vikingo y un temible dragón, Furia Nocturna,  se ha convertido en una épica trilogía que ha recorrido sus vidas. En esta nueva entrega, Hipo y Desdentao descubrirán finalmente su verdadero destino: para uno, gobernar Isla Mema junto a Astrid; para el otro, ser el líder de su especie. Pero, por el camino, deberán poner a prueba los lazos que los unen, plantando cara a la mayor amenaza que jamás haya afrontado... y a la aparición de una Furia Nocturna hembra.",
+  "imagen_fondo": "https://image.tmdb.org/t/p/original/h3KN24PrOheHVYs9ypuOIdFBEpX.jpg",
+  "poster": "https://image.tmdb.org/t/p/original/rhnoAReqO3Xoe6GbJhT3409lnq8.jpg",
+  "genero": [
+    "Animación",
+    "Familia",
+    "Aventura"
+  ],
+  "servidores": [
+    {
+      "nombre": "Servidor 1",
+      "url": "https://dhcplay.com/e/8oy078esa1kq"
+    },
+    {
+      "nombre": "Servidor 2",
+      "url": "https://dhcplay.com/e/8oy078esa1kq"
+    },
+    {
+      "nombre": "Servidor 3",
+      "url": "https://dhcplay.com/e/8oy078esa1kq"
+    }
+  ]
+}
