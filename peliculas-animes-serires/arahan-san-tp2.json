@@ -1,62 +1,62 @@
 {
-  "nombre": "Aharen-san wa Hakarenai",
-  "sinopsis": "Raido Matsuboshi desea hacer amigos, y su objetivo principal es acercarse a Reina Aharen, su compañera de clase. Sin embargo, Reina, tímida y torpe, no sabe cómo manejar su cercanía, lo que dificulta su intento de amistad.",
-  "fondo": "https://image.tmdb.org/t/p/original/a0ZZeE79Z24uDeZkL8M93DerDgF.jpg",
-  "meta": [
-    "⭐ 7.30/10",
-    "📅 2022",
-    "• Animación",
-    "En emisión"
-  ],
-  "episodios": [
-    {
-      "titulo": "¿Una alumna nueva?",
-      "episodio": 1,
-      "descripcion": "Empieza un nuevo curso, pero Aharen y Raido se sientan al lado del otro. ¿Cómo serán sus compañeros?",
-      "imagen": "https://image.tmdb.org/t/p/original/i1wlpepMoMEzDyXzDUJGvwDqpHa.jpg",
-      "enlace": "https://dhcplay.com/e/e3x23qeosubt"
-    },
-    {
-      "titulo": "Se ve un poco raro, ¿no?",
-      "episodio": 2,
-      "descripcion": "Raido se mete de lleno en un juego y teme que la realidad y el mundo virtual se inviertan.",
-      "imagen": "https://image.tmdb.org/t/p/original/bQMukGwUyn86QZAejWmNoJUpaiI.jpg",
-      "enlace": "https://dhcplay.com/e/f47q0s4ysj5f"
-    },
-    {
-      "titulo": "¿El festival de atletismo?",
-      "episodio": 3,
-      "descripcion": "Aharen está preocupada porque no se le dan bien las carreras de relevos, pero Raido la entrenará para ello.",
-      "imagen": "https://image.tmdb.org/t/p/original/8akk4U6NKxSXbxLaZuP6EHyswTC.jpg",
-      "enlace": "https://dhcplay.com/e/cyl42pe6kt20"
-    },
-    {
-      "titulo": "¿Una idol?",
-      "episodio": 4,
-      "descripcion": "Raido se ve inmerso en un juego de idols y resulta que le acaba gustando más de lo que esperaba.",
-      "imagen": "https://image.tmdb.org/t/p/original/hhJ9OxWRmCKY3ukz0gx4ECnC5g6.jpg",
-      "enlace": "https://dhcplay.com/e/tdw8zj0wrdvb"
-    },
-    {
-      "titulo": "¿A nadar?",
-      "episodio": 5,
-      "descripcion": "¡Empiezan las vacaciones! Aharen, Raido y sus amigos deciden pasar el día en una isla.",
-      "imagen": "https://image.tmdb.org/t/p/original/nkr9U2iNzZ24cIHQots5cQZpP1o.jpg",
-      "enlace": "https://dhcplay.com/e/2rouqc29ps2a"
-    },
-    {
-      "titulo": "¿Escapada de casa?",
-      "episodio": 6,
-      "descripcion": "Eru se convierte en la mentora de Futaba y Akkun. Ren querrá agradecerle a Reina todo lo que hace por ellos.",
-      "imagen": "https://image.tmdb.org/t/p/original/ePj3QwvszWagM5lD11JMM4XMhSz.jpg",
-      "enlace": "https://dhcplay.com/e/zuz5qqyq8g45"
-    },
-    {
-      "titulo": "¿Una excursión?",
-      "episodio": 7,
-      "descripcion": "La clase se va de excursión a Tokio, y Raido y Aharen están emocionados por visitar cierto parque temático.",
-      "imagen": "https://image.tmdb.org/t/p/original/pNtY6ZafkcULFUaPsF1249ZWQyq.jpg",
-      "enlace": "https://dhcplay.com/e/jc2zm2uk6z5s"
-    }
-  ]
+  "anime": {
+    "image": "https://image.tmdb.org/t/p/original/dIj1uk8cAXoPEXyom7hmZfJ9LCO.jpg",
+    "type": "Serie",
+    "year": "2025",
+    "title": "Aharen-san wa Hakarenai S2",
+    "description": "Raido Matsuboshi desea hacer amigos, y su objetivo principal es acercarse a Reina Aharen, su compañera de clase. Sin embargo, Reina, tímida y torpe, no sabe cómo manejar su cercanía, lo que dificulta su intento de amistad.",
+    "score": "7.3",
+    "status": "En emisión",
+    "views": 0,
+    "alternative_titles": [
+      "Aharen-san S2"
+    ],
+    "rating": "PG-13",
+    "tags": [
+      "Animación",
+      "Comedia"
+    ],
+    "languages": [
+      "Lat🇲🇽"
+    ]
+  },
+  "temporadas": {
+    "2": [
+      {
+        "numero": 1,
+        "fecha": "2022-04-02",
+        "url": "https://dhcplay.com/e/e3x23qeosubt"
+      },
+      {
+        "numero": 2,
+        "fecha": "2022-04-08",
+        "url": "https://dhcplay.com/e/f47q0s4ysj5f"
+      },
+      {
+        "numero": 3,
+        "fecha": "2022-04-15",
+        "url": "https://dhcplay.com/e/cyl42pe6kt20"
+      },
+      {
+        "numero": 4,
+        "fecha": "2022-04-22",
+        "url": "https://dhcplay.com/e/tdw8zj0wrdvb"
+      },
+      {
+        "numero": 5,
+        "fecha": "2022-04-29",
+        "url": "https://dhcplay.com/e/2rouqc29ps2a"
+      },
+      {
+        "numero": 6,
+        "fecha": "2022-05-06",
+        "url": "https://dhcplay.com/e/zuz5qqyq8g45"
+      },
+      {
+        "numero": 7,
+        "fecha": "2022-05-13",
+        "url": "https://dhcplay.com/e/jc2zm2uk6z5s"
+      }
+    ]
+  }
 }
