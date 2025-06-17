@@ -1,0 +1,32 @@
+{
+  "anime": {
+    "image": "https://image.tmdb.org/t/p/original/1YL8ksfwm3p2Tgt1yaNVYYOvOKC.jpg",
+    "type": "Película",
+    "year": "2025",
+    "title": "The Witcher: Sirenas de las profundidades",
+    "description": "Cuando unos misteriosos seres de las profundidades atacan a unos marineros, solo hay alguien que puede impedir que estalle la guerra entre la tierra y el mar: Geralt de Rivia.",
+    "score": "6.946",
+    "status": "En emisión",
+    "views": 0,
+    "alternative_titles": [],
+    "rating": "PG-13",
+    "tags": [
+      "Animación",
+      "Fantasía",
+      "Acción"
+    ],
+    "languages": [
+      "Lat🇲🇽",
+      "Movie"
+    ]
+  },
+  "temporadas": {
+    "1": [
+      {
+        "numero": 1,
+        "fecha": "2025-02-10",
+        "url": "https://dhcplay.com/e/4chrajb7r4cn"
+      }
+    ]
+  }
+}
