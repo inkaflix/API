@@ -1,62 +1,60 @@
 {
-  "nombre": "The Shiunji Family Children",
-  "sinopsis": "La familia Shiunji y sus siete hijos residen en una mansión del barrio tokiota de Setagaya. El hijo mayor, Arata, está cansado de que sus cinco hermanas le mangoneen y fantasea con la posibilidad de vivir lejos de ellas. Sin embargo, el padre de Arata les revela algo sorprendente: ¡Arata no tiene parentesco biológico con sus hermanas! Con este nuevo dato sobre la mesa, las relaciones entre los hermanos cambiarán completamente.",
-  "fondo": "https://image.tmdb.org/t/p/original/iSSYooLNjjNvbGSqAxnL8LgtSMP.jpg",
-  "meta": [
-    "⭐ 8.50/10",
-    "📅 2025",
-    "• Animación",
-    "En emisión"
-  ],
-  "episodios": [
-    {
-      "titulo": "Episodio 1",
-      "episodio": 1,
-      "descripcion": "Sin descripción",
-      "imagen": "https://image.tmdb.org/t/p/original/pMUTD3DvDJmuSXJIuOC1olImPIt.jpg",
-      "enlace": "https://dhcplay.com/e/uihnr3gkg4q5"
-    },
-    {
-      "titulo": "Episodio 2",
-      "episodio": 2,
-      "descripcion": "Sin descripción",
-      "imagen": "https://image.tmdb.org/t/p/original/hXgec7laJgIIczLUWohQs418vNP.jpg",
-      "enlace": "https://dhcplay.com/e/8ah08hky21no"
-    },
-    {
-      "titulo": "Episodio 3",
-      "episodio": 3,
-      "descripcion": "Sin descripción",
-      "imagen": "https://image.tmdb.org/t/p/original/7YXhWD4nGtO1pyO5FpsVvGsEmt7.jpg",
-      "enlace": "https://dhcplay.com/e/55lkppb1j5th"
-    },
-    {
-      "titulo": "Episodio 4",
-      "episodio": 4,
-      "descripcion": "Sin descripción",
-      "imagen": "https://image.tmdb.org/t/p/original/7xd1QovCR4SLEAA548YYFplGazH.jpg",
-      "enlace": "https://dhcplay.com/e/56sbu2dkqmqz"
-    },
-    {
-      "titulo": "Episodio 5",
-      "episodio": 5,
-      "descripcion": "Sin descripción",
-      "imagen": "https://image.tmdb.org/t/p/original/bIRcRgLuHkB13L9X3J2fFJobw4m.jpg",
-      "enlace": "https://dhcplay.com/e/393rrwcx8k6m"
-    },
-    {
-      "titulo": "Episodio 6",
-      "episodio": 6,
-      "descripcion": "Sin descripción",
-      "imagen": "https://image.tmdb.org/t/p/original/dCPwC4ViFoGIvXo7NktP1NC1BUM.jpg",
-      "enlace": "https://dhcplay.com/e/kp9qi6eumaxg"
-    },
-    {
-      "titulo": "Episodio 7",
-      "episodio": 7,
-      "descripcion": "Sin descripción",
-      "imagen": "https://image.tmdb.org/t/p/original/wueGYFOIcJwoSLJQZkWXeRV5kl0.jpg",
-      "enlace": "https://dhcplay.com/e/lefsumb2nrxm"
-    }
-  ]
+  "anime": {
+    "image": "https://image.tmdb.org/t/p/original/tjQrXMEWxAkA5Uo7261NDZfoyn1.jpg",
+    "type": "Serie",
+    "year": "2025",
+    "title": "The Shiunji Family Children",
+    "description": "La familia Shiunji y sus siete hijos residen en una mansión del barrio tokiota de Setagaya. El hijo mayor, Arata, está cansado de que sus cinco hermanas le mangoneen y fantasea con la posibilidad de vivir lejos de ellas. Sin embargo, el padre de Arata les revela algo sorprendente: ¡Arata no tiene parentesco biológico con sus hermanas! Con este nuevo dato sobre la mesa, las relaciones entre los hermanos cambiarán completamente.",
+    "score": "7.3",
+    "status": "En emisión",
+    "views": 0,
+    "alternative_titles": [],
+    "rating": "PG-13",
+    "tags": [
+      "Animación",
+      "Comedia"
+    ],
+    "languages": [
+      "Lat🇲🇽"
+    ]
+  },
+  "temporadas": {
+    "1": [
+      {
+        "numero": 1,
+        "fecha": "2025-04-08",
+        "url": "https://dhcplay.com/e/uihnr3gkg4q5"
+      },
+      {
+        "numero": 2,
+        "fecha": "2025-04-15",
+        "url": "https://dhcplay.com/e/8ah08hky21no"
+      },
+      {
+        "numero": 3,
+        "fecha": "2025-04-22",
+        "url": "https://dhcplay.com/e/55lkppb1j5th"
+      },
+      {
+        "numero": 4,
+        "fecha": "2025-04-29",
+        "url": "https://dhcplay.com/e/56sbu2dkqmqz"
+      },
+      {
+        "numero": 5,
+        "fecha": "2025-05-06",
+        "url": "https://dhcplay.com/e/393rrwcx8k6m"
+      },
+      {
+        "numero": 6,
+        "fecha": "2025-05-13",
+        "url": "https://dhcplay.com/e/kp9qi6eumaxg"
+      },
+      {
+        "numero": 7,
+        "fecha": "2025-05-20",
+        "url": "https://dhcplay.com/e/lefsumb2nrxm"
+      }
+    ]
+  }
 }
