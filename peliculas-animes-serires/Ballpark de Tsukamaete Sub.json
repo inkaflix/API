@@ -1,90 +1,80 @@
 {
-  "nombre": "Catch Me at the Ballpark Sub",
-  "sinopsis": "Hastiado de su monótono trabajo, Murata encuentra refugio en un estadio de béisbol cercano. Aunque los partidos son emocionantes, lo que de verdad le interesa es Ruriko, una gal tan fría como la cerveza que sirve, pero con un corazón más tierno de lo que aparenta. Como su primer cliente habitual, Murata empieza a descubrir la dulzura oculta tras su actitud distante. Entre encuentros divertidos y conmovedores, el estadio se llena de momentos inolvidables… y quizás también de un nuevo sentimiento.",
-  "fondo": "https://image.tmdb.org/t/p/original/iJLVG8W3kp0JTPejChjPWrXEwI3.jpg",
-  "meta": [
-    "⭐ 8.50/10",
-    "📅 2025",
-    "• Animación",
-    "En emisión"
-  ],
-  "episodios": [
-    {
-      "titulo": "Ruriko, la vendedora de cerveza",
-      "episodio": 1,
-      "descripcion": "Ruriko es una vendedora de cerveza en un estadio de béisbol, donde conocerá a Murata, un fan del béisbol.",
-      "imagen": "https://image.tmdb.org/t/p/original/nmppIgE7GyKHGU3R2Lbm2lSZWbw.jpg",
-      "enlace": "https://dhcplay.com/e/z5uvu2rcmjyl"
-    },
-    {
-      "titulo": "La definición de un fan del béisbol",
-      "episodio": 2,
-      "descripcion": "Ruriko participa en una conversación sobre lo que debe ser un aficionado al béisbol.",
-      "imagen": "https://image.tmdb.org/t/p/original/7SbgFfQ3nGRT603uJmz3vRb7kpC.jpg",
-      "enlace": "https://dhcplay.com/e/tcoa0k1jet0y"
-    },
-    {
-      "titulo": "¿La diosa del béisbol?",
-      "episodio": 3,
-      "descripcion": "Young, un jugador extranjero, no puede aclimatarse a Japón. Pero tras ver de pronto a Ruriko, todo cambia.",
-      "imagen": "https://image.tmdb.org/t/p/original/aGhDhHnXVz2F9zSLyVYN1Hk0ePH.jpg",
-      "enlace": "https://dhcplay.com/e/wryyus262c2s"
-    },
-    {
-      "titulo": "La speaker del alma",
-      "episodio": 4,
-      "descripcion": "La speaker del estadio tiene una responsabilidad muy grande con los aficionados y nota la presión.",
-      "imagen": "https://image.tmdb.org/t/p/original/zY7mbFYbLTVWHL4YDyrpujPlBHf.jpg",
-      "enlace": "https://dhcplay.com/e/051663mzd15g"
-    },
-    {
-      "titulo": "¡Me saca de quicio!",
-      "episodio": 5,
-      "descripcion": "Ruriko descubre que su cliente habitual está en el estadio acompañado de una mujer joven y eso le sienta mal.",
-      "imagen": "https://image.tmdb.org/t/p/original/zL5SPLBS4L10UntImsJh23uFxFO.jpg",
-      "enlace": "https://dhcplay.com/e/7tm3abm2vil7"
-    },
-    {
-      "titulo": "Una buena chica",
-      "episodio": 6,
-      "descripcion": "Sara es la más joven de las vendedoras del estadio y tiene problemas con unos clientes habituales.",
-      "imagen": "https://image.tmdb.org/t/p/original/fNL2KKbJSplzEWMFWSvrM5zEfXN.jpg",
-      "enlace": "https://dhcplay.com/e/kb246n6rwhs2"
-    },
-    {
-      "titulo": "Lo innecesario 99 veces",
-      "episodio": 7,
-      "descripcion": "Gracias al entrenador de los MotorSuns, Ruriko conocerá la importancia de las cosas en teoría innecesarias.",
-      "imagen": "https://image.tmdb.org/t/p/original/lNai5IGLADfbXiYGj0F6tMUeeO5.jpg",
-      "enlace": "https://dhcplay.com/e/qi54938nhr6a"
-    },
-    {
-      "titulo": "Es culpa del viento",
-      "episodio": 8,
-      "descripcion": "Sopla mucho viento en el estadio y veremos las consecuencias de ello, algunas más felices que otras.",
-      "imagen": "https://image.tmdb.org/t/p/original/9I6OdXzWiwGRRJnMcgBYEewgrWb.jpg",
-      "enlace": "https://dhcplay.com/e/tq8fbem1ueke"
-    },
-    {
-      "titulo": "La melancolía de Tommy",
-      "episodio": 9,
-      "descripcion": "Ruriko se encuentra dentro del estadio con Tommy, un perro con el que no congenia mucho.",
-      "imagen": "https://image.tmdb.org/t/p/original/p4ohHF3yhYegf7yKUFvte08B0aM.jpg",
-      "enlace": "https://dhcplay.com/e/eop3zfulwhoo"
-    },
-    {
-      "titulo": "Episodio 10",
-      "episodio": 10,
-      "descripcion": "Sin descripción",
-      "imagen": "https://image.tmdb.org/t/p/original/5quhDUSL88MlZPSUd51C3QZjJ71.jpg",
-      "enlace": "https://dhcplay.com/e/ic3y43650h9y"
-    },
-    {
-      "titulo": "Episodio 11",
-      "episodio": 11,
-      "descripcion": "Sin descripción",
-      "imagen": "https://image.tmdb.org/t/p/original/bYVQUOKV7TfW7OwkdkuE8Gp8eq7.jpg",
-      "enlace": "https://dhcplay.com/e/qlqvyu8609pr"
-    }
-  ]
+  "anime": {
+    "image": "https://image.tmdb.org/t/p/original/1iGTI5E0fB6My6MGb2tbf5c3mob.jpg",
+    "type": "Serie",
+    "year": "2025",
+    "title": "Catch Me at the Ballpark",
+    "description": "Hastiado de su monótono trabajo, Murata encuentra refugio en un estadio de béisbol cercano. Aunque los partidos son emocionantes, lo que de verdad le interesa es Ruriko, una gal tan fría como la cerveza que sirve, pero con un corazón más tierno de lo que aparenta. Como su primer cliente habitual, Murata empieza a descubrir la dulzura oculta tras su actitud distante. Entre encuentros divertidos y conmovedores, el estadio se llena de momentos inolvidables… y quizás también de un nuevo sentimiento.",
+    "score": "8.5",
+    "status": "En emisión",
+    "views": 0,
+    "alternative_titles": [],
+    "rating": "PG-13",
+    "tags": [
+      "Animación",
+      "Comedia"
+    ],
+    "languages": [
+      "SubLat🇲🇽🇯🇵"
+    ]
+  },
+  "temporadas": {
+    "1": [
+      {
+        "numero": 1,
+        "fecha": "2025-04-02",
+        "url": "https://dhcplay.com/e/z5uvu2rcmjyl"
+      },
+      {
+        "numero": 2,
+        "fecha": "2025-04-09",
+        "url": "https://dhcplay.com/e/tcoa0k1jet0y"
+      },
+      {
+        "numero": 3,
+        "fecha": "2025-04-16",
+        "url": "https://dhcplay.com/e/wryyus262c2s"
+      },
+      {
+        "numero": 4,
+        "fecha": "2025-04-23",
+        "url": "https://dhcplay.com/e/051663mzd15g"
+      },
+      {
+        "numero": 5,
+        "fecha": "2025-04-30",
+        "url": "https://dhcplay.com/e/7tm3abm2vil7"
+      },
+      {
+        "numero": 6,
+        "fecha": "2025-05-07",
+        "url": "https://dhcplay.com/e/kb246n6rwhs2"
+      },
+      {
+        "numero": 7,
+        "fecha": "2025-05-14",
+        "url": "https://dhcplay.com/e/qi54938nhr6a"
+      },
+      {
+        "numero": 8,
+        "fecha": "2025-05-21",
+        "url": "https://dhcplay.com/e/tq8fbem1ueke"
+      },
+      {
+        "numero": 9,
+        "fecha": "2025-05-28",
+        "url": "https://dhcplay.com/e/eop3zfulwhoo"
+      },
+      {
+        "numero": 10,
+        "fecha": "2025-06-04",
+        "url": "https://dhcplay.com/e/ic3y43650h9y"
+      },
+      {
+        "numero": 11,
+        "fecha": "2025-06-11",
+        "url": "https://dhcplay.com/e/qlqvyu8609pr"
+      }
+    ]
+  }
 }
