@@ -1,0 +1,33 @@
+{
+  "anime": {
+    "image": "https://image.tmdb.org/t/p/original/ie8OSgIHEl6yQiGJ90dsyBWOpQA.jpg",
+    "type": "Película",
+    "year": "2024",
+    "title": "El señor de los anillos: La guerra de los Rohirrim",
+    "description": "Explora la \"historia no contada\" del Abismo de Helm, cientos de años antes de la mítica batalla, y de su fundador, Helm Hammerhand, Rey de Rohan.",
+    "score": "6.627",
+    "status": "En emisión",
+    "views": 0,
+    "alternative_titles": [],
+    "rating": "PG-13",
+    "tags": [
+      "Animación",
+      "Fantasía",
+      "Aventura",
+      "Acción"
+    ],
+    "languages": [
+      "Lat🇲🇽",
+      "Movie"
+    ]
+  },
+  "temporadas": {
+    "1": [
+      {
+        "numero": 1,
+        "fecha": "2024-12-05",
+        "url": "https://dhcplay.com/e/aevy254jjmrz"
+      }
+    ]
+  }
+}
