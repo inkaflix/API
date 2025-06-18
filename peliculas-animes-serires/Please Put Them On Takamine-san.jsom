@@ -1,0 +1,82 @@
+{
+  "anime": {
+    "image": "https://image.tmdb.org/t/p/original/5AYXcPhbtPe6i1MPnutPhCV6qNd.jpg",
+    "type": "Serie",
+    "year": "2025",
+    "title": "Please Put Them On, Takamine-san",
+    "description": "Takane Takamine, presidenta del consejo estudiantil, es toda una estrella en el instituto. Por otro lado, Koushi Shirota no es que tenga muchos amigos. Todo cambia cuando Koushi descubre por casualidad la habilidad de Takane para volver atrás en el tiempo y alterar el pasado con tan solo quitarse la ropa interior. Después de darle un poco la lata, Koushi acepta ayudar a Takane y ser su guardarropa personal... teniendo siempre a mano ropa interior de repuesto.",
+    "score": "8.7",
+    "status": "En emisión",
+    "views": 0,
+    "alternative_titles": [
+      "Haite Kudasai Takemine san"
+    ],
+    "rating": "PG-17",
+    "tags": [
+      "Animación",
+      "Comedia"
+    ],
+    "languages": [
+      "SubLat🇯🇵🇲🇽"
+    ]
+  },
+  "temporadas": {
+    "1": [
+      {
+        "numero": 1,
+        "fecha": "2025-04-02",
+        "url": "https://dhcplay.com/e/75a928e21qm6"
+      },
+      {
+        "numero": 2,
+        "fecha": "2025-04-09",
+        "url": "https://dhcplay.com/e/lgm8zvbk76bs"
+      },
+      {
+        "numero": 3,
+        "fecha": "2025-04-16",
+        "url": "https://dhcplay.com/e/ioed2yf4klpi"
+      },
+      {
+        "numero": 4,
+        "fecha": "2025-04-23",
+        "url": "https://dhcplay.com/e/16u46a6aad2h"
+      },
+      {
+        "numero": 5,
+        "fecha": "2025-04-30",
+        "url": "https://dhcplay.com/e/r6yjt5lwvwf5"
+      },
+      {
+        "numero": 6,
+        "fecha": "2025-05-07",
+        "url": "https://dhcplay.com/e/ziz7ku6pd6bv"
+      },
+      {
+        "numero": 7,
+        "fecha": "2025-05-14",
+        "url": "https://dhcplay.com/e/vuckkquockfp"
+      },
+      {
+        "numero": 8,
+        "fecha": "2025-05-21",
+        "url": "https://dhcplay.com/e/1383qgx8gia9"
+      },
+      {
+        "numero": 9,
+        "fecha": "2025-05-28",
+        "url": "https://dhcplay.com/e/5agvsb4ap68t"
+      },
+      {
+        "numero": 10,
+        "fecha": "2025-06-04",
+        "url": "https://dhcplay.com/e/etf7i7smzx95"
+      },
+      {
+        "numero": 11,
+        "fecha": "2025-06-11",
+        "url": "https://dhcplay.com/e/yjs5x5nhzdaq"
+      }
+    ]
+  }
+}
