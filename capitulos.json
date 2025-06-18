@@ -1,6 +1,11 @@
 {
   "items": [
     {
+      "titulo": "Episodio 12",
+      "imagen": "https://image.tmdb.org/t/p/original/tvntAzazF6xneEpQ4F5lovSv5Z8.jpg",
+      "enlace": "https://dhcplay.com/e/qwbcvtovt96c"
+    },
+    {
       "titulo": "Episodio 11",
       "imagen": "https://image.tmdb.org/t/p/original/rz2jt9lN4DpPuJULcbyteCMMmlo.jpg",
       "enlace": "https://dhcplay.com/e/vepsgignoqq5"
@@ -134,41 +139,6 @@
       "titulo": "bye bye ear.. Epi 17",
       "imagen": "https://image.tmdb.org/t/p/original/j39t9r804l8s1QWbfEnbG6shfoS.jpg",
       "enlace": "https://dhcplay.com/e/ucl095e6ypns"
-    },
-    {
-      "titulo": "fire face Episodio 7",
-      "imagen": "https://image.tmdb.org/t/p/original/tgzRLRZ6usWWyUSC4Lc9xZ3wopg.jpg",
-      "enlace": "https://dhcplay.com/e/t5btdi5g0992"
-    },
-    {
-      "titulo": "Alquequenje s2",
-      "imagen": "https://image.tmdb.org/t/p/original/zqMohdhn3Gktsb3iJuHAFmVFife.jpg",
-      "enlace": "https://dhcplay.com/e/0zfwrvco7b3q"
-    },
-    {
-      "titulo": "Episodio 6",
-      "imagen": "https://image.tmdb.org/t/p/original/dCPwC4ViFoGIvXo7NktP1NC1BUM.jpg",
-      "enlace": "https://dhcplay.com/e/kp9qi6eumaxg"
-    },
-    {
-      "titulo": "Episodio 6",
-      "imagen": "https://image.tmdb.org/t/p/original/evPBLAosVlYlxfxbj8TqRptFUGp.jpg",
-      "enlace": "https://dhcplay.com/e/0cwyr6bgpx7v"
-    },
-    {
-      "titulo": "El barrio nocturno",
-      "imagen": "https://image.tmdb.org/t/p/original/2fohG91LA2lJqHKmh26CqrtVAi6.jpg",
-      "enlace": "https://dhcplay.com/e/jpaoh2bljdmy"
-    },
-    {
-      "titulo": "Episodio 6",
-      "imagen": "https://image.tmdb.org/t/p/original/fj7xovVZQMdHyXCNiOfGPutqZNq.jpg",
-      "enlace": "https://dhcplay.com/e/qtfxlzi9ra3r"
-    },
-    {
-      "titulo": "Episodio 9",
-      "imagen": "https://image.tmdb.org/t/p/original/5CxnpKGjifCpQairtaBpBhiNjkE.jpg",
-      "enlace": "https://dhcplay.com/e/2zgohuai2vnn"
     }
   ]
 }
