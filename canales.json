@@ -1,122 +1,127 @@
 [
   {
-    "titulo": "Cartoon InkaTv",
-    "imagen": "https://mihd.tv/imge/cartoonnetwork.png",
+    "titulo": "Carton InkaTv",
+    "imagen": "https://mihd.tv/imge/carton.png",
     "enlace": "https://inkasercer.blogspot.com/p/carton.html"
   },
   {
-    "titulo": "TND",
+    "titulo": "TUDN InkaTv",
     "imagen": "https://mihd.tv/imge/tudn.png",
-    "enlace": "https://playerinka.blogspot.com/p/animelive.html"
+    "enlace": "https://inkasercer.blogspot.com/p/tudn.html"
   },
   {
-    "titulo": "Gol Peru",
+    "titulo": "TNT SPORTS InkaTv",
+    "imagen": "https://mihd.tv/imge/tntsports.png",
+    "enlace": "https://inkasercer.blogspot.com/p/tnt-sports.html"
+  },
+  {
+    "titulo": "GOL PERU InkaTv",
     "imagen": "https://mihd.tv/imge/golperu.png",
-    "enlace": "https://playerinka.blogspot.com/p/peliculas-vivo.html"
+    "enlace": "https://inkasercer.blogspot.com/p/gol-peru.html"
   },
   {
-    "titulo": "TNT Sports",
-    "imagen": "https://mihd.tv/imge/tycsports.png",
-    "enlace": "https://playerinka.blogspot.com/p/serieshd.html"
-  },
-  {
-    "titulo": "FOX SPORTS",
-    "imagen": "https://mihd.tv/imge/tycsports.png",
-    "enlace": "https://playerinka.blogspot.com/p/serieshd.html"
-  },
-  {
-    "titulo": "FOX SPORTS 2",
+    "titulo": "FOX SPORTS 2 InkaTv",
     "imagen": "https://mihd.tv/imge/foxsports2.png",
-    "enlace": "https://playerinka.blogspot.com/p/serieshd.html"
+    "enlace": "https://inkasercer.blogspot.com/p/fox-sports-2-sports.html"
   },
   {
-    "titulo": "FOX SPORTS 3",
+    "titulo": "FOX SPORTS 3 InkaTv",
     "imagen": "https://mihd.tv/imge/foxsports3.png",
-    "enlace": "https://playerinka.blogspot.com/p/serieshd.html"
+    "enlace": "https://inkasercer.blogspot.com/p/fox-sports-3-sports.html"
   },
   {
-    "titulo": "FOX DEPORTES",
-    "imagen": "https://mihd.tv/imge/foxdeportes.png",
-    "enlace": "https://playerinka.blogspot.com/p/serieshd.html"
-  },
-  {
-    "titulo": "ESPN",
+    "titulo": "ESPN InkaTv",
     "imagen": "https://mihd.tv/imge/espn.png",
-    "enlace": "https://playerinka.blogspot.com/p/serieshd.html"
+    "enlace": "https://inkasercer.blogspot.com/p/espn.html"
   },
   {
-    "titulo": "ESPN 2",
+    "titulo": "ESPN 2 InkaTv",
     "imagen": "https://mihd.tv/imge/espn2.png",
-    "enlace": "https://playerinka.blogspot.com/p/serieshd.html"
+    "enlace": "https://inkasercer.blogspot.com/p/espn-2.html"
   },
   {
-    "titulo": "ESPN 3",
+    "titulo": "ESPN 3 InkaTv",
     "imagen": "https://mihd.tv/imge/espn3.png",
-    "enlace": "https://playerinka.blogspot.com/p/serieshd.html"
+    "enlace": "https://inkasercer.blogspot.com/p/espn-3.html"
   },
   {
-    "titulo": "ESPN 4",
+    "titulo": "ESPN 4 InkaTv",
     "imagen": "https://mihd.tv/imge/espn4.png",
-    "enlace": "https://playerinka.blogspot.com/p/serieshd.html"
+    "enlace": "https://inkasercer.blogspot.com/p/espn-4.html"
   },
   {
-    "titulo": "ESPN 5",
+    "titulo": "ESPN 5 InkaTv",
     "imagen": "https://mihd.tv/imge/espn5.png",
-    "enlace": "https://playerinka.blogspot.com/p/serieshd.html"
+    "enlace": "https://inkasercer.blogspot.com/p/espn-5.html"
   },
   {
-    "titulo": "ESPN 6",
+    "titulo": "ESPN 6 InkaTv",
     "imagen": "https://mihd.tv/imge/espn6.png",
-    "enlace": "https://playerinka.blogspot.com/p/serieshd.html"
+    "enlace": "https://inkasercer.blogspot.com/p/espn-6.html"
   },
   {
-    "titulo": "ESPN 7",
+    "titulo": "ESPN 7 InkaTv",
     "imagen": "https://mihd.tv/imge/espn7.png",
-    "enlace": "https://playerinka.blogspot.com/p/serieshd.html"
+    "enlace": "https://inkasercer.blogspot.com/p/espn-7.html"
   },
   {
-    "titulo": "DIRECTV SPORTS",
-    "imagen": "https://mihd.tv/imge/directvsports.png",
-    "enlace": "https://playerinka.blogspot.com/p/serieshd.html"
+    "titulo": "FOX SPORTS PREMIUM InkaTv",
+    "imagen": "https://mihd.tv/imge/foxpremium.png",
+    "enlace": "https://inkasercer.blogspot.com/p/fox-sports-premium-sports.html"
   },
   {
-    "titulo": "DIRECTV SPORTS 2",
-    "imagen": "https://mihd.tv/imge/directvsports2.png",
-    "enlace": "https://playerinka.blogspot.com/p/serieshd.html"
+    "titulo": "MOVISTAR DEPORTES PE InkaTv",
+    "imagen": "https://mihd.tv/imge/movistardeportes.png",
+    "enlace": "https://inkasercer.blogspot.com/p/movistar-deportes-pe.html"
   },
   {
-    "titulo": "DIRECTV SPORTS Plus",
-    "imagen": "https://mihd.tv/imge/directvsportsplus.png",
-    "enlace": "https://playerinka.blogspot.com/p/serieshd.html"
-  },
-  {
-    "titulo": "AZTECA 7",
+    "titulo": "AZECA 7 InkaTv",
     "imagen": "https://mihd.tv/imge/azteca7.png",
-    "enlace": "https://playerinka.blogspot.com/p/serieshd.html"
+    "enlace": "https://inkasercer.blogspot.com/p/azeca-7.html"
   },
   {
-    "titulo": "Series HD Canal",
-    "imagen": "https://mihd.tv/imge/tycsports.png",
-    "enlace": "https://playerinka.blogspot.com/p/serieshd.html"
+    "titulo": "CANAL 5 InkaTv",
+    "imagen": "https://mihd.tv/imge/canal5.png",
+    "enlace": "https://inkasercer.blogspot.com/p/canal-5.html"
   },
   {
-    "titulo": "Series HD Canal",
-    "imagen": "https://mihd.tv/imge/tycsports.png",
-    "enlace": "https://playerinka.blogspot.com/p/serieshd.html"
+    "titulo": "AMERICA TV InkaTv",
+    "imagen": "https://mihd.tv/imge/americatv.png",
+    "enlace": "https://inkasercer.blogspot.com/p/america-tv.html"
   },
   {
-    "titulo": "Series HD Canal",
-    "imagen": "https://mihd.tv/imge/tycsports.png",
-    "enlace": "https://playerinka.blogspot.com/p/serieshd.html"
+    "titulo": "ESPACE InkaTv",
+    "imagen": "https://mihd.tv/imge/espace.png",
+    "enlace": "https://inkasercer.blogspot.com/p/espace.html"
   },
   {
-    "titulo": "Series HD Canal",
-    "imagen": "https://mihd.tv/imge/tycsports.png",
-    "enlace": "https://playerinka.blogspot.com/p/serieshd.html"
+    "titulo": "WANER BROS TV InkaTv",
+    "imagen": "https://mihd.tv/imge/warnerbros.png",
+    "enlace": "https://inkasercer.blogspot.com/p/waner-bros-tv.html"
   },
   {
-    "titulo": "Series HD Canal",
-    "imagen": "https://mihd.tv/imge/tycsports.png",
-    "enlace": "https://playerinka.blogspot.com/p/serieshd.html"
+    "titulo": "TNT InkaTv",
+    "imagen": "https://mihd.tv/imge/tnt.png",
+    "enlace": "https://inkasercer.blogspot.com/p/tnt.html"
+  },
+  {
+    "titulo": "STAR CHANNEL InkaTv",
+    "imagen": "https://mihd.tv/imge/starchannel.png",
+    "enlace": "https://inkasercer.blogspot.com/p/star-channel.html"
+  },
+  {
+    "titulo": "CINEMAX InkaTv",
+    "imagen": "https://mihd.tv/imge/cinemax.png",
+    "enlace": "https://inkasercer.blogspot.com/p/cinemax.html"
+  },
+  {
+    "titulo": "CINECANAL InkaTv",
+    "imagen": "https://mihd.tv/imge/cinecanal.png",
+    "enlace": "https://inkasercer.blogspot.com/p/cinecanal.html"
+  },
+  {
+    "titulo": "TELEFE InkaTv",
+    "imagen": "https://mihd.tv/imge/telefe.png",
+    "enlace": "https://inkasercer.blogspot.com/p/telefe.html"
   }
 ]
