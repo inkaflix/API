@@ -1,0 +1,25 @@
+{
+  "titulo": "28 años después",
+  "sinopsis": "Años transcurridos tras los sucesos de \"28 semanas después\", el virus de la ira ha regresado y un grupo de supervivientes debe sobrevivir en un mundo asolado por hordas de infectados. Rodada con un iPhone 15 Pro Max y con la ayuda de numerosos accesorios especializados.",
+  "imagen_fondo": "https://image.tmdb.org/t/p/original/yb1YNS9zaxbwdQBaYIfIKxWD65q.jpg",
+  "poster": "https://image.tmdb.org/t/p/original/cn4PNK6FQnaUDDqu1vhfqZAZd39.jpg",
+  "genero": [
+    "Terror",
+    "Suspense",
+    "Ciencia ficción"
+  ],
+  "servidores": [
+    {
+      "nombre": "Servidor 1",
+      "url": "https://gradehgplus.com/e/od5969a0r8p2"
+    },
+    {
+      "nombre": "Servidor 2",
+      "url": "https://gradehgplus.com/e/od5969a0r8p2"
+    },
+    {
+      "nombre": "Servidor 3",
+      "url": "https://gradehgplus.com/e/od5969a0r8p2"
+    }
+  ]
+}
