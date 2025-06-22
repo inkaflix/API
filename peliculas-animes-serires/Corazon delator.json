@@ -1,0 +1,20 @@
+{
+  "titulo": "Corazón delator",
+  "sinopsis": "Un amor que trasciende la muerte. Juan Manuel, un empresario frío, recibe el corazón de Pedro, un hombre humilde. Al investigar el origen de su donante, conoce a Valeria, la viuda, y se enamora de ella. Ocultando su identidad, lucha por salvar el barrio de Pedro, sin revelar que en su pecho late su corazón.",
+  "imagen_fondo": "https://image.tmdb.org/t/p/original/gcLh20gTCsYQIBS73sFzxKRa65m.jpg",
+  "poster": "https://image.tmdb.org/t/p/original/5XgEqq8KJVW0R0NhDZCdBV2Pjr0.jpg",
+  "genero": [
+    "Romance",
+    "Drama"
+  ],
+  "servidores": [
+    {
+      "nombre": "Servidor 1",
+      "url": "https://gradehgplus.com/e/hqg53xy5ig6n"
+    },
+    {
+      "nombre": "Servidor 2",
+      "url": "https://movearnpre.com/embed/kgv68ybzg2lp"
+    }
+  ]
+}
