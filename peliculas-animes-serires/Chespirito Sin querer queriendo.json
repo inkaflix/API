@@ -1,0 +1,42 @@
+{
+  "anime": {
+    "image": "https://image.tmdb.org/t/p/original/y8tPZ9P4tYqYiACs6t4mlcWJnSC.jpg",
+    "type": "Serie",
+    "year": "2025",
+    "title": "Chespirito: Sin querer queriendo",
+    "description": "La historia de Roberto Gómez Bolaños, el hombre que transformó su anhelo de hacer reír en un legado universal. Desde su infancia hasta su consagración en las décadas de los 50 a los 80, esta biografía íntima nos revela cómo un joven soñador encontró su lugar en la naciente industria televisiva, creando personajes inolvidables cargados de ternura y humor. Pero detrás del genio que hizo reír al mundo entero, hubo también un ser humano en constante búsqueda de amor y reconocimiento, dispuesto a sacrificarlo todo por permanecer en el corazón de su audiencia.",
+    "score": "8.124",
+    "status": "En emisión",
+    "views": 0,
+    "alternative_titles": [
+      "Chespirito: Sin querer queriendo"
+    ],
+    "rating": "PG-17",
+    "tags": [
+      "Drama",
+      "Comedia"
+    ],
+    "languages": [
+      "Lat🇲🇽"
+    ]
+  },
+  "temporadas": {
+    "1": [
+      {
+        "numero": 1,
+        "fecha": "2025-06-05",
+        "url": "https://gradehgplus.com/e/5tl2yw72kbps"
+      },
+      {
+        "numero": 2,
+        "fecha": "2025-06-12",
+        "url": "https://gradehgplus.com/e/82r2lp5iekbz"
+      },
+      {
+        "numero": 3,
+        "fecha": "2025-06-19",
+        "url": "https://gradehgplus.com/e/3w5y3y1o7473"
+      }
+    ]
+  }
+}
