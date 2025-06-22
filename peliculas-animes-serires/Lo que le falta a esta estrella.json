@@ -1,0 +1,21 @@
+{
+  "titulo": "Lo que le falta a esta estrella",
+  "sinopsis": "La inmensidad del espacio infinito separa a dos amantes cuando una astronauta abandona la Tierra rumbo a Marte en este romance de animación que recorre todo el cosmos.",
+  "imagen_fondo": "https://image.tmdb.org/t/p/original/drSJ0HVuSNFMPq5VzAEHk37BiEC.jpg",
+  "poster": "https://image.tmdb.org/t/p/original/6AmW8DglQ5VnOfW1lSMSOyfcwmW.jpg",
+  "genero": [
+    "Animación",
+    "Romance",
+    "Ciencia ficción"
+  ],
+  "servidores": [
+    {
+      "nombre": "Servidor 1",
+      "url": "https://gradehgplus.com/e/rbb5vesxj5su"
+    },
+    {
+      "nombre": "Servidor 2",
+      "url": "https://movearnpre.com/embed/zjtokhe46tye"
+    }
+  ]
+}
