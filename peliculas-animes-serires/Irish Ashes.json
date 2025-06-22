@@ -1,0 +1,23 @@
+{
+  "titulo": "Irish Ashes",
+  "sinopsis": "",
+  "imagen_fondo": "https://image.tmdb.org/t/p/original/MKqfLD9MRonZHc4eqq6AMJxuqZ.jpg",
+  "poster": "https://image.tmdb.org/t/p/original/dnswhxoK8xGBNIG7LWFiVIM1W4w.jpg",
+  "genero": [
+    "Crimen"
+  ],
+  "servidores": [
+    {
+      "nombre": "Servidor 1",
+      "url": "https://gradehgplus.com/e/q7doytgqw2b9"
+    },
+    {
+      "nombre": "Servidor 2",
+      "url": "https://gradehgplus.com/e/q7doytgqw2b9"
+    },
+    {
+      "nombre": "Servidor 3",
+      "url": "https://gradehgplus.com/e/q7doytgqw2b9"
+    }
+  ]
+}
