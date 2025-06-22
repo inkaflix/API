@@ -1,0 +1,22 @@
+{
+  "titulo": "Cells at Work!",
+  "sinopsis": "Cada cuerpo es una legión de células, todas ellas cumpliendo su función para mantener en funcionamiento a su propietario.",
+  "imagen_fondo": "https://image.tmdb.org/t/p/original/cc4EscS4JtKobKtoUQVzKWIyZfl.jpg",
+  "poster": "https://image.tmdb.org/t/p/original/2Nf05hK89IFsaIBScAHQUNaRELX.jpg",
+  "genero": [
+    "Aventura",
+    "Acción",
+    "Comedia",
+    "Fantasía"
+  ],
+  "servidores": [
+    {
+      "nombre": "Servidor 1",
+      "url": "https://gradehgplus.com/e/nscmwxy2iv8i"
+    },
+    {
+      "nombre": "Servidor 2",
+      "url": "https://gradehgplus.com/e/dgmndv5dnzsk"
+    }
+  ]
+}
