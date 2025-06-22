@@ -1,0 +1,25 @@
+{
+  "titulo": "K.O.",
+  "sinopsis": "Un exluchador debe encontrar al hijo de un rival al que mató por accidente hace años y se enfrenta a una violenta banda criminal en Marsella.",
+  "imagen_fondo": "https://image.tmdb.org/t/p/original/rU9kRB3rBU5O7AMReZCiuIy7zmE.jpg",
+  "poster": "https://image.tmdb.org/t/p/original/uTbQg4zQ0eGXlKl8imLu64LLJQX.jpg",
+  "genero": [
+    "Acción",
+    "Drama",
+    "Aventura"
+  ],
+  "servidores": [
+    {
+      "nombre": "Servidor 1",
+      "url": "https://gradehgplus.com/e/gf0veej52diu"
+    },
+    {
+      "nombre": "Servidor 2",
+      "url": "https://gradehgplus.com/e/gf0veej52diu"
+    },
+    {
+      "nombre": "Servidor 3",
+      "url": "https://gradehgplus.com/e/gf0veej52diu"
+    }
+  ]
+}
