@@ -1,0 +1,24 @@
+{
+  "titulo": "Mountainhead",
+  "sinopsis": "En medio de una crisis internacional, cuatro magnates de la tecnología buscan la forma de usar el caos para su propio beneficio.",
+  "imagen_fondo": "https://image.tmdb.org/t/p/original/8LjN496M9Mo0b5M6uvlVObz81bn.jpg",
+  "poster": "https://image.tmdb.org/t/p/original/jZKK5mFKWbquxhAGMkRJtNYwk0I.jpg",
+  "genero": [
+    "Drama",
+    "Comedia"
+  ],
+  "servidores": [
+    {
+      "nombre": "Servidor 1",
+      "url": "https://gradehgplus.com/e/au469plpgfr9"
+    },
+    {
+      "nombre": "Servidor 2",
+      "url": "https://gradehgplus.com/e/au469plpgfr9"
+    },
+    {
+      "nombre": "Servidor 3",
+      "url": "https://gradehgplus.com/e/au469plpgfr9"
+    }
+  ]
+}
