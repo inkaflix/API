@@ -1,0 +1,54 @@
+{
+  "anime": {
+    "image": "https://image.tmdb.org/t/p/original/vPVdWiLUNQyaGMazyZGVAyRcYBG.jpg",
+    "type": "Serie",
+    "year": "2023",
+    "title": "El Asombroso Circo Digital",
+    "description": "Una mujer de 25 años queda atrapada en un loco mundo virtual junto a otros cinco humanos y ahora están sujetos a los caprichos de una alocada IA y a sus propios traumas personales.",
+    "score": "8.2",
+    "status": "En emisión",
+    "views": 0,
+    "alternative_titles": [
+      "The Amazing Digital Cirsus"
+    ],
+    "rating": "PG-15",
+    "tags": [
+      "Animación",
+      "Comedia",
+      "Misterio",
+      "Sci-Fi & Fantasy"
+    ],
+    "languages": [
+      "Lat🇲🇽"
+    ]
+  },
+  "temporadas": {
+    "1": [
+      {
+        "numero": 1,
+        "fecha": "2023-10-13",
+        "url": "https://filemoon.to/e/q12o4l30w8tq"
+      },
+      {
+        "numero": 2,
+        "fecha": "2023-10-20",
+        "url": "https://filemoon.to/e/wh1yvavosz2p"
+      },
+      {
+        "numero": 3,
+        "fecha": "2023-10-27",
+        "url": "https://luluvdoo.com/e/7zwn6k5c1wj9"
+      },
+      {
+        "numero": 4,
+        "fecha": "2023-11-03",
+        "url": "https://luluvdoo.com/e/7udoydl72seq"
+      },
+      {
+        "numero": 5,
+        "fecha": "2023-11-10",
+        "url": "https://luluvdoo.com/5/8v54qch3zbva"
+      }
+    ]
+  }
+}
