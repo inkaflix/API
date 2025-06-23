@@ -1,17 +1,117 @@
 [
   {
+    "titulo": "Nausicaä del Valle del Viento",
+    "imagen": "https://image.tmdb.org/t/p/original/<POSTER_PATH_NAUSICAÄ>",
+    "enlace": "https://playerinka.blogspot.com/p/nausicaa-del-valle-del-viento.html"
+  },
+  {
+    "titulo": "El castillo en el cielo",
+    "imagen": "https://image.tmdb.org/t/p/original/iMkszTjKyjWFTxPWQFdDR0N39O7.jpg",
+    "enlace": "https://playerinka.blogspot.com/p/el-castillo-en-el-cielo.html"
+  },
+  {
+    "titulo": "La tumba de las luciérnagas",
+    "imagen": "https://image.tmdb.org/t/p/original/xKI6TnHIrbP493ME3ZdoSAPzD0e.jpg",
+    "enlace": "https://playerinka.blogspot.com/p/la-tumba-de-las-luciernagas.html"
+  },
+  {
     "titulo": "Mi vecino Totoro",
     "imagen": "https://image.tmdb.org/t/p/original/pU5W9u5lHppZArYrusS4x2maFGp.jpg",
     "enlace": "https://playerinka.blogspot.com/p/mi-vecino-totoro.html"
   },
   {
+    "titulo": "Kiki: Entregas a domicilio",
+    "imagen": "https://image.tmdb.org/t/p/original/jEJbAT93BUtR55cN1cBrb7DYJcV.jpg",
+    "enlace": "https://playerinka.blogspot.com/p/kiki-entregas-a-domicilio.html"
+  },
+  {
+    "titulo": "Memorias de Ontañe/Only Yesterday",
+    "imagen": "https://image.tmdb.org/t/p/original/<POSTER_PATH_ONLY_YESTERDAY>",
+    "enlace": "https://playerinka.blogspot.com/p/memorias-de-ontana.html"
+  },
+  {
+    "titulo": "Porco Rosso",
+    "imagen": "https://image.tmdb.org/t/p/original/<POSTER_PATH_PORCO_ROSSO>",
+    "enlace": "https://playerinka.blogspot.com/p/porco-rosso.html"
+  },
+  {
+    "titulo": "Ocean Waves",
+    "imagen": "https://image.tmdb.org/t/p/original/<POSTER_PATH_OCEAN_WAVES>",
+    "enlace": "https://playerinka.blogspot.com/p/ocean-waves.html"
+  },
+  {
+    "titulo": "Pom Poko",
+    "imagen": "https://image.tmdb.org/t/p/original/<POSTER_PATH_POM_POKO>",
+    "enlace": "https://playerinka.blogspot.com/p/pom-poko.html"
+  },
+  {
+    "titulo": "Sussurros del corazón",
+    "imagen": "https://image.tmdb.org/t/p/original/<POSTER_PATH_WHISPER_OF_THE_HEART>",
+    "enlace": "https://playerinka.blogspot.com/p/sussurros-del-corazon.html"
+  },
+  {
+    "titulo": "La princesa Mononoke",
+    "imagen": "https://image.tmdb.org/t/p/original/d3Sl1XhG4CPrzpMAS8FvQAR4VDr.jpg",
+    "enlace": "https://playerinka.blogspot.com/p/la-princesa-mononoke.html"
+  },
+  {
+    "titulo": "Mis vecinos los Yamada",
+    "imagen": "https://image.tmdb.org/t/p/original/<POSTER_PATH_MY_NEIGHBORS_THE_YAMADAS>",
+    "enlace": "https://playerinka.blogspot.com/p/mis-vecinos-los-yamada.html"
+  },
+  {
     "titulo": "El viaje de Chihiro",
-    "imagen": "https://image.tmdb.org/t/p/original/kRr3QfGHoj6J2U5o2eGmn7hDgKp.jpg",
+    "imagen": "https://image.tmdb.org/t/p/original/qxsPKqvu19GDRK0oiKyazr8DB2u.jpg",
     "enlace": "https://playerinka.blogspot.com/p/el-viaje-de-chihiro.html"
   },
   {
+    "titulo": "El reino de los gatos",
+    "imagen": "https://image.tmdb.org/t/p/original/<POSTER_PATH_THE_CAT_RETURNS>",
+    "enlace": "https://playerinka.blogspot.com/p/el-reino-de-los-gatos.html"
+  },
+  {
     "titulo": "El castillo ambulante",
-    "imagen": "https://image.tmdb.org/t/p/original/6XfWbRq6uSPRqCMgfHdCqkfNNpB.jpg",
+    "imagen": "https://image.tmdb.org/t/p/original/3v4bEOrxzO7S5rCw2hX3z6x8p42.jpg",
     "enlace": "https://playerinka.blogspot.com/p/el-castillo-ambulante.html"
+  },
+  {
+    "titulo": "Cuentos de Terramar",
+    "imagen": "https://image.tmdb.org/t/p/original/<POSTER_PATH_TALES_FROM_EARTHSEA>",
+    "enlace": "https://playerinka.blogspot.com/p/cuentos-de-terrarma.html"
+  },
+  {
+    "titulo": "Ponyo",
+    "imagen": "https://image.tmdb.org/t/p/original/i4SEp1EO1GGut1FclnAliaDNhye.jpg",
+    "enlace": "https://playerinka.blogspot.com/p/ponyo.html"
+  },
+  {
+    "titulo": "Arrietty y el mundo de los diminutos",
+    "imagen": "https://image.tmdb.org/t/p/original/<POSTER_PATH_ARRIETTY>",
+    "enlace": "https://playerinka.blogspot.com/p/arrietty.html"
+  },
+  {
+    "titulo": "Desde arriba de una colina",
+    "imagen": "https://image.tmdb.org/t/p/original/<POSTER_PATH_FROM_UP_ON_POPPY_HILL>",
+    "enlace": "https://playerinka.blogspot.com/p/desde-arriba-de-una-colina.html"
+  },
+  {
+    "titulo": "El viento se levanta",
+    "imagen": "https://image.tmdb.org/t/p/original/r7Hs9wkni3QA0rlS3WdqPiL06C3.jpg",
+    "enlace": "https://playerinka.blogspot.com/p/el-viento-se-levanta.html"
+  },
+  {
+    "titulo": "El cuento de la princesa Kaguya",
+    "imagen": "https://image.tmdb.org/t/p/original/17Xf3Skp8eYEdprhKcDEAlswOZa.jpg",
+    "enlace": "https://playerinka.blogspot.com/p/el-cuento-de-la-princesa-kaguya.html"
+  },
+  {
+    "titulo": "Cuando Marnie estuvo allí",
+    "imagen": "https://image.tmdb.org/t/p/original/pgnnQOASlpmEwWPOSnXTahJ3mCK.jpg",
+    "enlace": "https://playerinka.blogspot.com/p/cuando-marnie-estuvo-alli.html"
+  },
+  {
+    "titulo": "El chico y la garza",
+    "imagen": "https://image.tmdb.org/t/p/original/4Z0YWf2XMUPDT4Y3C6NUJpIBOkJ.jpg",
+    "enlace": "https://playerinka.blogspot.com/p/el-chico-y-la-garza.html"
   }
 ]
