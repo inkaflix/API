@@ -1,0 +1,21 @@
+{
+  "titulo": "그 시절, 우리가 좋아했던 소녀",
+  "sinopsis": "",
+  "imagen_fondo": "https://image.tmdb.org/t/p/original/rVhoq70ZDDVfeoEPS312PcR5yLE.jpg",
+  "poster": "https://image.tmdb.org/t/p/original/w360EPoLVUs9ENop1SBHnARMVRZ.jpg",
+  "genero": [
+    "Romance",
+    "Drama",
+    "Comedia"
+  ],
+  "servidores": [
+    {
+      "nombre": "Servidor 1",
+      "url": "https://gradehgplus.com/e/ytuibfi4l0dm"
+    },
+    {
+      "nombre": "Servidor 2",
+      "url": "https://gradehgplus.com/e/ytuibfi4l0dm"
+    }
+  ]
+}
