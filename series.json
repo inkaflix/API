@@ -1,6 +1,16 @@
 {
   "items": [
     {
+  "titulo": "El juego del calamar S2",
+  "enlace": "https://playerinka.blogspot.com/p/el-juego-del-calamar-s2.html",
+  "imagen": "https://image.tmdb.org/t/p/original/iRbJ4r1W0XwaajfhiBhB8sSmYE5.jpg"
+},
+    {
+  "titulo": "El juego del calamar",
+  "enlace": "https://playerinka.blogspot.com/p/el-juego-del-calamar-s1.html",
+  "imagen": "https://image.tmdb.org/t/p/w300/74qMRUy0lwkBBi39vsQVerIDkHj.jpg"
+    },
+    {
   "titulo": "El Asombroso Circo Digital",
   "enlace": "https://playerinka.blogspot.com/p/the-amazing-digital-cirsus.html",
   "imagen": "https://image.tmdb.org/t/p/w300/uJ1nT3Ez5te1zStsj7DFYFLx8gY.jpg"
