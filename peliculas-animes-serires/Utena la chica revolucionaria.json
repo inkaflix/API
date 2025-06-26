@@ -1,0 +1,49 @@
+{
+  "anime": {
+    "image": "https://image.tmdb.org/t/p/original/802aSsZzIyOhbaL1bt19gp0RVYq.jpg",
+    "type": "Serie",
+    "year": "1997",
+    "title": "Utena, la chica revolucionaria",
+    "description": "Cuando era niña, los padres de Utena Tenjou murieron tras un trágico accidente. Un príncipe apareció y le entregó un anillo, con el que prometió que un día se reencontrarían. Ella misma decidió convertirse en príncipe y partir en su búsqueda. Ahora, Utena es adolescente y reside en la peculiar Academia Ohtori, donde deberá batirse en duelo contra el Consejo de Estudiantes. Dirigidos por El Fin del Mundo, estos duelistas ansían obtener como trofeo a la Novia de la Rosa -la enigmática Anthy Himemiya-, quien alberga en su interior la Espada de Dios, y con ella, el tan codiciado Poder para Revolucionar el Mundo.",
+    "score": "8.4",
+    "status": "En emisión",
+    "views": 0,
+    "alternative_titles": [
+      "Utena - La Chica Revolucionaria"
+    ],
+    "rating": "PG-16",
+    "tags": [
+      "Animación",
+      "Drama",
+      "Misterio",
+      "Sci-Fi & Fantasy"
+    ],
+    "languages": [
+      "Castellano🇪🇸"
+    ]
+  },
+  "temporadas": {
+    "1": [
+      {
+        "numero": 1,
+        "fecha": "1997-04-02",
+        "url": "https://filemoon.to/e/ztqfgx9gzmgj"
+      },
+      {
+        "numero": 2,
+        "fecha": "1997-04-08",
+        "url": "https://filemoon.to/e/ns2spekkmeg2"
+      },
+      {
+        "numero": 3,
+        "fecha": "1997-04-15",
+        "url": "https://filemoon.to/e/udi9ieatgky4"
+      },
+      {
+        "numero": 4,
+        "fecha": "1997-04-22",
+        "url": "https://filemoon.to/e/1avg538e3rl1"
+      }
+    ]
+  }
+}
