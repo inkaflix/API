@@ -1,0 +1,73 @@
+{
+  "anime": {
+    "image": "https://image.tmdb.org/t/p/original/87mebbBtoWzHV0kILgV6M7yIfun.jpg",
+    "type": "Serie",
+    "year": "2021",
+    "title": "El juego del calamar",
+    "description": "Cientos de personas con problemas de dinero aceptan una invitación rarísima para competir en juegos infantiles. Dentro los esperan un tentador premio y desafíos letales.",
+    "score": "7.9",
+    "status": "En emisión",
+    "views": 0,
+    "alternative_titles": [
+      "El juego del calamar S1"
+    ],
+    "rating": "PG-13",
+    "tags": [
+      "Action & Adventure",
+      "Misterio",
+      "Drama"
+    ],
+    "languages": [
+      "Lat🇲🇽"
+    ]
+  },
+  "temporadas": {
+    "1": [
+      {
+        "numero": 1,
+        "fecha": "2021-09-17",
+        "url": "https://gradehgplus.com/e/yrazuz8kmngi"
+      },
+      {
+        "numero": 2,
+        "fecha": "2021-09-24",
+        "url": "https://gradehgplus.com/e/dy4idlwhf2a3"
+      },
+      {
+        "numero": 3,
+        "fecha": "2021-10-01",
+        "url": "https://gradehgplus.com/jx866q82pmwv"
+      },
+      {
+        "numero": 4,
+        "fecha": "2021-10-08",
+        "url": "https://gradehgplus.com/e/cyt7d3tylg6b"
+      },
+      {
+        "numero": 5,
+        "fecha": "2021-10-15",
+        "url": "https://gradehgplus.com/e/7vsknftxn84j"
+      },
+      {
+        "numero": 6,
+        "fecha": "2021-10-22",
+        "url": "https://gradehgplus.com/e/jy2mzwqr7pv5"
+      },
+      {
+        "numero": 7,
+        "fecha": "2021-10-29",
+        "url": "https://gradehgplus.com/e/77txlbomlqp8"
+      },
+      {
+        "numero": 8,
+        "fecha": "2021-11-05",
+        "url": "https://gradehgplus.com/e/9u38jy7oekb2"
+      },
+      {
+        "numero": 9,
+        "fecha": "2021-11-12",
+        "url": "https://gradehgplus.com/e/2v95j2bbly2c"
+      }
+    ]
+  }
+}
