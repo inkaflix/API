@@ -1,0 +1,19 @@
+{
+  "titulo": "The Last Rodeo",
+  "sinopsis": "",
+  "imagen_fondo": "https://image.tmdb.org/t/p/original/lyOSmvb6mT78mi1Oi9NqFNrBAgo.jpg",
+  "poster": "https://image.tmdb.org/t/p/original/cpATW9o83IwYqPkiT7WLqL2jxlF.jpg",
+  "genero": [
+    "Drama"
+  ],
+  "servidores": [
+    {
+      "nombre": "Servidor 1",
+      "url": "https://gradehgplus.com/e/rwdjb4348ty7"
+    },
+    {
+      "nombre": "Servidor 2",
+      "url": "https://gradehgplus.com/e/rwdjb4348ty7"
+    }
+  ]
+}
