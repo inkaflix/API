@@ -1,0 +1,23 @@
+{
+  "titulo": "Las guerreras k-pop",
+  "sinopsis": "Cuando no están llenando estadios, las superestrellas del K-pop Rumi, Mira y Zoey usan sus poderes secretos para proteger a sus fans de una amenaza sobrenatural.",
+  "imagen_fondo": "https://image.tmdb.org/t/p/original/l3ycQYwWmbz7p8otwbomFDXIEhn.jpg",
+  "poster": "https://image.tmdb.org/t/p/original/swQRKmW7RLhncPYHvM0RHz8b7bT.jpg",
+  "genero": [
+    "Animación",
+    "Fantasía",
+    "Acción",
+    "Comedia",
+    "Música"
+  ],
+  "servidores": [
+    {
+      "nombre": "Servidor 1",
+      "url": "https://gradehgplus.com/e/e9ej6m69kz99"
+    },
+    {
+      "nombre": "Servidor 2",
+      "url": "https://gradehgplus.com/e/e9ej6m69kz99"
+    }
+  ]
+}
