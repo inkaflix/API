@@ -1,0 +1,33 @@
+{
+  "anime": {
+    "image": "https://image.tmdb.org/t/p/original/cdwldPawuTyVLJCzPfy2ZEXFAy8.jpg",
+    "type": "Serie",
+    "year": "2025",
+    "title": "Takopii no Genzai",
+    "description": "Takopii, una criatura del espacio, llega a la Tierra decidido a repartir felicidad. Conoce a Shizuka, una niña que sufre acoso escolar y vive en un hogar solitario. Takopii intenta animarla, pero su inocencia lo lleva a provocar consecuencias inesperadas mientras aprende sobre la complejidad de las emociones humanas.",
+    "score": "N/A",
+    "status": "En emisión",
+    "views": 819,
+    "alternative_titles": [
+      "Ye"
+    ],
+    "rating": "PG-13",
+    "tags": [
+      "Animación",
+      "Drama",
+      "Sci-Fi & Fantasy"
+    ],
+    "languages": [
+      "SubLat🇯🇵🇲🇽"
+    ]
+  },
+  "temporadas": {
+    "1": [
+      {
+        "numero": 1,
+        "fecha": "2025-06-28",
+        "url": "https://inkasercer.blogspot.com/2025/06/takopii-no-genzai-episodio-01.html"
+      }
+    ]
+  }
+}
