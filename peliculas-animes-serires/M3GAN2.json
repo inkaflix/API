@@ -1,0 +1,21 @@
+{
+  "titulo": "M3GAN 2.0",
+  "sinopsis": "Con el futuro de la existencia humana en juego, Gemma se da cuenta de que la única opción es resucitar a M3GAN y darle unas cuantas mejoras, haciéndola más rápida, más fuerte y más letal.",
+  "imagen_fondo": "https://image.tmdb.org/t/p/original/kyBOGOBUMdGWOhzECuosPSzoMpi.jpg",
+  "poster": "https://image.tmdb.org/t/p/original/fBgyUqyu3ioTSQjJJE5RFs2EG3B.jpg",
+  "genero": [
+    "Acción",
+    "Terror",
+    "Ciencia ficción"
+  ],
+  "servidores": [
+    {
+      "nombre": "Servidor 1",
+      "url": "https://gradehgplus.com/e/xkuwbuuz82zb"
+    },
+    {
+      "nombre": "Servidor 2",
+      "url": "https://gradehgplus.com/e/xkuwbuuz82zb"
+    }
+  ]
+}
