@@ -1,0 +1,58 @@
+{
+  "anime": {
+    "image": "https://image.tmdb.org/t/p/original/87mebbBtoWzHV0kILgV6M7yIfun.jpg",
+    "type": "Serie",
+    "year": "2021",
+    "title": "El juego del calamar",
+    "description": "Cientos de personas con problemas de dinero aceptan una invitación rarísima para competir en juegos infantiles. Dentro los esperan un tentador premio y desafíos letales.",
+    "score": "7.9",
+    "status": "Finalizado",
+    "views": 72862,
+    "alternative_titles": [
+      "Juego del calamar 3"
+    ],
+    "rating": "PG-13",
+    "tags": [
+      "Action & Adventure",
+      "Misterio",
+      "Drama"
+    ],
+    "languages": [
+      "Lat🇲🇽"
+    ]
+  },
+  "temporadas": {
+    "3": [
+      {
+        "numero": 1,
+        "fecha": "2021-09-17",
+        "url": "https://luluvdo.com/e/85m5iyvmhn2v"
+      },
+      {
+        "numero": 2,
+        "fecha": "2021-09-24",
+        "url": "https://luluvdoo.com/e/iwh93tgj0e88"
+      },
+      {
+        "numero": 3,
+        "fecha": "2021-10-01",
+        "url": "https://luluvdoo.com/e/omw91ajlsdza"
+      },
+      {
+        "numero": 4,
+        "fecha": "2021-10-08",
+        "url": "https://luluvdoo.com/e/yg380nip4lmc"
+      },
+      {
+        "numero": 5,
+        "fecha": "2021-10-15",
+        "url": "https://luluvdoo.com/ci9jerrkgr7f"
+      },
+      {
+        "numero": 6,
+        "fecha": "2021-10-22",
+        "url": "https://luluvdoo.com/e/xbnl3yki5hjt"
+      }
+    ]
+  }
+}
