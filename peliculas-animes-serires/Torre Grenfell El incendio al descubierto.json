@@ -1,0 +1,39 @@
+{
+  "titulo": "Grenfell: Uncovered",
+  "sinopsis": "Supervivientes, testigos y expertos cuentan la historia del trágico incendio que envolvió un bloque de viviendas en Londres, y la investigación que siguió.",
+  "imagen_fondo": "https://image.tmdb.org/t/p/original/v6ebrYpYebaM3jPClvJR0IwtO9h.jpg",
+  "poster": "https://image.tmdb.org/t/p/original/2kjTyXPJUqGs1iAwL1nIEyj0rew.jpg",
+  "genero": [
+    "Documental"
+  ],
+  "servidores": [
+    {
+      "nombre": "Servidor 1",
+      "url": "https://gradehgplus.com/e/4142mv5ggtfq"
+    },
+    {
+      "nombre": "Servidor 2",
+      "url": "https://gradehgplus.com/e/4142mv5ggtfq"
+    },
+    {
+      "nombre": "Servidor 3",
+      "url": "https://gradehgplus.com/e/4142mv5ggtfq"
+    },
+    {
+      "nombre": "Servidor 4",
+      "url": "https://gradehgplus.com/e/4142mv5ggtfq"
+    },
+    {
+      "nombre": "Servidor 5",
+      "url": "https://gradehgplus.com/e/4142mv5ggtfq"
+    },
+    {
+      "nombre": "Servidor 6",
+      "url": "https://gradehgplus.com/e/4142mv5ggtfq"
+    },
+    {
+      "nombre": "Servidor 7",
+      "url": "https://gradehgplus.com/e/4142mv5ggtfq"
+    }
+  ]
+}
