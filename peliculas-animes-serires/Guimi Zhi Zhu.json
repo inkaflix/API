@@ -1,0 +1,38 @@
+{
+  "anime": {
+    "image": "https://image.tmdb.org/t/p/original/AdWWrcYKNXlpeWNJlmK4HCJ6Dj9.jpg",
+    "type": "Serie",
+    "year": "2025",
+    "title": "诡秘之主",
+    "description": "Sin descripción",
+    "score": "N/A",
+    "status": "En emisión",
+    "views": 0,
+    "alternative_titles": [
+      "Yesi"
+    ],
+    "rating": "PG-17",
+    "tags": [
+      "Animación",
+      "Misterio",
+      "Sci-Fi & Fantasy"
+    ],
+    "languages": [
+      "SubLat🇯🇵🇲🇽"
+    ]
+  },
+  "temporadas": {
+    "1": [
+      {
+        "numero": 1,
+        "fecha": "2025-06-28",
+        "url": "https://inkasercer.blogspot.com/2025/06/guimi-zhi-zhu-xiaochou-pian-lord-of.html"
+      },
+      {
+        "numero": 2,
+        "fecha": "2025-06-28",
+        "url": "https://inkasercer.blogspot.com/2025/06/guimi-zhi-zhu-xiaochou-pian-lord-of_27.html"
+      }
+    ]
+  }
+}
