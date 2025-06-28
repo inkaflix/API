@@ -1,0 +1,32 @@
+{
+  "anime": {
+    "image": "https://image.tmdb.org/t/p/original/2r9FBgk2VClX1O1TyuIC8z4R38i.jpg",
+    "type": "Serie",
+    "year": "2025",
+    "title": "Koujo Denka no Kateikyoushi",
+    "description": "Allen, un joven hechicero que falla el examen para la corte real, busca una vida sencilla en el campo. Sin embargo, acaba trabajando como tutor privado de Tina, la hija del poderoso duque Howard.",
+    "score": "N/A",
+    "status": "En emisión",
+    "views": 0,
+    "alternative_titles": [
+      "Koujo Denka no Kateikyoushi"
+    ],
+    "rating": "PG-15 ",
+    "tags": [
+      "Animación",
+      "Sci-Fi & Fantasy"
+    ],
+    "languages": [
+      "SubLat🇲🇽🇯🇵"
+    ]
+  },
+  "temporadas": {
+    "1": [
+      {
+        "numero": 1,
+        "fecha": "2025-07-05",
+        "url": "https://inkasercer.blogspot.com/2025/06/koujo-denka-no-kateikyoushi-episodio-01.html"
+      }
+    ]
+  }
+}
