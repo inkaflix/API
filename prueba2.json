@@ -1,5 +1,17 @@
 [
-  { "titulo": "Arifureta", "episodio": "T3 E13", "imagen": "https://placehold.co/160x90?text=Arifureta+E13" },
-  { "titulo": "Medaka", "episodio": "T1 E7", "imagen": "https://placehold.co/160x90?text=Medaka+E7" },
-  { "titulo": "Solo Leveling", "episodio": "T1 E12", "imagen": "https://placehold.co/160x90?text=Solo+E12" }
+  {
+    "titulo": "Solo Leveling",
+    "episodio": "T1 E12",
+    "imagen": "https://placehold.co/160x90?text=Solo+E12"
+  },
+  {
+    "titulo": "Arifureta",
+    "episodio": "T3 E13",
+    "imagen": "https://placehold.co/160x90?text=Arifureta+E13"
+  },
+  {
+    "titulo": "Medaka",
+    "episodio": "T1 E7",
+    "imagen": "https://placehold.co/160x90?text=Medaka+E7"
+  }
 ]
