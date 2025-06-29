@@ -1,5 +1,23 @@
 [
-  { "titulo": "Bestia Sagrada", "descripcion": "Ángeles caídos desatan el caos...", "imagen": "https://placehold.co/800x200?text=Slide+1" },
-  { "titulo": "Solo Leveling", "descripcion": "Del más débil al más fuerte...", "imagen": "https://placehold.co/800x200?text=Slide+2" },
-  { "titulo": "Kimetsu no Yaiba", "descripcion": "Tanjiro lucha contra demonios...", "imagen": "https://placehold.co/800x200?text=Slide+3" }
+  {
+    "titulo": "Solo Leveling",
+    "descripcion": "Del más débil al más fuerte...",
+    "imagen": "https://placehold.co/800x200?text=Solo+Leveling",
+    "ver": "#ver-solo",
+    "info": "#info-solo"
+  },
+  {
+    "titulo": "Kimetsu no Yaiba",
+    "descripcion": "Tanjiro lucha contra demonios...",
+    "imagen": "https://placehold.co/800x200?text=Kimetsu+no+Yaiba",
+    "ver": "#ver-kimetsu",
+    "info": "#info-kimetsu"
+  },
+  {
+    "titulo": "Jujutsu Kaisen",
+    "descripcion": "Peleas sobrenaturales y acción",
+    "imagen": "https://placehold.co/800x200?text=Jujutsu+Kaisen",
+    "ver": "#ver-jujutsu",
+    "info": "#info-jujutsu"
+  }
 ]
