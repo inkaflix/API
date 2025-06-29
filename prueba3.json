@@ -1,21 +1,5 @@
-{
-  "title": "Mahoutsukai no Yome: Nishi no Shounen to Seiran no Kishi",
-  "image": "https://image.tmdb.org/t/p/original/gffVOVZ2Y9cmVIZ26Gt9ByMGCYH.jpg",
-  "type": "OVA",
-  "year": 2021,
-  "tags": ["Drama", "Fantasía", "Mitológico", "Shounen"],
-  "languages": ["Subtitulado", "Latino"],
-  "description": "Gabriel, un niño común que se acaba de mudar de Londres, vio una voluta de humo púrpura desde la ventana de su casa. En ese momento, persiguió apresuradamente el humo...",
-  "score": 7.56,
-  "status": "Finalizado",
-  "views": 8400,
-  "alternative_titles": [
-    "魔法使いの嫁 西の少年と青嵐の騎士",
-    "The Ancient Magus' Bride: The Boy from the West and the Knight of the Blue Storm",
-    "The Ancient Magus' Bride OVA",
-    "Mahoutsukai no Yome OVA",
-    "Mahoutsuaki no Yome OAD",
-    "Mahoyome"
-  ],
-  "rating": "Adolescentes de 13 años o más"
-}
+[
+  { "titulo": "Bestia Sagrada", "descripcion": "Ángeles caídos desatan el caos...", "imagen": "https://placehold.co/800x200?text=Slide+1" },
+  { "titulo": "Solo Leveling", "descripcion": "Del más débil al más fuerte...", "imagen": "https://placehold.co/800x200?text=Slide+2" },
+  { "titulo": "Kimetsu no Yaiba", "descripcion": "Tanjiro lucha contra demonios...", "imagen": "https://placehold.co/800x200?text=Slide+3" }
+]
