@@ -1,23 +1,17 @@
 [
   {
-    "titulo": "Solo Leveling",
-    "descripcion": "Del más débil al más fuerte...",
-    "imagen": "https://placehold.co/800x200?text=Solo+Leveling",
-    "ver": "#ver-solo",
-    "info": "#info-solo"
+    "titulo": "Koujo Denka no Kateikyoushi",
+    "enlace": "https://playerinka.blogspot.com/p/koujo-denka-no-kateikyoushi.html",
+    "imagen": "https://image.tmdb.org/t/p/w300/kRtR5jUcKHeTM0JzaF9SbwI5FD.jpg"
   },
   {
-    "titulo": "Kimetsu no Yaiba",
-    "descripcion": "Tanjiro lucha contra demonios...",
-    "imagen": "https://placehold.co/800x200?text=Kimetsu+no+Yaiba",
-    "ver": "#ver-kimetsu",
-    "info": "#info-kimetsu"
+    "titulo": "Dragon Ball Z",
+    "enlace": "https://playerinka.blogspot.com/p/dbz.html",
+    "imagen": "https://placehold.co/120x180?text=DBZ"
   },
   {
-    "titulo": "Jujutsu Kaisen",
-    "descripcion": "Peleas sobrenaturales y acción",
-    "imagen": "https://placehold.co/800x200?text=Jujutsu+Kaisen",
-    "ver": "#ver-jujutsu",
-    "info": "#info-jujutsu"
+    "titulo": "Naruto",
+    "enlace": "https://playerinka.blogspot.com/p/naruto.html",
+    "imagen": "https://placehold.co/120x180?text=Naruto"
   }
 ]
