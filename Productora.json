@@ -1,0 +1,32 @@
+[
+  {
+    "gif": "https://experiences.espn.com/_vercel/image?url=_astro%2FESPN_EXPERIENCES.CCTezmhq.gif&w=750&q=100",
+    "img": "https://www.telegratishd.com/imge/espnpremium.png",
+    "alt": "Disney",
+    "link": "/search/label/Disney"
+  },
+  {
+    "gif": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOSjMxbjuW0ozLFLiRDsJWGxdWMJNI3n7sjF7f3nfS_AMLGKVhX-iYHVKaLAF_u67MBla4EjSKwsEVFSJg8KDtWmozfEPeVKnFdOZvt6dL8W7xbyIHN3DrUNSsiN83YzG1DDqx3gS4_T34sthnJuIGCmHdvZW2DVGaiybTc-ee9E51bOXaegsF3ZEQ/s1600/netflix-gif.gif",
+    "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigIEB6a2Q_JDQ3C384p-M2-T7hYxkGdZ17FhEUE8rcGtsaq7SqG7e7C4rEUxHV-ZwzRdJgUDiNDre1cDDK9yzx7CL53ofD0vW62D-74Ay7IVtNVB_9jyufBUkBdJXpO65GVhD70yEYevSAa3fqTZv7M8jZYqhbED7e3j2_8DuRhTazsoD5to0QTlHp/s1600/netflix.png",
+    "alt": "Netflix",
+    "link": "/search/label/Netflix"
+  },
+  {
+    "gif": "https://64.media.tumblr.com/18896bbc6118daba060216e10c51ea00/4ef90f15da1b1578-78/s540x810/0a6106c19fd685d421138ecb8ae3d0b7ce0bb8e0.gif",
+    "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9PnzV5ErKo868xacWQ-tNx_JqQeP61un45wANWxeV5i_ixuaglmBPmJ0AtwGvGe9ZvQs9Q0rt-tu6NBtXWy4GSGKqqnwjgE8sVOlxwplWgbvZgycgoC4S3WHyh5YdBwNBxj7nn-PP1Hkgux4d-J7nsuIkVWJziGdXEqlu7Rd-xId7NjF-GqjZuT0ifcV6/s320/Max_logo.webp",
+    "alt": "Max",
+    "link": "/search/label/Max"
+  },
+  {
+    "gif": "https://miro.medium.com/v2/resize:fit:1200/1*m0HdLHWaNlu5oV4e3ZwnFg.gif",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Amazon_Prime_Video_logo.svg/1200px-Amazon_Prime_Video_logo.svg.png",
+    "alt": "Amazon",
+    "link": "/search/label/Amazon"
+  },
+  {
+    "gif": "https://image.tmdb.org/t/p/original/aQ5nvQGT6mM6TliOM5iSgrKVF4C.jpg",
+    "img": "https://hyken.com/wp-content/uploads/2023/01/Apple-TV-Logo-2019-present.png",
+    "alt": "Apple TV",
+    "link": "/search/label/Apple"
+  }
+]
